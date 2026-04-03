@@ -1,0 +1,3683 @@
+ticket_id,account_id,created_date,category,priority,resolution_hours,resolved
+T000001,A00002,2024-04-30,Onboarding Help,Low,,No
+T000002,A00002,2023-06-24,Performance,Medium,76,Yes
+T000003,A00003,2024-09-20,Onboarding Help,Critical,8,Yes
+T000004,A00003,2024-08-26,Performance,Critical,5,Yes
+T000005,A00003,2024-07-17,Bug Report,Low,76,Yes
+T000006,A00004,2024-06-22,Billing,Medium,,No
+T000007,A00004,2024-09-27,Performance,Critical,3,Yes
+T000008,A00005,2024-06-07,Onboarding Help,High,,No
+T000009,A00005,2024-06-07,Performance,Medium,29,Yes
+T000010,A00005,2024-06-23,Onboarding Help,Critical,2,Yes
+T000011,A00005,2024-12-20,Billing,Medium,90,Yes
+T000012,A00005,2024-03-08,Billing,Low,119,Yes
+T000013,A00005,2024-04-12,Onboarding Help,Low,35,Yes
+T000014,A00005,2024-08-08,Integration Issue,High,6,Yes
+T000015,A00005,2024-11-30,Billing,Medium,58,Yes
+T000016,A00006,2024-09-20,Billing,Low,127,Yes
+T000017,A00006,2024-10-11,Billing,Critical,6,Yes
+T000018,A00007,2024-05-14,Billing,Medium,41,Yes
+T000019,A00007,2024-03-15,Feature Request,High,15,Yes
+T000020,A00008,2024-03-18,Integration Issue,Medium,38,Yes
+T000021,A00008,2024-12-21,Onboarding Help,Medium,41,Yes
+T000022,A00008,2023-12-08,Feature Request,Medium,30,Yes
+T000023,A00011,2024-12-05,Performance,Low,149,Yes
+T000024,A00011,2024-11-06,Integration Issue,Medium,93,Yes
+T000025,A00011,2024-11-14,Performance,Low,,No
+T000026,A00012,2024-07-17,Billing,High,,No
+T000027,A00012,2024-05-04,Feature Request,Medium,28,Yes
+T000028,A00012,2024-11-08,Feature Request,Low,130,Yes
+T000029,A00012,2024-02-08,Onboarding Help,Critical,3,Yes
+T000030,A00012,2024-09-03,Integration Issue,Low,156,Yes
+T000031,A00012,2024-02-12,Billing,High,,No
+T000032,A00013,2024-09-23,Billing,Low,67,Yes
+T000033,A00013,2024-12-28,Feature Request,Medium,91,Yes
+T000034,A00013,2024-11-02,Integration Issue,Low,104,Yes
+T000035,A00014,2024-11-19,Onboarding Help,Medium,89,Yes
+T000036,A00016,2024-11-07,Onboarding Help,High,31,Yes
+T000037,A00016,2024-09-25,Performance,Medium,29,Yes
+T000038,A00018,2024-10-14,Onboarding Help,Low,166,Yes
+T000039,A00018,2024-10-14,Performance,Medium,23,Yes
+T000040,A00018,2024-09-07,Performance,Low,112,Yes
+T000041,A00018,2024-10-05,Performance,Medium,20,Yes
+T000042,A00018,2024-09-25,Bug Report,Medium,20,Yes
+T000043,A00019,2024-08-20,Billing,Low,136,Yes
+T000044,A00019,2024-02-20,Performance,Low,,No
+T000045,A00020,2024-03-01,Feature Request,Medium,71,Yes
+T000046,A00020,2024-04-16,Onboarding Help,Medium,24,Yes
+T000047,A00020,2024-03-23,Onboarding Help,Low,,No
+T000048,A00020,2024-06-25,Bug Report,Medium,63,Yes
+T000049,A00020,2024-04-21,Bug Report,Medium,33,Yes
+T000050,A00020,2024-04-02,Onboarding Help,Critical,2,Yes
+T000051,A00020,2024-08-14,Bug Report,High,42,Yes
+T000052,A00020,2024-12-19,Performance,Critical,5,Yes
+T000053,A00020,2024-05-15,Performance,Critical,6,Yes
+T000054,A00020,2024-11-17,Onboarding Help,Low,129,Yes
+T000055,A00020,2024-04-21,Performance,Medium,65,Yes
+T000056,A00020,2024-04-17,Billing,Critical,6,Yes
+T000057,A00021,2023-11-15,Feature Request,Low,110,Yes
+T000058,A00021,2024-07-02,Onboarding Help,Medium,70,Yes
+T000059,A00021,2024-07-15,Billing,Medium,88,Yes
+T000060,A00021,2024-03-23,Integration Issue,Medium,67,Yes
+T000061,A00021,2023-09-04,Onboarding Help,Critical,8,Yes
+T000062,A00021,2023-11-18,Feature Request,High,28,Yes
+T000063,A00021,2024-05-14,Billing,Medium,94,Yes
+T000064,A00022,2024-03-08,Onboarding Help,Low,76,Yes
+T000065,A00023,2024-07-02,Feature Request,Low,95,Yes
+T000066,A00023,2024-10-13,Bug Report,Medium,31,Yes
+T000067,A00024,2024-11-02,Billing,Critical,5,Yes
+T000068,A00025,2024-11-06,Bug Report,Low,159,Yes
+T000069,A00025,2024-10-24,Onboarding Help,Critical,2,Yes
+T000070,A00025,2024-10-18,Bug Report,Low,149,Yes
+T000071,A00027,2024-12-28,Feature Request,Medium,94,Yes
+T000072,A00027,2024-12-13,Bug Report,Low,78,Yes
+T000073,A00028,2024-11-30,Billing,Medium,60,Yes
+T000074,A00029,2024-01-25,Onboarding Help,Low,91,Yes
+T000075,A00029,2024-02-07,Feature Request,Low,115,Yes
+T000076,A00029,2024-02-05,Integration Issue,Medium,23,Yes
+T000077,A00029,2024-06-12,Feature Request,Critical,2,Yes
+T000078,A00029,2024-03-04,Feature Request,Low,,No
+T000079,A00029,2024-05-10,Onboarding Help,Critical,2,Yes
+T000080,A00029,2024-09-04,Billing,Medium,24,Yes
+T000081,A00031,2024-05-11,Integration Issue,Low,56,Yes
+T000082,A00031,2024-06-12,Bug Report,High,39,Yes
+T000083,A00031,2024-12-17,Billing,Low,157,Yes
+T000084,A00031,2024-04-13,Integration Issue,Low,55,Yes
+T000085,A00031,2024-11-14,Integration Issue,Medium,16,Yes
+T000086,A00031,2024-10-26,Integration Issue,Critical,4,Yes
+T000087,A00031,2024-05-10,Feature Request,Low,132,Yes
+T000088,A00032,2024-12-20,Bug Report,Medium,30,Yes
+T000089,A00032,2024-01-16,Onboarding Help,Medium,52,Yes
+T000090,A00032,2023-08-17,Performance,Low,123,Yes
+T000091,A00033,2024-12-20,Performance,Medium,,No
+T000092,A00033,2024-11-06,Performance,Medium,76,Yes
+T000093,A00033,2024-12-27,Onboarding Help,Medium,50,Yes
+T000094,A00035,2024-12-08,Performance,Medium,,No
+T000095,A00036,2024-12-04,Feature Request,Medium,50,Yes
+T000096,A00036,2024-12-11,Integration Issue,Low,148,Yes
+T000097,A00036,2023-08-07,Bug Report,High,42,Yes
+T000098,A00036,2023-08-11,Bug Report,Low,26,Yes
+T000099,A00036,2023-10-26,Billing,Medium,,No
+T000100,A00037,2024-09-23,Integration Issue,High,,No
+T000101,A00037,2024-10-18,Bug Report,Medium,58,Yes
+T000102,A00038,2024-07-08,Bug Report,Medium,,No
+T000103,A00038,2024-09-23,Billing,Medium,30,Yes
+T000104,A00038,2024-12-13,Integration Issue,Low,38,Yes
+T000105,A00040,2024-11-20,Billing,Critical,1,Yes
+T000106,A00040,2024-10-19,Performance,Medium,,No
+T000107,A00041,2024-07-24,Performance,Medium,18,Yes
+T000108,A00041,2024-07-20,Performance,Low,63,Yes
+T000109,A00041,2024-12-12,Billing,Medium,65,Yes
+T000110,A00041,2024-09-03,Onboarding Help,Low,,No
+T000111,A00041,2024-09-27,Integration Issue,Low,117,Yes
+T000112,A00041,2024-12-08,Bug Report,Medium,,No
+T000113,A00042,2024-01-30,Integration Issue,Low,,No
+T000114,A00043,2024-01-11,Bug Report,Low,53,Yes
+T000115,A00043,2024-09-16,Integration Issue,Low,64,Yes
+T000116,A00045,2024-03-23,Performance,High,,No
+T000117,A00045,2024-11-07,Onboarding Help,Low,132,Yes
+T000118,A00045,2024-02-21,Bug Report,Low,39,Yes
+T000119,A00046,2024-04-09,Performance,Low,79,Yes
+T000120,A00046,2024-04-10,Billing,Low,167,Yes
+T000121,A00046,2023-10-26,Onboarding Help,Medium,59,Yes
+T000122,A00046,2024-09-01,Performance,Medium,,No
+T000123,A00046,2024-02-03,Integration Issue,Medium,34,Yes
+T000124,A00046,2023-09-12,Integration Issue,Low,35,Yes
+T000125,A00046,2024-12-05,Feature Request,Medium,76,Yes
+T000126,A00047,2023-11-29,Performance,Low,87,Yes
+T000127,A00047,2024-02-10,Integration Issue,Medium,23,Yes
+T000128,A00047,2024-10-12,Onboarding Help,Medium,68,Yes
+T000129,A00047,2023-10-29,Feature Request,Medium,59,Yes
+T000130,A00047,2023-12-30,Billing,High,12,Yes
+T000131,A00047,2024-06-30,Integration Issue,Low,162,Yes
+T000132,A00047,2023-11-21,Bug Report,Medium,68,Yes
+T000133,A00047,2023-12-10,Feature Request,High,30,Yes
+T000134,A00047,2023-07-14,Integration Issue,High,45,Yes
+T000135,A00047,2024-07-20,Bug Report,Low,54,Yes
+T000136,A00047,2023-08-30,Onboarding Help,Critical,1,Yes
+T000137,A00048,2024-10-27,Bug Report,Medium,58,Yes
+T000138,A00050,2024-12-17,Performance,Medium,45,Yes
+T000139,A00051,2023-09-12,Integration Issue,High,19,Yes
+T000140,A00051,2024-10-27,Feature Request,Low,98,Yes
+T000141,A00051,2024-03-05,Billing,Medium,63,Yes
+T000142,A00051,2024-08-24,Billing,Low,36,Yes
+T000143,A00051,2024-11-02,Integration Issue,Low,63,Yes
+T000144,A00051,2024-08-26,Feature Request,Low,154,Yes
+T000145,A00051,2024-01-04,Performance,Low,31,Yes
+T000146,A00052,2024-05-22,Integration Issue,Critical,6,Yes
+T000147,A00052,2024-09-12,Integration Issue,Medium,,No
+T000148,A00053,2023-11-24,Integration Issue,Medium,38,Yes
+T000149,A00054,2024-06-17,Feature Request,Low,130,Yes
+T000150,A00057,2024-12-30,Performance,Medium,42,Yes
+T000151,A00059,2023-04-27,Billing,Medium,20,Yes
+T000152,A00059,2023-10-30,Billing,Medium,54,Yes
+T000153,A00060,2024-10-19,Performance,High,31,Yes
+T000154,A00060,2024-09-19,Integration Issue,Medium,70,Yes
+T000155,A00060,2024-11-19,Performance,Low,90,Yes
+T000156,A00062,2024-11-23,Onboarding Help,Low,37,Yes
+T000157,A00062,2024-11-09,Integration Issue,Medium,92,Yes
+T000158,A00063,2023-11-10,Billing,Low,77,Yes
+T000159,A00063,2024-06-17,Integration Issue,Medium,85,Yes
+T000160,A00063,2023-10-28,Integration Issue,Medium,,No
+T000161,A00063,2024-10-12,Onboarding Help,Low,101,Yes
+T000162,A00063,2024-08-17,Performance,Medium,27,Yes
+T000163,A00063,2024-04-05,Onboarding Help,Low,102,Yes
+T000164,A00063,2024-04-26,Bug Report,Medium,78,Yes
+T000165,A00063,2024-08-14,Billing,High,,No
+T000166,A00063,2024-10-06,Integration Issue,Low,,No
+T000167,A00063,2024-08-24,Performance,Medium,74,Yes
+T000168,A00063,2024-02-07,Billing,Low,138,Yes
+T000169,A00064,2024-07-23,Onboarding Help,Low,43,Yes
+T000170,A00065,2024-08-24,Performance,High,,No
+T000171,A00066,2024-02-26,Performance,Low,68,Yes
+T000172,A00066,2024-09-29,Feature Request,Medium,16,Yes
+T000173,A00066,2023-12-23,Onboarding Help,High,35,Yes
+T000174,A00066,2024-07-27,Billing,Low,167,Yes
+T000175,A00066,2023-12-02,Bug Report,Low,24,Yes
+T000176,A00066,2024-02-22,Feature Request,Medium,74,Yes
+T000177,A00066,2024-01-08,Onboarding Help,Low,58,Yes
+T000178,A00067,2024-08-27,Billing,Low,124,Yes
+T000179,A00067,2024-09-26,Integration Issue,Medium,27,Yes
+T000180,A00067,2023-09-28,Billing,Critical,6,Yes
+T000181,A00067,2024-03-01,Performance,Low,55,Yes
+T000182,A00070,2024-10-27,Billing,Medium,51,Yes
+T000183,A00070,2024-02-14,Billing,High,31,Yes
+T000184,A00071,2023-03-01,Bug Report,Critical,8,Yes
+T000185,A00071,2023-03-07,Onboarding Help,Low,57,Yes
+T000186,A00071,2024-01-25,Performance,Medium,78,Yes
+T000187,A00072,2024-12-29,Bug Report,Medium,24,Yes
+T000188,A00072,2024-12-25,Bug Report,Medium,96,Yes
+T000189,A00072,2024-12-29,Feature Request,Low,118,Yes
+T000190,A00072,2024-11-25,Feature Request,Medium,64,Yes
+T000191,A00075,2024-01-05,Billing,Medium,77,Yes
+T000192,A00076,2023-10-10,Performance,Medium,23,Yes
+T000193,A00076,2024-07-12,Performance,Medium,30,Yes
+T000194,A00078,2024-12-21,Bug Report,Low,,No
+T000195,A00080,2024-01-29,Feature Request,High,7,Yes
+T000196,A00080,2024-03-06,Integration Issue,Medium,,No
+T000197,A00081,2024-12-16,Integration Issue,High,24,Yes
+T000198,A00082,2023-10-13,Onboarding Help,Low,102,Yes
+T000199,A00082,2024-07-20,Billing,Low,120,Yes
+T000200,A00083,2024-06-14,Bug Report,Medium,,No
+T000201,A00084,2024-12-24,Onboarding Help,High,13,Yes
+T000202,A00084,2024-12-23,Performance,Medium,20,Yes
+T000203,A00084,2024-12-28,Billing,Medium,88,Yes
+T000204,A00085,2024-10-01,Feature Request,Critical,,No
+T000205,A00085,2024-02-24,Performance,Medium,,No
+T000206,A00085,2023-09-26,Onboarding Help,High,47,Yes
+T000207,A00086,2024-06-15,Integration Issue,Critical,2,Yes
+T000208,A00087,2024-04-14,Onboarding Help,Medium,42,Yes
+T000209,A00087,2023-10-23,Bug Report,High,46,Yes
+T000210,A00088,2024-09-22,Integration Issue,Medium,71,Yes
+T000211,A00088,2024-08-12,Onboarding Help,Medium,20,Yes
+T000212,A00088,2023-08-17,Billing,Low,145,Yes
+T000213,A00089,2024-12-20,Performance,Low,145,Yes
+T000214,A00089,2024-12-12,Performance,Low,106,Yes
+T000215,A00090,2024-12-05,Integration Issue,Medium,49,Yes
+T000216,A00090,2024-11-16,Feature Request,Medium,63,Yes
+T000217,A00090,2024-12-27,Bug Report,Medium,87,Yes
+T000218,A00090,2024-12-04,Performance,Low,44,Yes
+T000219,A00091,2024-03-29,Billing,High,22,Yes
+T000220,A00091,2024-03-24,Billing,Medium,57,Yes
+T000221,A00091,2024-02-16,Onboarding Help,Low,99,Yes
+T000222,A00091,2024-04-03,Performance,Low,60,Yes
+T000223,A00091,2024-03-27,Onboarding Help,Medium,57,Yes
+T000224,A00091,2023-09-26,Feature Request,Critical,,No
+T000225,A00092,2023-08-19,Feature Request,Low,52,Yes
+T000226,A00092,2023-08-04,Feature Request,Low,,No
+T000227,A00093,2024-04-17,Performance,Medium,83,Yes
+T000228,A00093,2023-08-30,Feature Request,Medium,42,Yes
+T000229,A00093,2024-02-02,Feature Request,Medium,70,Yes
+T000230,A00093,2023-12-10,Feature Request,Medium,36,Yes
+T000231,A00093,2023-04-14,Feature Request,Low,47,Yes
+T000232,A00093,2023-11-23,Feature Request,Critical,6,Yes
+T000233,A00093,2024-05-29,Bug Report,Medium,15,Yes
+T000234,A00093,2024-03-11,Bug Report,High,,No
+T000235,A00093,2023-10-01,Bug Report,Medium,,No
+T000236,A00093,2023-10-20,Bug Report,Low,50,Yes
+T000237,A00093,2024-03-17,Bug Report,High,43,Yes
+T000238,A00093,2023-06-02,Performance,Critical,8,Yes
+T000239,A00093,2024-11-23,Bug Report,High,,No
+T000240,A00093,2024-07-16,Bug Report,High,20,Yes
+T000241,A00094,2024-12-05,Integration Issue,Low,45,Yes
+T000242,A00094,2023-11-21,Integration Issue,Low,137,Yes
+T000243,A00095,2024-04-18,Performance,Critical,6,Yes
+T000244,A00095,2024-05-09,Bug Report,Low,67,Yes
+T000245,A00095,2024-07-11,Billing,Low,76,Yes
+T000246,A00095,2024-08-14,Feature Request,Medium,67,Yes
+T000247,A00095,2024-05-14,Integration Issue,Medium,77,Yes
+T000248,A00095,2024-09-01,Performance,Medium,,No
+T000249,A00095,2024-04-08,Performance,High,15,Yes
+T000250,A00095,2024-09-30,Billing,Low,56,Yes
+T000251,A00095,2024-11-12,Integration Issue,Low,145,Yes
+T000252,A00095,2024-11-12,Bug Report,Low,139,Yes
+T000253,A00096,2024-10-08,Bug Report,Low,44,Yes
+T000254,A00096,2024-08-19,Billing,Low,122,Yes
+T000255,A00096,2024-12-31,Bug Report,Critical,8,Yes
+T000256,A00097,2023-12-30,Feature Request,Low,46,Yes
+T000257,A00099,2024-09-20,Feature Request,Medium,32,Yes
+T000258,A00100,2024-05-23,Performance,High,34,Yes
+T000259,A00100,2024-07-26,Billing,Medium,,No
+T000260,A00100,2024-07-04,Feature Request,Critical,7,Yes
+T000261,A00100,2024-09-04,Onboarding Help,High,18,Yes
+T000262,A00100,2024-10-22,Billing,High,5,Yes
+T000263,A00101,2024-01-08,Bug Report,Low,,No
+T000264,A00101,2024-05-29,Onboarding Help,Medium,35,Yes
+T000265,A00101,2024-01-06,Bug Report,Low,143,Yes
+T000266,A00101,2023-09-20,Feature Request,Medium,37,Yes
+T000267,A00101,2023-11-27,Performance,Low,70,Yes
+T000268,A00101,2024-10-17,Performance,Medium,62,Yes
+T000269,A00101,2024-10-17,Onboarding Help,Medium,90,Yes
+T000270,A00101,2024-12-19,Integration Issue,High,44,Yes
+T000271,A00102,2024-12-06,Bug Report,Medium,47,Yes
+T000272,A00103,2024-08-22,Bug Report,Critical,7,Yes
+T000273,A00103,2024-12-06,Integration Issue,Medium,43,Yes
+T000274,A00103,2024-12-04,Performance,High,7,Yes
+T000275,A00104,2024-10-03,Feature Request,Low,160,Yes
+T000276,A00104,2024-12-14,Feature Request,Low,102,Yes
+T000277,A00106,2024-04-07,Integration Issue,Low,26,Yes
+T000278,A00106,2024-04-12,Integration Issue,High,,No
+T000279,A00106,2024-04-11,Bug Report,Medium,13,Yes
+T000280,A00107,2024-10-19,Billing,Critical,5,Yes
+T000281,A00107,2024-09-16,Bug Report,High,26,Yes
+T000282,A00108,2024-05-20,Integration Issue,Low,58,Yes
+T000283,A00108,2024-11-16,Billing,High,23,Yes
+T000284,A00108,2024-10-16,Feature Request,Medium,65,Yes
+T000285,A00108,2024-07-27,Performance,Low,73,Yes
+T000286,A00109,2024-12-21,Billing,Medium,91,Yes
+T000287,A00109,2024-12-12,Onboarding Help,Low,153,Yes
+T000288,A00109,2024-12-15,Onboarding Help,Low,78,Yes
+T000289,A00109,2024-12-13,Onboarding Help,Medium,52,Yes
+T000290,A00109,2024-12-10,Billing,Medium,69,Yes
+T000291,A00109,2024-12-12,Bug Report,Critical,8,Yes
+T000292,A00110,2023-11-15,Feature Request,Medium,82,Yes
+T000293,A00110,2024-08-23,Feature Request,High,36,Yes
+T000294,A00111,2024-11-29,Feature Request,Medium,44,Yes
+T000295,A00111,2024-10-11,Onboarding Help,Medium,,No
+T000296,A00111,2024-09-22,Onboarding Help,Low,163,Yes
+T000297,A00112,2024-02-21,Billing,Low,161,Yes
+T000298,A00112,2024-08-09,Billing,High,31,Yes
+T000299,A00115,2024-09-30,Feature Request,Medium,20,Yes
+T000300,A00116,2023-11-24,Bug Report,Low,,No
+T000301,A00116,2024-04-21,Feature Request,Medium,,No
+T000302,A00116,2024-05-22,Bug Report,Medium,,No
+T000303,A00117,2024-11-19,Feature Request,High,29,Yes
+T000304,A00117,2023-09-18,Integration Issue,Medium,25,Yes
+T000305,A00117,2024-01-07,Feature Request,High,31,Yes
+T000306,A00117,2024-03-13,Feature Request,Medium,91,Yes
+T000307,A00117,2024-01-02,Feature Request,High,34,Yes
+T000308,A00117,2024-06-24,Feature Request,Medium,81,Yes
+T000309,A00117,2024-11-12,Bug Report,Low,134,Yes
+T000310,A00117,2023-12-15,Billing,High,30,Yes
+T000311,A00118,2024-12-08,Performance,High,11,Yes
+T000312,A00119,2024-12-16,Onboarding Help,High,15,Yes
+T000313,A00120,2024-09-27,Onboarding Help,Medium,76,Yes
+T000314,A00120,2024-01-06,Onboarding Help,Medium,64,Yes
+T000315,A00120,2024-08-15,Bug Report,High,42,Yes
+T000316,A00120,2023-09-28,Billing,High,10,Yes
+T000317,A00120,2024-10-28,Bug Report,Low,166,Yes
+T000318,A00120,2024-07-29,Feature Request,Low,,No
+T000319,A00120,2024-12-23,Bug Report,Low,,No
+T000320,A00120,2024-06-07,Onboarding Help,Medium,71,Yes
+T000321,A00121,2024-06-25,Performance,High,10,Yes
+T000322,A00121,2023-10-26,Bug Report,Low,98,Yes
+T000323,A00121,2024-03-02,Onboarding Help,Low,93,Yes
+T000324,A00121,2024-02-05,Performance,Critical,8,Yes
+T000325,A00121,2024-12-29,Performance,Low,38,Yes
+T000326,A00121,2024-05-25,Billing,Critical,,No
+T000327,A00121,2024-08-25,Billing,Low,138,Yes
+T000328,A00121,2023-10-21,Onboarding Help,Low,35,Yes
+T000329,A00121,2023-05-16,Billing,Medium,,No
+T000330,A00121,2024-10-17,Performance,High,41,Yes
+T000331,A00121,2023-08-07,Integration Issue,Medium,78,Yes
+T000332,A00121,2023-10-31,Bug Report,Medium,38,Yes
+T000333,A00121,2023-12-22,Feature Request,Critical,6,Yes
+T000334,A00121,2024-04-29,Performance,Low,154,Yes
+T000335,A00122,2024-07-04,Bug Report,Medium,80,Yes
+T000336,A00122,2024-10-18,Integration Issue,High,5,Yes
+T000337,A00122,2024-05-13,Bug Report,Low,45,Yes
+T000338,A00124,2024-07-06,Bug Report,Low,89,Yes
+T000339,A00124,2024-12-02,Integration Issue,Medium,56,Yes
+T000340,A00124,2024-08-14,Feature Request,Medium,83,Yes
+T000341,A00124,2023-11-15,Billing,High,42,Yes
+T000342,A00124,2023-09-22,Bug Report,High,44,Yes
+T000343,A00125,2024-12-31,Onboarding Help,Low,39,Yes
+T000344,A00125,2024-12-25,Integration Issue,Medium,18,Yes
+T000345,A00125,2024-12-19,Bug Report,Medium,63,Yes
+T000346,A00127,2024-12-20,Integration Issue,Medium,61,Yes
+T000347,A00128,2024-12-28,Performance,High,38,Yes
+T000348,A00130,2023-05-31,Bug Report,Medium,53,Yes
+T000349,A00130,2024-11-25,Billing,High,,No
+T000350,A00131,2024-05-22,Billing,Medium,21,Yes
+T000351,A00131,2023-11-16,Onboarding Help,Low,26,Yes
+T000352,A00132,2024-12-02,Feature Request,Low,131,Yes
+T000353,A00132,2023-04-03,Feature Request,Low,115,Yes
+T000354,A00132,2024-09-21,Integration Issue,High,20,Yes
+T000355,A00132,2024-07-11,Performance,Medium,65,Yes
+T000356,A00132,2024-11-14,Bug Report,Low,,No
+T000357,A00132,2024-02-08,Feature Request,Low,154,Yes
+T000358,A00132,2024-06-27,Billing,Medium,46,Yes
+T000359,A00134,2024-03-06,Billing,Medium,,No
+T000360,A00135,2024-07-07,Billing,High,31,Yes
+T000361,A00137,2024-12-01,Billing,Medium,42,Yes
+T000362,A00137,2024-08-07,Onboarding Help,Medium,,No
+T000363,A00138,2024-08-09,Onboarding Help,High,,No
+T000364,A00138,2024-11-18,Feature Request,Medium,17,Yes
+T000365,A00139,2024-06-04,Feature Request,High,38,Yes
+T000366,A00139,2024-11-18,Billing,High,14,Yes
+T000367,A00139,2024-07-14,Performance,Medium,67,Yes
+T000368,A00139,2024-10-16,Integration Issue,Low,146,Yes
+T000369,A00141,2024-01-20,Feature Request,Medium,89,Yes
+T000370,A00141,2024-12-13,Billing,Critical,6,Yes
+T000371,A00141,2024-09-12,Bug Report,Low,130,Yes
+T000372,A00143,2024-11-02,Integration Issue,Medium,54,Yes
+T000373,A00143,2024-11-04,Onboarding Help,Critical,,No
+T000374,A00144,2023-11-26,Onboarding Help,Low,149,Yes
+T000375,A00144,2024-05-12,Billing,Medium,54,Yes
+T000376,A00145,2024-12-28,Billing,Medium,66,Yes
+T000377,A00145,2024-12-27,Bug Report,Medium,66,Yes
+T000378,A00146,2024-05-08,Integration Issue,Critical,4,Yes
+T000379,A00146,2024-09-17,Feature Request,High,32,Yes
+T000380,A00148,2024-08-13,Onboarding Help,Low,,No
+T000381,A00148,2024-10-21,Bug Report,Low,99,Yes
+T000382,A00148,2024-05-13,Billing,Low,88,Yes
+T000383,A00149,2024-12-27,Billing,Medium,32,Yes
+T000384,A00150,2024-08-12,Billing,Medium,,No
+T000385,A00150,2024-08-15,Onboarding Help,Critical,2,Yes
+T000386,A00150,2023-12-01,Billing,Medium,,No
+T000387,A00150,2024-02-20,Onboarding Help,Low,167,Yes
+T000388,A00150,2024-02-07,Feature Request,High,37,Yes
+T000389,A00150,2023-11-16,Performance,Medium,47,Yes
+T000390,A00150,2023-11-24,Billing,Critical,,No
+T000391,A00150,2024-04-13,Billing,Critical,3,Yes
+T000392,A00151,2024-01-24,Integration Issue,Medium,40,Yes
+T000393,A00151,2024-12-19,Onboarding Help,Medium,,No
+T000394,A00151,2024-09-22,Bug Report,Medium,25,Yes
+T000395,A00152,2023-09-15,Onboarding Help,Low,,No
+T000396,A00154,2024-06-09,Integration Issue,Critical,4,Yes
+T000397,A00155,2024-09-13,Billing,Medium,76,Yes
+T000398,A00155,2023-12-21,Onboarding Help,Medium,39,Yes
+T000399,A00155,2024-02-12,Onboarding Help,Medium,46,Yes
+T000400,A00157,2023-11-29,Feature Request,Medium,,No
+T000401,A00157,2023-12-01,Feature Request,Medium,92,Yes
+T000402,A00157,2024-05-09,Feature Request,High,,No
+T000403,A00158,2024-07-21,Performance,Low,32,Yes
+T000404,A00158,2023-02-01,Billing,High,28,Yes
+T000405,A00158,2023-04-30,Feature Request,Low,122,Yes
+T000406,A00158,2023-12-08,Feature Request,High,,No
+T000407,A00158,2023-06-08,Onboarding Help,Low,67,Yes
+T000408,A00158,2023-11-27,Billing,Medium,57,Yes
+T000409,A00158,2023-09-11,Bug Report,Critical,1,Yes
+T000410,A00159,2024-12-28,Bug Report,High,36,Yes
+T000411,A00159,2024-08-22,Performance,Low,100,Yes
+T000412,A00160,2024-09-04,Feature Request,High,13,Yes
+T000413,A00160,2024-11-15,Bug Report,Low,134,Yes
+T000414,A00160,2024-09-02,Integration Issue,High,33,Yes
+T000415,A00160,2024-10-29,Performance,Medium,14,Yes
+T000416,A00160,2024-07-31,Feature Request,Low,65,Yes
+T000417,A00160,2024-12-10,Billing,Medium,15,Yes
+T000418,A00160,2024-11-29,Onboarding Help,Low,168,Yes
+T000419,A00162,2024-08-26,Feature Request,Low,,No
+T000420,A00162,2024-07-22,Performance,Critical,,No
+T000421,A00162,2024-10-10,Feature Request,High,23,Yes
+T000422,A00162,2024-09-09,Onboarding Help,Low,51,Yes
+T000423,A00162,2024-12-28,Integration Issue,High,47,Yes
+T000424,A00162,2024-10-28,Integration Issue,Low,,No
+T000425,A00162,2024-12-08,Onboarding Help,High,19,Yes
+T000426,A00162,2024-11-24,Billing,High,21,Yes
+T000427,A00162,2024-08-17,Onboarding Help,Medium,72,Yes
+T000428,A00162,2024-08-28,Integration Issue,Low,56,Yes
+T000429,A00164,2024-12-13,Feature Request,Low,,No
+T000430,A00164,2024-10-28,Onboarding Help,Low,,No
+T000431,A00164,2024-11-16,Performance,High,26,Yes
+T000432,A00164,2024-11-11,Onboarding Help,High,,No
+T000433,A00164,2024-09-08,Billing,Medium,18,Yes
+T000434,A00164,2024-11-17,Performance,Medium,,No
+T000435,A00164,2024-10-15,Billing,High,,No
+T000436,A00164,2024-09-18,Performance,Medium,41,Yes
+T000437,A00165,2024-12-26,Integration Issue,Low,144,Yes
+T000438,A00165,2024-10-02,Billing,Medium,65,Yes
+T000439,A00165,2024-10-20,Feature Request,High,9,Yes
+T000440,A00165,2024-08-04,Billing,Low,141,Yes
+T000441,A00165,2024-10-06,Integration Issue,High,6,Yes
+T000442,A00165,2024-10-14,Bug Report,Low,45,Yes
+T000443,A00165,2024-08-16,Onboarding Help,Medium,,No
+T000444,A00165,2024-02-12,Bug Report,Critical,1,Yes
+T000445,A00165,2024-12-23,Billing,High,33,Yes
+T000446,A00165,2024-11-02,Performance,Low,,No
+T000447,A00165,2024-04-23,Onboarding Help,Low,136,Yes
+T000448,A00165,2024-03-05,Feature Request,Low,157,Yes
+T000449,A00165,2024-10-11,Onboarding Help,High,37,Yes
+T000450,A00165,2024-05-15,Onboarding Help,Medium,,No
+T000451,A00167,2023-11-25,Feature Request,Low,163,Yes
+T000452,A00167,2024-08-29,Bug Report,Medium,,No
+T000453,A00168,2024-07-03,Bug Report,Low,131,Yes
+T000454,A00168,2024-06-09,Onboarding Help,Medium,62,Yes
+T000455,A00168,2024-06-22,Performance,Low,150,Yes
+T000456,A00169,2023-11-23,Feature Request,High,27,Yes
+T000457,A00169,2024-10-04,Onboarding Help,Medium,16,Yes
+T000458,A00170,2023-09-14,Billing,Medium,68,Yes
+T000459,A00170,2023-11-02,Feature Request,Low,,No
+T000460,A00171,2024-07-21,Feature Request,Medium,12,Yes
+T000461,A00171,2024-06-11,Onboarding Help,Low,,No
+T000462,A00171,2024-06-26,Bug Report,Low,,No
+T000463,A00171,2023-10-09,Bug Report,Medium,69,Yes
+T000464,A00171,2024-02-21,Billing,Low,106,Yes
+T000465,A00171,2024-09-22,Integration Issue,Low,146,Yes
+T000466,A00171,2024-07-20,Bug Report,High,20,Yes
+T000467,A00171,2023-10-02,Bug Report,High,,No
+T000468,A00171,2024-01-19,Onboarding Help,Medium,80,Yes
+T000469,A00171,2024-09-19,Bug Report,Low,144,Yes
+T000470,A00172,2023-10-03,Performance,Low,134,Yes
+T000471,A00172,2023-09-27,Onboarding Help,High,44,Yes
+T000472,A00172,2023-09-21,Integration Issue,Low,,No
+T000473,A00172,2024-02-29,Integration Issue,Medium,71,Yes
+T000474,A00172,2024-12-09,Performance,High,48,Yes
+T000475,A00172,2024-06-08,Billing,Low,,No
+T000476,A00172,2023-08-18,Bug Report,High,28,Yes
+T000477,A00172,2023-08-11,Bug Report,Low,162,Yes
+T000478,A00174,2024-09-08,Billing,Medium,88,Yes
+T000479,A00174,2024-12-12,Bug Report,High,8,Yes
+T000480,A00174,2024-06-28,Integration Issue,Critical,7,Yes
+T000481,A00175,2024-12-21,Bug Report,Medium,22,Yes
+T000482,A00175,2024-12-12,Onboarding Help,High,21,Yes
+T000483,A00175,2024-12-22,Billing,Low,86,Yes
+T000484,A00176,2024-12-11,Integration Issue,Low,146,Yes
+T000485,A00176,2024-11-30,Billing,Low,,No
+T000486,A00178,2024-12-30,Feature Request,Critical,,No
+T000487,A00178,2024-10-04,Feature Request,Medium,16,Yes
+T000488,A00178,2024-12-09,Integration Issue,High,26,Yes
+T000489,A00178,2024-08-01,Feature Request,Low,105,Yes
+T000490,A00178,2024-11-16,Onboarding Help,High,,No
+T000491,A00178,2024-11-27,Performance,Low,158,Yes
+T000492,A00178,2024-07-28,Performance,Medium,88,Yes
+T000493,A00178,2024-12-04,Integration Issue,Medium,71,Yes
+T000494,A00179,2024-10-26,Billing,High,47,Yes
+T000495,A00180,2024-06-07,Bug Report,High,,No
+T000496,A00180,2024-04-23,Onboarding Help,Critical,4,Yes
+T000497,A00180,2024-07-14,Feature Request,Critical,8,Yes
+T000498,A00181,2023-12-10,Bug Report,Low,,No
+T000499,A00181,2024-06-08,Bug Report,Medium,25,Yes
+T000500,A00183,2024-08-05,Billing,Medium,27,Yes
+T000501,A00183,2024-07-01,Feature Request,Low,66,Yes
+T000502,A00183,2023-12-10,Performance,Low,,No
+T000503,A00186,2024-12-29,Integration Issue,Low,29,Yes
+T000504,A00186,2024-12-04,Onboarding Help,Medium,27,Yes
+T000505,A00187,2024-07-10,Feature Request,Medium,36,Yes
+T000506,A00187,2024-08-27,Performance,Medium,54,Yes
+T000507,A00187,2024-10-13,Bug Report,Low,75,Yes
+T000508,A00189,2024-02-12,Feature Request,High,9,Yes
+T000509,A00189,2024-03-08,Performance,Medium,54,Yes
+T000510,A00189,2023-08-03,Integration Issue,Low,130,Yes
+T000511,A00189,2024-02-15,Feature Request,Medium,92,Yes
+T000512,A00189,2023-12-26,Billing,High,46,Yes
+T000513,A00189,2024-09-01,Bug Report,Medium,42,Yes
+T000514,A00189,2024-04-14,Billing,Medium,71,Yes
+T000515,A00190,2024-04-26,Bug Report,Critical,8,Yes
+T000516,A00190,2024-12-17,Feature Request,Critical,,No
+T000517,A00190,2024-08-23,Integration Issue,Low,54,Yes
+T000518,A00191,2024-05-25,Bug Report,Critical,6,Yes
+T000519,A00192,2024-08-19,Integration Issue,Low,64,Yes
+T000520,A00193,2023-09-17,Integration Issue,Low,168,Yes
+T000521,A00194,2024-01-18,Onboarding Help,Low,24,Yes
+T000522,A00195,2024-08-06,Integration Issue,High,27,Yes
+T000523,A00196,2024-03-03,Bug Report,Medium,88,Yes
+T000524,A00196,2024-04-25,Billing,Medium,30,Yes
+T000525,A00197,2024-10-05,Performance,Medium,72,Yes
+T000526,A00197,2024-09-19,Onboarding Help,Low,44,Yes
+T000527,A00198,2024-06-24,Onboarding Help,Medium,49,Yes
+T000528,A00198,2024-06-25,Onboarding Help,Medium,17,Yes
+T000529,A00198,2024-10-24,Performance,Critical,6,Yes
+T000530,A00199,2024-12-13,Integration Issue,High,41,Yes
+T000531,A00199,2024-11-13,Feature Request,Low,,No
+T000532,A00199,2024-12-26,Performance,Low,145,Yes
+T000533,A00199,2024-08-02,Feature Request,High,15,Yes
+T000534,A00199,2024-06-06,Billing,Low,133,Yes
+T000535,A00199,2024-12-27,Integration Issue,Low,152,Yes
+T000536,A00199,2024-06-26,Onboarding Help,Medium,68,Yes
+T000537,A00199,2024-11-18,Feature Request,Low,,No
+T000538,A00200,2023-09-19,Integration Issue,Medium,74,Yes
+T000539,A00200,2024-07-14,Feature Request,Low,135,Yes
+T000540,A00201,2024-12-02,Onboarding Help,Medium,,No
+T000541,A00201,2024-11-17,Bug Report,Medium,,No
+T000542,A00201,2024-12-20,Integration Issue,High,16,Yes
+T000543,A00202,2024-12-13,Performance,Low,141,Yes
+T000544,A00202,2024-12-17,Performance,High,,No
+T000545,A00202,2024-12-23,Onboarding Help,Low,138,Yes
+T000546,A00202,2024-12-24,Performance,Critical,2,Yes
+T000547,A00202,2024-12-09,Onboarding Help,High,28,Yes
+T000548,A00202,2024-11-24,Integration Issue,High,24,Yes
+T000549,A00202,2024-11-29,Feature Request,Low,149,Yes
+T000550,A00202,2024-12-07,Performance,Medium,64,Yes
+T000551,A00203,2024-10-18,Performance,Medium,37,Yes
+T000552,A00203,2024-05-22,Performance,Low,91,Yes
+T000553,A00204,2024-11-04,Billing,Low,76,Yes
+T000554,A00204,2024-03-25,Integration Issue,Medium,74,Yes
+T000555,A00204,2024-02-21,Integration Issue,High,6,Yes
+T000556,A00205,2024-07-04,Integration Issue,Medium,,No
+T000557,A00206,2024-07-07,Feature Request,Medium,51,Yes
+T000558,A00208,2024-09-01,Bug Report,Low,36,Yes
+T000559,A00208,2024-06-22,Integration Issue,Medium,19,Yes
+T000560,A00208,2024-07-14,Performance,Low,41,Yes
+T000561,A00208,2024-08-11,Billing,Low,162,Yes
+T000562,A00208,2024-07-01,Bug Report,High,37,Yes
+T000563,A00208,2024-10-23,Billing,Medium,50,Yes
+T000564,A00208,2024-06-21,Onboarding Help,Low,88,Yes
+T000565,A00209,2024-12-13,Performance,Low,62,Yes
+T000566,A00209,2024-12-03,Bug Report,High,22,Yes
+T000567,A00209,2024-12-27,Billing,Medium,,No
+T000568,A00211,2024-07-15,Feature Request,Low,124,Yes
+T000569,A00211,2024-07-09,Feature Request,High,10,Yes
+T000570,A00211,2024-12-27,Billing,Critical,,No
+T000571,A00212,2023-11-27,Feature Request,High,38,Yes
+T000572,A00214,2024-07-03,Onboarding Help,Medium,31,Yes
+T000573,A00216,2024-07-06,Billing,High,23,Yes
+T000574,A00216,2024-08-28,Feature Request,Medium,46,Yes
+T000575,A00216,2024-03-10,Feature Request,High,,No
+T000576,A00216,2024-10-28,Performance,Critical,,No
+T000577,A00216,2024-11-24,Feature Request,Low,112,Yes
+T000578,A00216,2024-12-22,Bug Report,Medium,17,Yes
+T000579,A00216,2024-10-24,Feature Request,Medium,32,Yes
+T000580,A00216,2024-07-24,Feature Request,High,10,Yes
+T000581,A00216,2024-06-10,Integration Issue,High,,No
+T000582,A00216,2024-03-21,Performance,Medium,18,Yes
+T000583,A00216,2024-07-07,Feature Request,Low,124,Yes
+T000584,A00216,2024-03-29,Bug Report,Medium,,No
+T000585,A00217,2023-12-28,Performance,Medium,22,Yes
+T000586,A00217,2024-01-11,Feature Request,High,42,Yes
+T000587,A00218,2024-02-10,Integration Issue,High,36,Yes
+T000588,A00218,2024-08-19,Performance,High,,No
+T000589,A00218,2023-07-10,Integration Issue,Low,,No
+T000590,A00218,2024-01-17,Integration Issue,Low,127,Yes
+T000591,A00218,2024-02-27,Feature Request,High,46,Yes
+T000592,A00219,2024-09-25,Feature Request,High,44,Yes
+T000593,A00219,2024-10-04,Billing,Medium,62,Yes
+T000594,A00219,2024-09-16,Feature Request,Medium,41,Yes
+T000595,A00219,2024-10-09,Bug Report,High,,No
+T000596,A00219,2024-11-02,Integration Issue,High,,No
+T000597,A00219,2024-09-10,Billing,Critical,3,Yes
+T000598,A00219,2024-12-05,Feature Request,Low,36,Yes
+T000599,A00219,2024-11-11,Feature Request,Low,94,Yes
+T000600,A00219,2024-09-27,Onboarding Help,Low,117,Yes
+T000601,A00219,2024-12-03,Billing,Medium,65,Yes
+T000602,A00219,2024-11-07,Billing,Low,28,Yes
+T000603,A00220,2024-12-06,Feature Request,Low,29,Yes
+T000604,A00221,2024-12-30,Integration Issue,Critical,7,Yes
+T000605,A00221,2024-12-31,Onboarding Help,Critical,,No
+T000606,A00221,2024-12-30,Performance,Medium,80,Yes
+T000607,A00221,2024-12-30,Feature Request,Low,90,Yes
+T000608,A00221,2024-12-31,Billing,Critical,,No
+T000609,A00222,2024-09-28,Integration Issue,Low,154,Yes
+T000610,A00223,2024-12-14,Integration Issue,Medium,53,Yes
+T000611,A00223,2024-11-26,Bug Report,Medium,25,Yes
+T000612,A00224,2024-12-28,Performance,Low,36,Yes
+T000613,A00226,2023-05-20,Billing,Low,165,Yes
+T000614,A00228,2024-10-19,Bug Report,Medium,83,Yes
+T000615,A00229,2024-08-24,Billing,Low,139,Yes
+T000616,A00229,2024-08-30,Integration Issue,Low,57,Yes
+T000617,A00229,2024-01-16,Bug Report,High,14,Yes
+T000618,A00230,2024-07-16,Bug Report,Medium,,No
+T000619,A00230,2024-04-20,Integration Issue,Medium,18,Yes
+T000620,A00230,2024-12-04,Onboarding Help,Medium,13,Yes
+T000621,A00231,2024-11-01,Onboarding Help,Medium,70,Yes
+T000622,A00232,2024-12-18,Integration Issue,Medium,23,Yes
+T000623,A00232,2024-10-25,Feature Request,Low,86,Yes
+T000624,A00233,2024-06-12,Bug Report,Low,,No
+T000625,A00233,2024-03-24,Performance,Low,84,Yes
+T000626,A00233,2024-04-03,Bug Report,Medium,76,Yes
+T000627,A00234,2024-09-13,Bug Report,High,11,Yes
+T000628,A00236,2023-12-04,Feature Request,Critical,5,Yes
+T000629,A00236,2024-03-26,Feature Request,Medium,62,Yes
+T000630,A00236,2024-05-08,Integration Issue,Medium,66,Yes
+T000631,A00236,2024-12-23,Feature Request,Low,59,Yes
+T000632,A00236,2024-10-22,Billing,Medium,42,Yes
+T000633,A00236,2024-11-15,Onboarding Help,Medium,,No
+T000634,A00236,2024-10-06,Performance,Low,158,Yes
+T000635,A00236,2024-02-19,Billing,Medium,,No
+T000636,A00236,2024-06-20,Onboarding Help,High,38,Yes
+T000637,A00236,2023-12-09,Integration Issue,Critical,4,Yes
+T000638,A00236,2024-01-06,Feature Request,Medium,56,Yes
+T000639,A00236,2023-10-17,Integration Issue,Low,,No
+T000640,A00237,2024-12-28,Feature Request,High,35,Yes
+T000641,A00237,2024-12-29,Performance,Low,76,Yes
+T000642,A00237,2024-12-31,Bug Report,Medium,53,Yes
+T000643,A00238,2024-12-24,Integration Issue,Medium,14,Yes
+T000644,A00239,2024-11-03,Billing,Medium,27,Yes
+T000645,A00240,2023-09-09,Onboarding Help,Low,111,Yes
+T000646,A00243,2024-09-05,Bug Report,Medium,94,Yes
+T000647,A00243,2024-04-04,Performance,Low,79,Yes
+T000648,A00244,2023-07-05,Performance,Medium,49,Yes
+T000649,A00244,2024-04-02,Billing,Critical,2,Yes
+T000650,A00244,2024-06-29,Onboarding Help,Medium,65,Yes
+T000651,A00245,2024-04-29,Feature Request,Medium,64,Yes
+T000652,A00246,2024-07-31,Feature Request,Low,153,Yes
+T000653,A00248,2024-12-29,Feature Request,Low,,No
+T000654,A00248,2024-12-31,Integration Issue,Medium,19,Yes
+T000655,A00249,2023-11-25,Feature Request,Low,,No
+T000656,A00249,2024-03-03,Integration Issue,Medium,31,Yes
+T000657,A00250,2024-07-25,Billing,Low,96,Yes
+T000658,A00252,2024-10-06,Performance,Low,50,Yes
+T000659,A00252,2024-12-31,Performance,Low,145,Yes
+T000660,A00253,2024-11-04,Onboarding Help,High,41,Yes
+T000661,A00253,2024-10-09,Integration Issue,High,33,Yes
+T000662,A00255,2024-09-02,Integration Issue,Medium,43,Yes
+T000663,A00255,2024-05-04,Onboarding Help,Medium,78,Yes
+T000664,A00256,2024-12-24,Performance,High,7,Yes
+T000665,A00256,2024-12-21,Performance,Low,,No
+T000666,A00256,2024-12-26,Feature Request,High,22,Yes
+T000667,A00258,2023-12-25,Feature Request,High,31,Yes
+T000668,A00259,2024-12-20,Billing,Low,164,Yes
+T000669,A00259,2024-02-08,Bug Report,Medium,,No
+T000670,A00259,2023-12-07,Integration Issue,High,28,Yes
+T000671,A00259,2024-03-20,Bug Report,Low,140,Yes
+T000672,A00259,2024-04-06,Onboarding Help,Low,159,Yes
+T000673,A00259,2024-02-13,Feature Request,Medium,,No
+T000674,A00259,2024-04-25,Onboarding Help,Low,47,Yes
+T000675,A00260,2024-12-02,Bug Report,Low,50,Yes
+T000676,A00261,2024-06-11,Bug Report,Medium,53,Yes
+T000677,A00261,2024-09-13,Onboarding Help,Low,59,Yes
+T000678,A00263,2024-12-12,Onboarding Help,Low,99,Yes
+T000679,A00263,2023-09-07,Feature Request,High,37,Yes
+T000680,A00266,2023-09-28,Billing,High,46,Yes
+T000681,A00266,2023-06-04,Feature Request,Medium,53,Yes
+T000682,A00266,2024-04-05,Integration Issue,Low,129,Yes
+T000683,A00266,2023-05-15,Onboarding Help,Low,60,Yes
+T000684,A00266,2023-11-17,Onboarding Help,Medium,27,Yes
+T000685,A00266,2024-03-27,Performance,Medium,44,Yes
+T000686,A00267,2024-12-27,Onboarding Help,Medium,45,Yes
+T000687,A00267,2024-11-30,Billing,Medium,,No
+T000688,A00269,2024-02-20,Feature Request,Low,82,Yes
+T000689,A00270,2024-03-01,Bug Report,Low,28,Yes
+T000690,A00270,2024-07-19,Feature Request,Medium,,No
+T000691,A00270,2024-11-11,Feature Request,Medium,69,Yes
+T000692,A00270,2024-10-30,Bug Report,Medium,,No
+T000693,A00270,2024-10-23,Performance,Medium,60,Yes
+T000694,A00270,2023-12-07,Onboarding Help,Medium,88,Yes
+T000695,A00270,2023-12-05,Bug Report,Medium,23,Yes
+T000696,A00270,2024-11-18,Performance,Medium,35,Yes
+T000697,A00270,2023-05-30,Bug Report,High,8,Yes
+T000698,A00270,2024-02-01,Performance,Low,37,Yes
+T000699,A00271,2024-11-14,Feature Request,Medium,74,Yes
+T000700,A00271,2024-06-16,Performance,Medium,24,Yes
+T000701,A00271,2024-11-26,Bug Report,High,,No
+T000702,A00272,2024-12-31,Onboarding Help,High,48,Yes
+T000703,A00272,2024-12-12,Feature Request,Medium,23,Yes
+T000704,A00272,2024-12-16,Feature Request,Medium,,No
+T000705,A00273,2024-12-12,Feature Request,Low,110,Yes
+T000706,A00273,2023-06-27,Integration Issue,Low,73,Yes
+T000707,A00274,2024-01-14,Integration Issue,Medium,17,Yes
+T000708,A00274,2024-12-25,Feature Request,Medium,24,Yes
+T000709,A00274,2023-12-23,Bug Report,Medium,55,Yes
+T000710,A00274,2024-03-07,Bug Report,High,24,Yes
+T000711,A00274,2023-12-06,Integration Issue,Low,25,Yes
+T000712,A00274,2024-11-07,Bug Report,Low,32,Yes
+T000713,A00275,2024-09-14,Feature Request,Low,114,Yes
+T000714,A00277,2024-11-26,Integration Issue,Low,163,Yes
+T000715,A00278,2023-08-01,Integration Issue,Critical,3,Yes
+T000716,A00278,2024-11-26,Feature Request,Critical,5,Yes
+T000717,A00278,2024-03-09,Billing,Medium,64,Yes
+T000718,A00278,2023-04-14,Integration Issue,Low,46,Yes
+T000719,A00278,2024-05-21,Billing,Low,167,Yes
+T000720,A00278,2023-10-30,Onboarding Help,Low,30,Yes
+T000721,A00278,2023-08-21,Onboarding Help,Medium,,No
+T000722,A00278,2023-03-08,Integration Issue,Medium,,No
+T000723,A00280,2023-11-14,Billing,Medium,81,Yes
+T000724,A00280,2024-06-06,Feature Request,High,31,Yes
+T000725,A00280,2024-01-14,Billing,Medium,74,Yes
+T000726,A00280,2023-05-16,Billing,Low,115,Yes
+T000727,A00280,2024-06-14,Integration Issue,Medium,85,Yes
+T000728,A00280,2024-03-18,Performance,Medium,,No
+T000729,A00280,2023-09-13,Onboarding Help,Low,88,Yes
+T000730,A00280,2024-03-19,Billing,Medium,46,Yes
+T000731,A00280,2023-06-17,Performance,High,13,Yes
+T000732,A00280,2024-07-06,Integration Issue,Medium,77,Yes
+T000733,A00280,2024-05-10,Performance,High,,No
+T000734,A00280,2023-08-25,Onboarding Help,Critical,7,Yes
+T000735,A00280,2023-12-11,Integration Issue,Low,148,Yes
+T000736,A00280,2023-07-07,Billing,Medium,13,Yes
+T000737,A00280,2023-08-16,Feature Request,High,21,Yes
+T000738,A00281,2024-12-22,Billing,High,22,Yes
+T000739,A00282,2024-11-08,Integration Issue,Medium,,No
+T000740,A00282,2024-09-08,Feature Request,High,27,Yes
+T000741,A00282,2024-09-12,Bug Report,Medium,37,Yes
+T000742,A00283,2024-11-10,Bug Report,Low,141,Yes
+T000743,A00283,2024-06-29,Performance,Medium,45,Yes
+T000744,A00284,2024-11-17,Bug Report,Low,34,Yes
+T000745,A00284,2024-08-08,Bug Report,Medium,48,Yes
+T000746,A00284,2024-10-30,Integration Issue,Medium,15,Yes
+T000747,A00285,2024-12-22,Performance,Medium,,No
+T000748,A00286,2024-11-19,Onboarding Help,High,46,Yes
+T000749,A00286,2024-10-11,Feature Request,Medium,58,Yes
+T000750,A00286,2024-11-24,Billing,High,45,Yes
+T000751,A00288,2024-09-20,Performance,Medium,24,Yes
+T000752,A00288,2024-11-29,Performance,Low,104,Yes
+T000753,A00288,2024-12-16,Performance,Medium,74,Yes
+T000754,A00288,2024-04-11,Onboarding Help,Medium,89,Yes
+T000755,A00288,2024-05-26,Bug Report,Low,27,Yes
+T000756,A00288,2023-08-05,Bug Report,Low,65,Yes
+T000757,A00288,2023-11-29,Performance,High,,No
+T000758,A00289,2024-11-23,Billing,Critical,5,Yes
+T000759,A00289,2024-12-13,Integration Issue,Medium,82,Yes
+T000760,A00290,2024-12-01,Feature Request,Medium,79,Yes
+T000761,A00290,2024-11-12,Bug Report,Low,,No
+T000762,A00290,2023-11-17,Bug Report,Low,73,Yes
+T000763,A00290,2023-10-11,Bug Report,Medium,56,Yes
+T000764,A00290,2024-01-26,Integration Issue,Medium,,No
+T000765,A00291,2024-11-25,Integration Issue,Low,72,Yes
+T000766,A00292,2024-06-16,Performance,Medium,40,Yes
+T000767,A00292,2024-07-25,Performance,Medium,90,Yes
+T000768,A00295,2024-11-25,Feature Request,Low,114,Yes
+T000769,A00295,2024-08-25,Bug Report,High,,No
+T000770,A00295,2024-09-14,Feature Request,Low,143,Yes
+T000771,A00297,2024-04-14,Feature Request,Critical,,No
+T000772,A00297,2023-07-23,Integration Issue,Medium,61,Yes
+T000773,A00299,2024-12-04,Feature Request,High,17,Yes
+T000774,A00300,2024-12-29,Bug Report,Low,106,Yes
+T000775,A00300,2024-12-28,Bug Report,Medium,,No
+T000776,A00300,2024-12-28,Performance,Medium,22,Yes
+T000777,A00300,2024-12-30,Integration Issue,Medium,14,Yes
+T000778,A00300,2024-12-29,Feature Request,Low,129,Yes
+T000779,A00300,2024-12-29,Onboarding Help,High,34,Yes
+T000780,A00301,2023-06-01,Onboarding Help,Low,150,Yes
+T000781,A00301,2024-11-17,Performance,Medium,18,Yes
+T000782,A00301,2024-11-10,Performance,Medium,28,Yes
+T000783,A00303,2024-11-19,Onboarding Help,Critical,5,Yes
+T000784,A00304,2024-09-08,Billing,Medium,77,Yes
+T000785,A00304,2024-08-30,Billing,Low,69,Yes
+T000786,A00305,2024-02-23,Integration Issue,Medium,93,Yes
+T000787,A00305,2024-09-29,Bug Report,Critical,8,Yes
+T000788,A00305,2023-08-22,Onboarding Help,Medium,,No
+T000789,A00306,2023-07-08,Integration Issue,Medium,79,Yes
+T000790,A00306,2024-06-28,Billing,Medium,63,Yes
+T000791,A00306,2023-07-21,Onboarding Help,Medium,50,Yes
+T000792,A00306,2024-08-10,Integration Issue,High,,No
+T000793,A00306,2023-12-21,Billing,Medium,54,Yes
+T000794,A00307,2023-10-10,Billing,Low,95,Yes
+T000795,A00307,2024-12-11,Integration Issue,Critical,3,Yes
+T000796,A00307,2024-03-16,Billing,High,9,Yes
+T000797,A00307,2024-09-19,Feature Request,Medium,,No
+T000798,A00307,2024-04-06,Onboarding Help,Low,103,Yes
+T000799,A00307,2024-11-15,Performance,Medium,69,Yes
+T000800,A00307,2023-11-03,Onboarding Help,Medium,,No
+T000801,A00307,2024-01-21,Bug Report,High,35,Yes
+T000802,A00307,2024-11-30,Integration Issue,Medium,67,Yes
+T000803,A00307,2024-01-04,Feature Request,Medium,32,Yes
+T000804,A00307,2024-04-04,Onboarding Help,Low,132,Yes
+T000805,A00307,2023-10-11,Billing,Critical,7,Yes
+T000806,A00308,2023-07-15,Billing,Low,,No
+T000807,A00308,2023-12-21,Billing,High,5,Yes
+T000808,A00308,2024-12-31,Integration Issue,Medium,12,Yes
+T000809,A00309,2024-06-02,Integration Issue,Low,54,Yes
+T000810,A00310,2024-07-29,Feature Request,Medium,47,Yes
+T000811,A00312,2024-06-11,Bug Report,High,43,Yes
+T000812,A00312,2024-10-11,Integration Issue,Medium,31,Yes
+T000813,A00312,2024-12-11,Billing,Low,65,Yes
+T000814,A00312,2024-10-10,Performance,Critical,7,Yes
+T000815,A00312,2024-06-17,Feature Request,Medium,33,Yes
+T000816,A00312,2024-06-01,Feature Request,Medium,28,Yes
+T000817,A00312,2024-07-05,Integration Issue,High,7,Yes
+T000818,A00312,2024-05-09,Onboarding Help,Medium,76,Yes
+T000819,A00312,2024-06-11,Bug Report,Medium,29,Yes
+T000820,A00312,2024-05-11,Performance,Critical,2,Yes
+T000821,A00312,2024-10-19,Integration Issue,High,7,Yes
+T000822,A00312,2024-09-14,Integration Issue,High,32,Yes
+T000823,A00312,2024-05-18,Bug Report,Medium,66,Yes
+T000824,A00313,2024-08-21,Bug Report,High,37,Yes
+T000825,A00313,2024-12-15,Bug Report,Medium,59,Yes
+T000826,A00314,2024-08-19,Feature Request,Low,145,Yes
+T000827,A00314,2024-11-18,Integration Issue,High,47,Yes
+T000828,A00314,2024-08-19,Performance,High,13,Yes
+T000829,A00314,2024-08-12,Onboarding Help,Low,110,Yes
+T000830,A00315,2024-12-28,Feature Request,Medium,75,Yes
+T000831,A00315,2024-12-30,Billing,Low,27,Yes
+T000832,A00315,2024-12-31,Performance,Medium,50,Yes
+T000833,A00315,2024-12-26,Feature Request,Medium,91,Yes
+T000834,A00316,2024-05-02,Billing,Low,148,Yes
+T000835,A00316,2024-07-11,Onboarding Help,Low,,No
+T000836,A00316,2024-10-21,Integration Issue,Low,148,Yes
+T000837,A00316,2024-04-24,Bug Report,Low,92,Yes
+T000838,A00316,2024-11-09,Bug Report,Critical,1,Yes
+T000839,A00316,2024-05-23,Bug Report,Medium,91,Yes
+T000840,A00316,2024-05-18,Onboarding Help,Medium,60,Yes
+T000841,A00318,2024-01-13,Billing,Medium,49,Yes
+T000842,A00318,2024-01-07,Performance,Low,61,Yes
+T000843,A00318,2023-08-27,Feature Request,Medium,50,Yes
+T000844,A00319,2024-09-28,Feature Request,Medium,85,Yes
+T000845,A00319,2024-04-22,Feature Request,Medium,23,Yes
+T000846,A00319,2024-11-02,Bug Report,Medium,12,Yes
+T000847,A00319,2024-02-13,Feature Request,High,46,Yes
+T000848,A00319,2024-03-28,Feature Request,High,,No
+T000849,A00319,2024-01-26,Bug Report,Low,108,Yes
+T000850,A00319,2024-05-28,Bug Report,Medium,63,Yes
+T000851,A00319,2024-02-12,Performance,High,38,Yes
+T000852,A00319,2024-09-10,Integration Issue,Low,68,Yes
+T000853,A00319,2023-12-17,Feature Request,High,33,Yes
+T000854,A00319,2024-02-12,Integration Issue,Medium,69,Yes
+T000855,A00319,2024-09-01,Onboarding Help,Medium,73,Yes
+T000856,A00319,2024-04-10,Billing,Medium,80,Yes
+T000857,A00320,2024-06-22,Integration Issue,Medium,76,Yes
+T000858,A00321,2023-11-03,Performance,Medium,73,Yes
+T000859,A00321,2024-10-08,Integration Issue,Low,,No
+T000860,A00321,2024-06-23,Integration Issue,High,4,Yes
+T000861,A00322,2024-12-30,Integration Issue,Medium,60,Yes
+T000862,A00323,2024-04-07,Billing,Medium,18,Yes
+T000863,A00323,2024-07-18,Billing,Medium,,No
+T000864,A00323,2024-05-19,Feature Request,Medium,24,Yes
+T000865,A00323,2024-12-23,Bug Report,Low,158,Yes
+T000866,A00323,2024-04-04,Billing,High,,No
+T000867,A00323,2023-04-23,Billing,Low,46,Yes
+T000868,A00325,2024-08-17,Performance,Low,,No
+T000869,A00325,2024-02-12,Onboarding Help,Medium,,No
+T000870,A00325,2024-03-24,Bug Report,Low,75,Yes
+T000871,A00325,2024-06-24,Billing,Low,139,Yes
+T000872,A00325,2024-04-18,Onboarding Help,Low,49,Yes
+T000873,A00326,2023-08-22,Bug Report,High,24,Yes
+T000874,A00326,2023-07-07,Bug Report,Low,,No
+T000875,A00326,2023-09-01,Feature Request,Medium,76,Yes
+T000876,A00326,2023-07-12,Performance,Low,62,Yes
+T000877,A00326,2024-12-14,Feature Request,Critical,7,Yes
+T000878,A00326,2024-10-20,Billing,Medium,49,Yes
+T000879,A00326,2024-02-08,Billing,Medium,,No
+T000880,A00326,2024-01-08,Integration Issue,Medium,28,Yes
+T000881,A00326,2024-03-19,Bug Report,Low,150,Yes
+T000882,A00326,2023-10-03,Feature Request,Low,,No
+T000883,A00326,2024-05-09,Billing,Critical,6,Yes
+T000884,A00326,2024-09-20,Bug Report,High,46,Yes
+T000885,A00326,2023-04-02,Integration Issue,Low,102,Yes
+T000886,A00326,2024-02-06,Billing,Low,,No
+T000887,A00326,2024-08-07,Billing,High,48,Yes
+T000888,A00327,2024-12-30,Performance,Medium,,No
+T000889,A00327,2024-08-29,Bug Report,Low,37,Yes
+T000890,A00328,2024-05-17,Performance,Low,146,Yes
+T000891,A00328,2024-08-15,Bug Report,Medium,52,Yes
+T000892,A00329,2024-08-18,Bug Report,Medium,91,Yes
+T000893,A00329,2024-11-24,Billing,High,46,Yes
+T000894,A00330,2024-12-27,Bug Report,Medium,20,Yes
+T000895,A00330,2024-12-26,Feature Request,Medium,84,Yes
+T000896,A00331,2023-02-14,Integration Issue,Low,87,Yes
+T000897,A00331,2023-11-22,Integration Issue,Medium,22,Yes
+T000898,A00331,2023-06-21,Feature Request,Medium,75,Yes
+T000899,A00332,2024-11-23,Onboarding Help,Medium,21,Yes
+T000900,A00332,2024-10-14,Bug Report,Low,,No
+T000901,A00332,2024-01-25,Billing,Low,112,Yes
+T000902,A00333,2024-04-04,Billing,Medium,23,Yes
+T000903,A00333,2024-09-24,Billing,Low,158,Yes
+T000904,A00333,2024-07-28,Feature Request,Critical,,No
+T000905,A00333,2024-11-17,Performance,Medium,,No
+T000906,A00335,2024-09-16,Onboarding Help,High,20,Yes
+T000907,A00335,2024-09-12,Feature Request,Low,,No
+T000908,A00335,2024-10-16,Bug Report,Medium,,No
+T000909,A00336,2024-07-27,Bug Report,Low,116,Yes
+T000910,A00336,2024-07-20,Feature Request,Medium,43,Yes
+T000911,A00336,2024-09-19,Bug Report,Medium,82,Yes
+T000912,A00336,2024-12-17,Feature Request,Medium,90,Yes
+T000913,A00338,2024-12-02,Billing,Medium,95,Yes
+T000914,A00338,2023-09-09,Performance,Medium,91,Yes
+T000915,A00340,2024-07-02,Onboarding Help,Medium,,No
+T000916,A00340,2024-12-03,Performance,High,23,Yes
+T000917,A00340,2024-09-20,Onboarding Help,Low,167,Yes
+T000918,A00343,2024-08-09,Performance,Medium,21,Yes
+T000919,A00343,2024-07-26,Feature Request,Low,32,Yes
+T000920,A00343,2024-10-11,Billing,Medium,,No
+T000921,A00346,2024-09-30,Integration Issue,High,37,Yes
+T000922,A00347,2024-07-26,Onboarding Help,Medium,,No
+T000923,A00351,2024-03-13,Performance,Low,78,Yes
+T000924,A00351,2024-04-07,Feature Request,Medium,90,Yes
+T000925,A00351,2024-02-16,Integration Issue,High,18,Yes
+T000926,A00351,2024-02-13,Onboarding Help,Medium,24,Yes
+T000927,A00351,2024-07-27,Onboarding Help,Medium,80,Yes
+T000928,A00352,2024-09-21,Integration Issue,High,9,Yes
+T000929,A00353,2023-12-08,Billing,Low,,No
+T000930,A00354,2023-04-09,Integration Issue,Medium,16,Yes
+T000931,A00354,2024-07-17,Performance,Critical,7,Yes
+T000932,A00354,2023-05-10,Bug Report,Medium,49,Yes
+T000933,A00354,2024-04-02,Onboarding Help,Medium,57,Yes
+T000934,A00355,2024-10-07,Bug Report,Medium,29,Yes
+T000935,A00355,2024-11-01,Performance,Medium,43,Yes
+T000936,A00357,2024-11-26,Performance,Low,68,Yes
+T000937,A00358,2024-11-05,Bug Report,Low,51,Yes
+T000938,A00359,2024-12-27,Integration Issue,Low,55,Yes
+T000939,A00360,2024-10-26,Onboarding Help,Medium,23,Yes
+T000940,A00360,2024-12-22,Feature Request,Low,46,Yes
+T000941,A00360,2024-12-09,Bug Report,Medium,19,Yes
+T000942,A00360,2024-11-05,Bug Report,Medium,90,Yes
+T000943,A00362,2024-11-18,Bug Report,Medium,29,Yes
+T000944,A00362,2023-08-16,Performance,Critical,5,Yes
+T000945,A00363,2024-03-10,Feature Request,High,46,Yes
+T000946,A00363,2024-07-24,Onboarding Help,Low,138,Yes
+T000947,A00363,2023-11-23,Performance,Medium,70,Yes
+T000948,A00366,2024-08-13,Bug Report,High,18,Yes
+T000949,A00366,2024-07-21,Bug Report,High,25,Yes
+T000950,A00366,2024-01-30,Performance,Medium,29,Yes
+T000951,A00367,2024-05-31,Bug Report,Low,146,Yes
+T000952,A00367,2024-10-13,Performance,Low,136,Yes
+T000953,A00367,2024-10-26,Billing,Low,127,Yes
+T000954,A00368,2024-06-04,Performance,Medium,,No
+T000955,A00368,2024-12-09,Bug Report,Medium,47,Yes
+T000956,A00368,2024-03-27,Integration Issue,Low,99,Yes
+T000957,A00370,2023-12-31,Feature Request,Medium,,No
+T000958,A00370,2024-08-05,Onboarding Help,Low,106,Yes
+T000959,A00370,2024-11-17,Feature Request,Critical,5,Yes
+T000960,A00370,2024-12-09,Onboarding Help,Medium,27,Yes
+T000961,A00370,2024-04-08,Onboarding Help,Medium,81,Yes
+T000962,A00372,2023-09-10,Integration Issue,Medium,32,Yes
+T000963,A00372,2023-09-21,Integration Issue,High,35,Yes
+T000964,A00372,2023-04-29,Feature Request,High,11,Yes
+T000965,A00372,2024-10-30,Feature Request,Medium,86,Yes
+T000966,A00372,2023-07-08,Performance,Low,104,Yes
+T000967,A00372,2024-12-19,Integration Issue,High,13,Yes
+T000968,A00372,2023-04-15,Billing,Medium,38,Yes
+T000969,A00374,2024-12-29,Onboarding Help,Critical,1,Yes
+T000970,A00374,2024-12-09,Integration Issue,Medium,,No
+T000971,A00374,2024-11-21,Bug Report,Medium,15,Yes
+T000972,A00376,2024-10-04,Performance,Critical,4,Yes
+T000973,A00377,2024-12-12,Performance,Critical,,No
+T000974,A00377,2024-08-28,Billing,Medium,81,Yes
+T000975,A00378,2024-12-21,Feature Request,Medium,41,Yes
+T000976,A00381,2024-10-27,Integration Issue,High,41,Yes
+T000977,A00381,2024-09-06,Billing,Medium,17,Yes
+T000978,A00381,2024-04-10,Onboarding Help,Medium,42,Yes
+T000979,A00382,2024-12-31,Feature Request,Critical,6,Yes
+T000980,A00383,2024-07-11,Performance,Medium,60,Yes
+T000981,A00384,2024-09-04,Integration Issue,Low,165,Yes
+T000982,A00384,2024-07-20,Billing,Medium,94,Yes
+T000983,A00385,2024-12-27,Performance,Low,115,Yes
+T000984,A00385,2024-12-31,Integration Issue,Low,,No
+T000985,A00386,2023-07-09,Billing,High,31,Yes
+T000986,A00386,2023-02-13,Billing,Low,63,Yes
+T000987,A00387,2024-09-13,Performance,Low,39,Yes
+T000988,A00388,2024-01-05,Billing,High,31,Yes
+T000989,A00388,2024-01-19,Feature Request,Medium,38,Yes
+T000990,A00388,2023-06-24,Integration Issue,Medium,29,Yes
+T000991,A00389,2024-09-11,Integration Issue,Medium,34,Yes
+T000992,A00389,2024-09-23,Performance,Medium,83,Yes
+T000993,A00389,2024-09-14,Performance,Low,,No
+T000994,A00389,2024-03-25,Performance,Critical,2,Yes
+T000995,A00391,2024-11-30,Bug Report,Low,32,Yes
+T000996,A00391,2024-09-04,Bug Report,Medium,47,Yes
+T000997,A00391,2024-11-23,Onboarding Help,High,19,Yes
+T000998,A00393,2023-10-27,Feature Request,Critical,4,Yes
+T000999,A00393,2024-05-11,Billing,Low,30,Yes
+T001000,A00393,2024-09-28,Onboarding Help,Medium,30,Yes
+T001001,A00393,2024-11-27,Onboarding Help,Medium,52,Yes
+T001002,A00393,2024-12-04,Integration Issue,Medium,,No
+T001003,A00393,2024-10-22,Bug Report,Low,93,Yes
+T001004,A00393,2024-10-29,Bug Report,Medium,13,Yes
+T001005,A00393,2024-06-19,Billing,Medium,91,Yes
+T001006,A00393,2024-05-05,Bug Report,Medium,85,Yes
+T001007,A00393,2024-04-15,Feature Request,Medium,68,Yes
+T001008,A00393,2023-10-30,Bug Report,High,,No
+T001009,A00393,2024-10-17,Billing,Medium,21,Yes
+T001010,A00393,2024-12-08,Performance,Medium,45,Yes
+T001011,A00393,2024-12-20,Feature Request,High,26,Yes
+T001012,A00394,2024-04-22,Bug Report,Low,85,Yes
+T001013,A00395,2024-12-08,Bug Report,Low,51,Yes
+T001014,A00395,2024-12-07,Integration Issue,Medium,15,Yes
+T001015,A00395,2024-12-27,Integration Issue,Low,41,Yes
+T001016,A00395,2024-12-09,Integration Issue,Medium,42,Yes
+T001017,A00395,2024-12-26,Onboarding Help,Low,122,Yes
+T001018,A00395,2024-11-28,Billing,Low,116,Yes
+T001019,A00395,2024-11-17,Integration Issue,Medium,30,Yes
+T001020,A00395,2024-12-10,Integration Issue,Medium,37,Yes
+T001021,A00396,2024-12-11,Bug Report,Critical,1,Yes
+T001022,A00398,2024-12-24,Billing,Medium,26,Yes
+T001023,A00399,2024-03-30,Feature Request,Medium,90,Yes
+T001024,A00400,2023-11-09,Billing,High,20,Yes
+T001025,A00400,2024-07-29,Onboarding Help,Low,168,Yes
+T001026,A00401,2024-11-23,Feature Request,Low,59,Yes
+T001027,A00401,2024-10-10,Performance,Medium,55,Yes
+T001028,A00401,2024-12-07,Bug Report,Medium,34,Yes
+T001029,A00401,2024-10-08,Onboarding Help,Medium,14,Yes
+T001030,A00401,2024-08-04,Bug Report,High,10,Yes
+T001031,A00401,2024-10-26,Bug Report,Critical,3,Yes
+T001032,A00401,2024-12-21,Bug Report,Medium,14,Yes
+T001033,A00401,2024-09-08,Integration Issue,Low,72,Yes
+T001034,A00401,2024-09-05,Performance,Medium,63,Yes
+T001035,A00401,2024-11-02,Onboarding Help,High,22,Yes
+T001036,A00401,2024-12-09,Feature Request,Low,142,Yes
+T001037,A00401,2024-12-07,Billing,High,35,Yes
+T001038,A00401,2024-10-19,Feature Request,Low,73,Yes
+T001039,A00401,2024-11-13,Billing,Medium,46,Yes
+T001040,A00401,2024-12-01,Integration Issue,Medium,54,Yes
+T001041,A00402,2024-12-30,Integration Issue,Medium,,No
+T001042,A00403,2023-08-11,Bug Report,Medium,,No
+T001043,A00403,2024-03-17,Onboarding Help,Low,,No
+T001044,A00405,2024-08-19,Bug Report,Low,95,Yes
+T001045,A00405,2024-08-26,Onboarding Help,Low,49,Yes
+T001046,A00406,2024-02-15,Feature Request,Low,,No
+T001047,A00406,2024-12-12,Performance,Medium,72,Yes
+T001048,A00406,2024-08-11,Onboarding Help,High,,No
+T001049,A00406,2023-11-20,Feature Request,Medium,92,Yes
+T001050,A00406,2024-04-05,Performance,Medium,52,Yes
+T001051,A00406,2024-01-14,Integration Issue,Low,119,Yes
+T001052,A00406,2024-05-24,Feature Request,Critical,,No
+T001053,A00409,2023-10-29,Performance,High,42,Yes
+T001054,A00409,2023-09-24,Billing,Low,104,Yes
+T001055,A00409,2023-10-24,Feature Request,Medium,,No
+T001056,A00410,2024-11-12,Integration Issue,Critical,6,Yes
+T001057,A00410,2024-05-02,Feature Request,Critical,2,Yes
+T001058,A00412,2024-05-29,Billing,High,10,Yes
+T001059,A00412,2024-10-31,Performance,Medium,60,Yes
+T001060,A00412,2024-08-15,Performance,Low,,No
+T001061,A00412,2024-07-28,Integration Issue,Medium,49,Yes
+T001062,A00413,2023-06-15,Integration Issue,Medium,12,Yes
+T001063,A00413,2024-02-21,Integration Issue,Low,150,Yes
+T001064,A00414,2024-02-28,Performance,Critical,,No
+T001065,A00414,2024-04-02,Performance,Critical,6,Yes
+T001066,A00414,2024-08-12,Onboarding Help,High,25,Yes
+T001067,A00415,2024-12-18,Onboarding Help,Low,114,Yes
+T001068,A00415,2024-09-11,Onboarding Help,Low,110,Yes
+T001069,A00415,2024-07-19,Onboarding Help,Low,84,Yes
+T001070,A00415,2024-11-04,Performance,High,19,Yes
+T001071,A00415,2024-12-26,Billing,Medium,,No
+T001072,A00415,2024-10-24,Integration Issue,Low,87,Yes
+T001073,A00415,2024-11-20,Bug Report,Medium,62,Yes
+T001074,A00416,2024-06-06,Feature Request,Low,70,Yes
+T001075,A00416,2024-12-17,Bug Report,High,,No
+T001076,A00416,2024-09-08,Bug Report,Medium,81,Yes
+T001077,A00417,2024-12-27,Onboarding Help,Low,64,Yes
+T001078,A00417,2024-12-11,Feature Request,Low,83,Yes
+T001079,A00417,2024-07-10,Onboarding Help,High,26,Yes
+T001080,A00418,2024-03-19,Billing,Medium,57,Yes
+T001081,A00418,2024-02-04,Billing,Low,130,Yes
+T001082,A00418,2024-10-26,Integration Issue,High,,No
+T001083,A00418,2024-06-27,Onboarding Help,Low,164,Yes
+T001084,A00418,2024-04-10,Bug Report,Medium,95,Yes
+T001085,A00418,2024-09-25,Billing,Critical,2,Yes
+T001086,A00418,2024-04-02,Onboarding Help,Medium,36,Yes
+T001087,A00418,2024-05-18,Feature Request,High,6,Yes
+T001088,A00418,2024-01-27,Integration Issue,High,,No
+T001089,A00418,2024-06-11,Bug Report,Medium,,No
+T001090,A00418,2024-01-06,Integration Issue,High,41,Yes
+T001091,A00418,2024-01-03,Performance,Medium,15,Yes
+T001092,A00418,2024-05-20,Feature Request,Low,92,Yes
+T001093,A00418,2024-03-22,Integration Issue,Low,84,Yes
+T001094,A00418,2024-01-09,Performance,Medium,71,Yes
+T001095,A00419,2024-09-26,Integration Issue,Low,33,Yes
+T001096,A00419,2024-09-24,Performance,Medium,25,Yes
+T001097,A00419,2024-11-22,Onboarding Help,Low,,No
+T001098,A00419,2024-12-03,Onboarding Help,Critical,8,Yes
+T001099,A00419,2024-10-23,Integration Issue,Medium,38,Yes
+T001100,A00419,2024-11-20,Bug Report,High,25,Yes
+T001101,A00419,2024-09-28,Bug Report,Low,,No
+T001102,A00420,2023-07-09,Feature Request,Critical,1,Yes
+T001103,A00420,2024-04-09,Performance,Critical,3,Yes
+T001104,A00420,2024-06-02,Integration Issue,Low,130,Yes
+T001105,A00420,2024-03-02,Feature Request,High,39,Yes
+T001106,A00420,2023-10-02,Integration Issue,Low,49,Yes
+T001107,A00421,2024-12-22,Integration Issue,Medium,26,Yes
+T001108,A00421,2024-11-05,Bug Report,High,24,Yes
+T001109,A00421,2024-11-23,Onboarding Help,Low,28,Yes
+T001110,A00421,2024-12-11,Billing,Low,142,Yes
+T001111,A00422,2024-01-04,Performance,Medium,22,Yes
+T001112,A00422,2024-07-04,Onboarding Help,Low,104,Yes
+T001113,A00422,2024-07-16,Bug Report,Low,121,Yes
+T001114,A00422,2024-09-27,Billing,High,31,Yes
+T001115,A00422,2024-02-02,Billing,Medium,76,Yes
+T001116,A00422,2024-01-28,Bug Report,High,,No
+T001117,A00424,2024-12-13,Billing,Low,65,Yes
+T001118,A00424,2024-11-26,Bug Report,Low,136,Yes
+T001119,A00424,2024-10-12,Bug Report,Low,82,Yes
+T001120,A00426,2024-03-20,Feature Request,Medium,84,Yes
+T001121,A00427,2024-10-18,Onboarding Help,Low,63,Yes
+T001122,A00428,2024-09-03,Integration Issue,Critical,7,Yes
+T001123,A00428,2024-09-13,Billing,Medium,,No
+T001124,A00429,2024-03-09,Bug Report,High,37,Yes
+T001125,A00429,2023-10-05,Onboarding Help,High,45,Yes
+T001126,A00430,2024-07-27,Onboarding Help,High,17,Yes
+T001127,A00430,2024-10-12,Billing,Low,150,Yes
+T001128,A00430,2024-01-19,Performance,Low,138,Yes
+T001129,A00431,2024-10-27,Feature Request,Low,,No
+T001130,A00431,2024-09-26,Billing,Medium,,No
+T001131,A00431,2024-08-20,Integration Issue,High,12,Yes
+T001132,A00431,2024-08-27,Performance,High,,No
+T001133,A00431,2024-10-01,Billing,Low,148,Yes
+T001134,A00431,2024-12-03,Bug Report,Medium,71,Yes
+T001135,A00431,2024-12-28,Bug Report,Critical,1,Yes
+T001136,A00431,2024-11-21,Bug Report,Low,140,Yes
+T001137,A00431,2024-08-20,Feature Request,Critical,4,Yes
+T001138,A00432,2024-10-21,Billing,Critical,5,Yes
+T001139,A00434,2024-04-12,Feature Request,Medium,,No
+T001140,A00434,2024-10-18,Performance,Low,,No
+T001141,A00435,2024-04-02,Performance,Low,89,Yes
+T001142,A00435,2024-08-23,Billing,Low,125,Yes
+T001143,A00435,2024-05-13,Billing,Low,30,Yes
+T001144,A00435,2023-11-17,Bug Report,Medium,53,Yes
+T001145,A00435,2024-10-13,Billing,Medium,46,Yes
+T001146,A00435,2024-10-21,Integration Issue,Critical,7,Yes
+T001147,A00435,2024-04-20,Bug Report,Low,130,Yes
+T001148,A00435,2023-11-19,Integration Issue,Critical,5,Yes
+T001149,A00435,2024-04-21,Onboarding Help,Low,47,Yes
+T001150,A00435,2024-08-14,Feature Request,Medium,,No
+T001151,A00435,2023-11-21,Onboarding Help,High,4,Yes
+T001152,A00435,2024-04-18,Performance,Low,101,Yes
+T001153,A00435,2023-12-30,Bug Report,Low,70,Yes
+T001154,A00435,2024-06-03,Feature Request,Low,53,Yes
+T001155,A00436,2024-03-31,Performance,Medium,69,Yes
+T001156,A00436,2024-07-14,Onboarding Help,High,8,Yes
+T001157,A00436,2024-05-07,Bug Report,Low,,No
+T001158,A00436,2024-09-14,Integration Issue,High,23,Yes
+T001159,A00436,2024-04-01,Performance,Medium,,No
+T001160,A00436,2024-11-23,Bug Report,Low,135,Yes
+T001161,A00439,2024-04-07,Performance,Medium,51,Yes
+T001162,A00439,2024-12-12,Onboarding Help,Critical,1,Yes
+T001163,A00439,2024-12-28,Performance,Low,157,Yes
+T001164,A00440,2024-11-27,Performance,Low,124,Yes
+T001165,A00440,2024-12-15,Bug Report,High,31,Yes
+T001166,A00440,2024-11-29,Performance,Medium,47,Yes
+T001167,A00441,2024-12-21,Integration Issue,Low,129,Yes
+T001168,A00442,2024-01-30,Bug Report,Low,26,Yes
+T001169,A00442,2024-03-11,Performance,Medium,83,Yes
+T001170,A00443,2024-10-07,Integration Issue,Medium,85,Yes
+T001171,A00443,2024-11-28,Bug Report,High,,No
+T001172,A00444,2023-12-24,Feature Request,Medium,60,Yes
+T001173,A00444,2023-08-13,Bug Report,Medium,,No
+T001174,A00444,2024-06-24,Billing,High,,No
+T001175,A00445,2023-11-27,Onboarding Help,Low,51,Yes
+T001176,A00445,2024-06-21,Onboarding Help,High,34,Yes
+T001177,A00445,2024-07-05,Onboarding Help,Critical,,No
+T001178,A00446,2024-09-13,Feature Request,Medium,,No
+T001179,A00446,2024-12-30,Billing,Critical,5,Yes
+T001180,A00446,2024-07-21,Billing,Low,24,Yes
+T001181,A00446,2024-11-19,Onboarding Help,High,10,Yes
+T001182,A00446,2024-07-15,Feature Request,Medium,37,Yes
+T001183,A00446,2024-08-11,Performance,Medium,88,Yes
+T001184,A00447,2024-08-25,Onboarding Help,Medium,50,Yes
+T001185,A00447,2024-10-30,Bug Report,Low,163,Yes
+T001186,A00447,2024-11-22,Onboarding Help,Low,115,Yes
+T001187,A00447,2024-07-20,Feature Request,High,36,Yes
+T001188,A00447,2024-09-03,Performance,Low,130,Yes
+T001189,A00447,2024-10-15,Feature Request,Low,125,Yes
+T001190,A00447,2024-09-17,Billing,Low,139,Yes
+T001191,A00447,2024-09-09,Onboarding Help,Low,88,Yes
+T001192,A00447,2024-07-21,Integration Issue,High,32,Yes
+T001193,A00447,2024-12-06,Onboarding Help,High,,No
+T001194,A00447,2024-11-27,Bug Report,Medium,73,Yes
+T001195,A00447,2024-09-26,Onboarding Help,Medium,89,Yes
+T001196,A00448,2024-10-02,Onboarding Help,Medium,,No
+T001197,A00449,2024-12-15,Bug Report,High,20,Yes
+T001198,A00449,2024-12-31,Feature Request,Medium,32,Yes
+T001199,A00449,2024-05-24,Onboarding Help,Critical,4,Yes
+T001200,A00451,2024-12-31,Billing,Medium,,No
+T001201,A00451,2024-12-11,Onboarding Help,Low,34,Yes
+T001202,A00451,2024-12-15,Billing,Low,30,Yes
+T001203,A00452,2024-10-07,Performance,Critical,8,Yes
+T001204,A00452,2024-11-20,Feature Request,Medium,27,Yes
+T001205,A00453,2024-12-27,Performance,High,26,Yes
+T001206,A00453,2024-07-31,Billing,Medium,,No
+T001207,A00454,2024-08-29,Bug Report,Critical,4,Yes
+T001208,A00454,2024-08-08,Billing,Critical,,No
+T001209,A00455,2024-12-15,Billing,High,,No
+T001210,A00455,2024-07-04,Bug Report,Medium,45,Yes
+T001211,A00456,2024-11-30,Bug Report,Medium,70,Yes
+T001212,A00456,2024-12-31,Bug Report,Medium,74,Yes
+T001213,A00456,2024-11-29,Feature Request,Low,90,Yes
+T001214,A00456,2024-12-04,Performance,Medium,53,Yes
+T001215,A00456,2024-12-31,Billing,High,7,Yes
+T001216,A00456,2024-12-16,Performance,Low,138,Yes
+T001217,A00456,2024-12-20,Billing,High,38,Yes
+T001218,A00456,2024-11-22,Billing,Low,68,Yes
+T001219,A00458,2024-01-17,Billing,Low,25,Yes
+T001220,A00459,2024-06-15,Billing,Low,46,Yes
+T001221,A00459,2024-03-20,Integration Issue,Medium,57,Yes
+T001222,A00459,2023-06-07,Billing,High,8,Yes
+T001223,A00459,2024-12-08,Performance,Low,116,Yes
+T001224,A00459,2023-11-22,Feature Request,Medium,15,Yes
+T001225,A00459,2023-08-27,Performance,Medium,53,Yes
+T001226,A00459,2024-04-03,Billing,Medium,75,Yes
+T001227,A00461,2024-05-22,Performance,Medium,94,Yes
+T001228,A00461,2024-07-23,Bug Report,Medium,59,Yes
+T001229,A00461,2024-01-25,Performance,Low,116,Yes
+T001230,A00461,2024-08-11,Integration Issue,Medium,59,Yes
+T001231,A00461,2024-09-04,Bug Report,Critical,2,Yes
+T001232,A00461,2024-07-19,Integration Issue,Critical,4,Yes
+T001233,A00461,2024-04-29,Bug Report,Low,44,Yes
+T001234,A00461,2024-01-30,Integration Issue,High,31,Yes
+T001235,A00461,2023-12-30,Billing,Critical,6,Yes
+T001236,A00461,2024-06-08,Feature Request,Low,,No
+T001237,A00461,2024-03-13,Bug Report,Medium,19,Yes
+T001238,A00461,2024-02-14,Performance,High,,No
+T001239,A00461,2024-01-06,Feature Request,Low,37,Yes
+T001240,A00461,2024-12-07,Bug Report,Low,141,Yes
+T001241,A00462,2024-11-03,Billing,Low,35,Yes
+T001242,A00462,2024-11-26,Performance,Critical,,No
+T001243,A00463,2023-07-09,Feature Request,Low,113,Yes
+T001244,A00464,2024-09-29,Bug Report,Low,106,Yes
+T001245,A00464,2023-08-06,Billing,High,15,Yes
+T001246,A00465,2024-12-03,Onboarding Help,High,23,Yes
+T001247,A00465,2024-09-21,Bug Report,Low,161,Yes
+T001248,A00465,2024-12-06,Feature Request,Low,,No
+T001249,A00466,2024-01-01,Bug Report,Medium,92,Yes
+T001250,A00466,2024-07-10,Integration Issue,Low,67,Yes
+T001251,A00466,2024-08-16,Bug Report,Low,53,Yes
+T001252,A00467,2024-12-03,Billing,Medium,72,Yes
+T001253,A00467,2024-11-10,Bug Report,Low,60,Yes
+T001254,A00467,2024-11-11,Bug Report,Medium,78,Yes
+T001255,A00468,2024-09-07,Onboarding Help,High,9,Yes
+T001256,A00468,2024-12-16,Billing,Medium,63,Yes
+T001257,A00468,2024-10-26,Performance,Low,161,Yes
+T001258,A00470,2024-07-27,Integration Issue,Critical,4,Yes
+T001259,A00470,2024-04-09,Bug Report,Low,147,Yes
+T001260,A00470,2024-04-11,Integration Issue,Critical,8,Yes
+T001261,A00472,2023-12-02,Bug Report,Medium,37,Yes
+T001262,A00472,2024-09-28,Billing,Low,38,Yes
+T001263,A00472,2024-05-28,Feature Request,Medium,44,Yes
+T001264,A00472,2023-11-30,Onboarding Help,Critical,8,Yes
+T001265,A00472,2024-07-06,Integration Issue,Critical,6,Yes
+T001266,A00472,2024-09-29,Performance,High,23,Yes
+T001267,A00473,2024-03-25,Billing,Medium,82,Yes
+T001268,A00473,2024-01-31,Performance,Low,80,Yes
+T001269,A00474,2024-11-23,Billing,Critical,8,Yes
+T001270,A00475,2024-05-03,Bug Report,Medium,80,Yes
+T001271,A00476,2024-12-31,Feature Request,Medium,,No
+T001272,A00476,2024-05-08,Bug Report,Medium,,No
+T001273,A00478,2024-12-04,Performance,Low,112,Yes
+T001274,A00478,2023-06-24,Performance,Low,152,Yes
+T001275,A00479,2024-12-16,Onboarding Help,Low,51,Yes
+T001276,A00479,2023-06-02,Performance,Medium,29,Yes
+T001277,A00479,2023-03-16,Onboarding Help,Low,,No
+T001278,A00480,2024-12-07,Performance,Medium,16,Yes
+T001279,A00480,2023-08-29,Bug Report,Medium,63,Yes
+T001280,A00482,2024-12-22,Feature Request,Critical,8,Yes
+T001281,A00482,2024-12-20,Integration Issue,Low,117,Yes
+T001282,A00482,2024-12-27,Integration Issue,High,19,Yes
+T001283,A00485,2024-09-10,Bug Report,Medium,34,Yes
+T001284,A00485,2024-10-20,Bug Report,Critical,1,Yes
+T001285,A00485,2024-08-17,Feature Request,Low,136,Yes
+T001286,A00486,2024-07-05,Integration Issue,Medium,72,Yes
+T001287,A00489,2024-01-09,Performance,Medium,92,Yes
+T001288,A00489,2024-05-27,Bug Report,Medium,46,Yes
+T001289,A00490,2024-10-30,Bug Report,Low,121,Yes
+T001290,A00490,2024-10-02,Billing,Low,40,Yes
+T001291,A00491,2024-03-11,Feature Request,Low,119,Yes
+T001292,A00491,2024-05-16,Bug Report,Low,,No
+T001293,A00491,2024-11-28,Feature Request,Critical,,No
+T001294,A00491,2024-12-22,Performance,Medium,65,Yes
+T001295,A00491,2024-06-11,Onboarding Help,High,27,Yes
+T001296,A00491,2024-09-28,Bug Report,High,19,Yes
+T001297,A00492,2023-09-23,Feature Request,High,35,Yes
+T001298,A00493,2024-04-22,Feature Request,Medium,78,Yes
+T001299,A00493,2024-01-20,Performance,Medium,45,Yes
+T001300,A00493,2024-07-18,Billing,Medium,35,Yes
+T001301,A00493,2024-03-03,Onboarding Help,Low,95,Yes
+T001302,A00493,2024-10-19,Billing,Medium,,No
+T001303,A00493,2024-06-26,Billing,Low,60,Yes
+T001304,A00493,2023-11-26,Feature Request,Medium,16,Yes
+T001305,A00493,2023-11-28,Billing,Low,130,Yes
+T001306,A00494,2023-08-07,Billing,Medium,93,Yes
+T001307,A00497,2024-12-28,Bug Report,High,13,Yes
+T001308,A00497,2024-12-24,Onboarding Help,Low,156,Yes
+T001309,A00498,2024-12-22,Bug Report,High,28,Yes
+T001310,A00498,2024-12-21,Performance,Medium,44,Yes
+T001311,A00498,2024-12-21,Onboarding Help,High,48,Yes
+T001312,A00500,2024-08-17,Integration Issue,Low,94,Yes
+T001313,A00501,2024-01-25,Feature Request,Critical,7,Yes
+T001314,A00501,2023-10-20,Onboarding Help,High,32,Yes
+T001315,A00502,2024-12-22,Integration Issue,Medium,19,Yes
+T001316,A00504,2024-08-06,Onboarding Help,Medium,35,Yes
+T001317,A00504,2024-10-21,Integration Issue,Low,,No
+T001318,A00506,2024-07-05,Bug Report,Low,44,Yes
+T001319,A00506,2024-04-02,Feature Request,Low,111,Yes
+T001320,A00509,2024-01-07,Onboarding Help,Low,140,Yes
+T001321,A00509,2024-09-21,Performance,Medium,41,Yes
+T001322,A00509,2024-07-20,Performance,Critical,1,Yes
+T001323,A00509,2024-07-13,Integration Issue,Medium,48,Yes
+T001324,A00510,2024-12-12,Performance,High,,No
+T001325,A00511,2024-03-27,Feature Request,Medium,53,Yes
+T001326,A00511,2024-03-03,Onboarding Help,Critical,,No
+T001327,A00512,2024-11-14,Onboarding Help,Low,149,Yes
+T001328,A00512,2024-08-20,Performance,Low,140,Yes
+T001329,A00515,2023-12-01,Performance,Critical,1,Yes
+T001330,A00515,2024-11-15,Bug Report,High,11,Yes
+T001331,A00516,2024-09-13,Performance,Medium,84,Yes
+T001332,A00516,2024-05-15,Integration Issue,Medium,66,Yes
+T001333,A00517,2024-12-26,Bug Report,Critical,3,Yes
+T001334,A00518,2024-05-20,Bug Report,Medium,75,Yes
+T001335,A00518,2024-08-29,Billing,Medium,92,Yes
+T001336,A00518,2023-11-06,Performance,Medium,91,Yes
+T001337,A00519,2024-08-29,Billing,High,20,Yes
+T001338,A00521,2023-10-31,Feature Request,High,,No
+T001339,A00521,2024-08-07,Bug Report,Low,150,Yes
+T001340,A00521,2023-08-27,Onboarding Help,Medium,89,Yes
+T001341,A00522,2024-12-06,Bug Report,Critical,1,Yes
+T001342,A00522,2024-12-06,Billing,Low,120,Yes
+T001343,A00522,2024-12-06,Bug Report,Medium,25,Yes
+T001344,A00524,2024-10-29,Performance,Medium,72,Yes
+T001345,A00525,2024-01-19,Feature Request,Low,68,Yes
+T001346,A00526,2024-06-18,Integration Issue,High,44,Yes
+T001347,A00526,2023-12-19,Performance,Critical,1,Yes
+T001348,A00526,2024-09-19,Performance,High,31,Yes
+T001349,A00528,2023-08-15,Onboarding Help,Medium,,No
+T001350,A00528,2024-11-17,Performance,Medium,76,Yes
+T001351,A00528,2024-10-10,Integration Issue,Low,58,Yes
+T001352,A00528,2024-05-15,Feature Request,Medium,21,Yes
+T001353,A00528,2024-07-19,Performance,Medium,39,Yes
+T001354,A00528,2023-12-20,Onboarding Help,Low,,No
+T001355,A00528,2024-12-08,Onboarding Help,Low,75,Yes
+T001356,A00530,2024-12-19,Bug Report,Medium,77,Yes
+T001357,A00530,2024-12-17,Performance,Medium,71,Yes
+T001358,A00530,2024-11-13,Feature Request,High,,No
+T001359,A00530,2024-12-27,Billing,High,,No
+T001360,A00530,2024-12-15,Performance,High,42,Yes
+T001361,A00530,2024-12-19,Onboarding Help,Medium,53,Yes
+T001362,A00530,2024-12-30,Feature Request,Low,67,Yes
+T001363,A00531,2024-02-16,Performance,Low,134,Yes
+T001364,A00531,2023-07-05,Performance,Low,92,Yes
+T001365,A00531,2024-09-03,Billing,High,4,Yes
+T001366,A00531,2024-11-30,Integration Issue,Critical,7,Yes
+T001367,A00531,2024-12-15,Onboarding Help,Medium,49,Yes
+T001368,A00531,2023-08-08,Feature Request,Low,24,Yes
+T001369,A00531,2024-11-18,Feature Request,Critical,4,Yes
+T001370,A00531,2024-10-13,Feature Request,High,,No
+T001371,A00533,2024-10-29,Feature Request,Low,76,Yes
+T001372,A00533,2023-05-19,Billing,Low,62,Yes
+T001373,A00534,2024-11-18,Feature Request,Critical,,No
+T001374,A00535,2024-12-17,Billing,Medium,,No
+T001375,A00535,2024-11-10,Performance,Medium,84,Yes
+T001376,A00536,2024-12-12,Integration Issue,Medium,31,Yes
+T001377,A00537,2023-05-24,Integration Issue,Medium,67,Yes
+T001378,A00537,2023-06-06,Feature Request,Low,44,Yes
+T001379,A00538,2024-03-13,Integration Issue,Low,142,Yes
+T001380,A00538,2024-08-11,Feature Request,Low,48,Yes
+T001381,A00538,2023-10-02,Feature Request,High,34,Yes
+T001382,A00540,2024-09-20,Feature Request,High,39,Yes
+T001383,A00541,2024-06-27,Bug Report,Medium,28,Yes
+T001384,A00542,2024-08-27,Feature Request,Medium,47,Yes
+T001385,A00543,2024-07-26,Feature Request,Low,,No
+T001386,A00544,2024-09-12,Feature Request,Low,64,Yes
+T001387,A00544,2024-06-10,Onboarding Help,Medium,14,Yes
+T001388,A00545,2023-11-25,Integration Issue,Medium,64,Yes
+T001389,A00545,2024-06-19,Feature Request,Medium,81,Yes
+T001390,A00545,2023-06-17,Onboarding Help,High,,No
+T001391,A00547,2024-04-30,Onboarding Help,Medium,,No
+T001392,A00547,2024-04-18,Integration Issue,Medium,14,Yes
+T001393,A00547,2024-06-08,Bug Report,High,27,Yes
+T001394,A00548,2023-08-12,Bug Report,Low,63,Yes
+T001395,A00548,2024-05-24,Performance,Medium,15,Yes
+T001396,A00549,2024-12-01,Feature Request,Low,,No
+T001397,A00549,2024-10-17,Bug Report,High,31,Yes
+T001398,A00550,2023-04-12,Performance,Critical,8,Yes
+T001399,A00550,2023-08-21,Performance,Medium,67,Yes
+T001400,A00550,2023-02-18,Bug Report,Medium,13,Yes
+T001401,A00552,2024-11-18,Integration Issue,High,,No
+T001402,A00552,2024-04-19,Onboarding Help,Medium,,No
+T001403,A00552,2024-08-18,Onboarding Help,Medium,24,Yes
+T001404,A00553,2024-03-11,Feature Request,Medium,37,Yes
+T001405,A00554,2024-01-15,Bug Report,Low,32,Yes
+T001406,A00554,2024-06-13,Bug Report,Medium,,No
+T001407,A00554,2024-04-12,Bug Report,Low,76,Yes
+T001408,A00556,2024-12-16,Onboarding Help,Medium,17,Yes
+T001409,A00556,2024-12-04,Billing,Medium,13,Yes
+T001410,A00557,2024-12-23,Onboarding Help,Medium,86,Yes
+T001411,A00557,2024-11-28,Integration Issue,Critical,,No
+T001412,A00559,2024-11-20,Integration Issue,Critical,4,Yes
+T001413,A00559,2024-09-06,Billing,Low,,No
+T001414,A00559,2024-11-25,Bug Report,Low,147,Yes
+T001415,A00559,2024-08-06,Performance,Medium,,No
+T001416,A00559,2024-10-13,Integration Issue,Medium,45,Yes
+T001417,A00559,2024-09-24,Onboarding Help,Medium,22,Yes
+T001418,A00560,2024-09-02,Onboarding Help,Low,,No
+T001419,A00560,2024-08-06,Performance,High,38,Yes
+T001420,A00560,2024-08-02,Performance,Medium,16,Yes
+T001421,A00560,2023-09-16,Feature Request,High,27,Yes
+T001422,A00560,2024-12-18,Billing,Critical,1,Yes
+T001423,A00560,2024-09-18,Bug Report,High,,No
+T001424,A00561,2024-02-09,Performance,Medium,,No
+T001425,A00561,2024-01-29,Onboarding Help,Low,136,Yes
+T001426,A00561,2023-07-01,Bug Report,Low,,No
+T001427,A00561,2023-07-29,Performance,Low,125,Yes
+T001428,A00561,2023-09-02,Onboarding Help,High,43,Yes
+T001429,A00561,2024-07-25,Onboarding Help,Low,39,Yes
+T001430,A00561,2023-07-28,Integration Issue,Low,76,Yes
+T001431,A00561,2024-10-26,Performance,Medium,85,Yes
+T001432,A00561,2023-11-27,Integration Issue,High,21,Yes
+T001433,A00561,2024-11-16,Feature Request,Low,122,Yes
+T001434,A00561,2023-07-11,Bug Report,Low,38,Yes
+T001435,A00561,2023-10-03,Bug Report,Medium,27,Yes
+T001436,A00562,2024-11-07,Billing,Medium,88,Yes
+T001437,A00563,2024-10-29,Integration Issue,High,20,Yes
+T001438,A00564,2024-01-08,Onboarding Help,Low,129,Yes
+T001439,A00565,2024-12-31,Integration Issue,Low,85,Yes
+T001440,A00565,2024-12-20,Integration Issue,Low,132,Yes
+T001441,A00565,2024-12-25,Onboarding Help,High,13,Yes
+T001442,A00568,2024-12-12,Billing,Low,,No
+T001443,A00569,2024-09-02,Feature Request,High,46,Yes
+T001444,A00570,2024-11-20,Billing,High,22,Yes
+T001445,A00570,2024-03-18,Bug Report,Medium,73,Yes
+T001446,A00570,2023-11-04,Onboarding Help,Medium,33,Yes
+T001447,A00571,2023-11-16,Billing,Medium,,No
+T001448,A00571,2024-03-24,Onboarding Help,High,36,Yes
+T001449,A00573,2024-12-13,Performance,Medium,15,Yes
+T001450,A00573,2024-11-20,Bug Report,Medium,12,Yes
+T001451,A00573,2024-11-30,Performance,Low,,No
+T001452,A00573,2024-11-23,Onboarding Help,Medium,35,Yes
+T001453,A00575,2023-11-16,Performance,Low,,No
+T001454,A00575,2024-12-07,Bug Report,Low,152,Yes
+T001455,A00577,2024-10-09,Billing,Low,136,Yes
+T001456,A00577,2024-02-21,Performance,Critical,,No
+T001457,A00577,2024-03-29,Performance,Low,123,Yes
+T001458,A00578,2024-11-27,Onboarding Help,Critical,2,Yes
+T001459,A00578,2024-08-02,Billing,Medium,66,Yes
+T001460,A00578,2024-04-17,Onboarding Help,Medium,79,Yes
+T001461,A00578,2024-05-06,Onboarding Help,Low,24,Yes
+T001462,A00578,2024-10-13,Integration Issue,Medium,58,Yes
+T001463,A00578,2024-01-25,Feature Request,Medium,51,Yes
+T001464,A00578,2023-11-16,Integration Issue,Low,59,Yes
+T001465,A00578,2024-10-29,Bug Report,High,40,Yes
+T001466,A00579,2024-11-26,Bug Report,Low,168,Yes
+T001467,A00579,2023-12-06,Onboarding Help,Low,152,Yes
+T001468,A00580,2024-09-14,Bug Report,Medium,27,Yes
+T001469,A00580,2024-04-08,Performance,Critical,3,Yes
+T001470,A00580,2024-04-25,Integration Issue,Medium,84,Yes
+T001471,A00580,2024-07-29,Bug Report,High,39,Yes
+T001472,A00580,2024-03-17,Billing,Critical,7,Yes
+T001473,A00580,2024-03-22,Integration Issue,Critical,6,Yes
+T001474,A00581,2024-12-05,Onboarding Help,Low,124,Yes
+T001475,A00581,2024-12-21,Feature Request,Low,121,Yes
+T001476,A00581,2024-10-08,Feature Request,Medium,51,Yes
+T001477,A00581,2024-09-07,Billing,Medium,44,Yes
+T001478,A00581,2024-11-19,Integration Issue,Low,74,Yes
+T001479,A00581,2024-10-18,Performance,Medium,96,Yes
+T001480,A00581,2024-12-08,Performance,Medium,62,Yes
+T001481,A00581,2024-10-13,Feature Request,Medium,32,Yes
+T001482,A00581,2024-11-02,Performance,Low,,No
+T001483,A00581,2024-10-02,Integration Issue,High,37,Yes
+T001484,A00581,2024-12-23,Onboarding Help,High,12,Yes
+T001485,A00581,2024-12-28,Feature Request,Medium,81,Yes
+T001486,A00582,2024-12-04,Onboarding Help,Low,68,Yes
+T001487,A00583,2024-11-16,Integration Issue,Medium,31,Yes
+T001488,A00583,2024-11-11,Feature Request,High,35,Yes
+T001489,A00584,2024-12-21,Integration Issue,Critical,4,Yes
+T001490,A00586,2024-12-08,Bug Report,Low,134,Yes
+T001491,A00586,2023-09-01,Bug Report,High,22,Yes
+T001492,A00586,2023-08-15,Bug Report,Medium,19,Yes
+T001493,A00586,2024-01-13,Billing,Medium,89,Yes
+T001494,A00586,2023-11-28,Feature Request,Medium,40,Yes
+T001495,A00587,2024-01-22,Feature Request,Medium,,No
+T001496,A00587,2024-08-27,Performance,Medium,91,Yes
+T001497,A00587,2024-04-20,Performance,High,,No
+T001498,A00588,2024-12-15,Integration Issue,Medium,79,Yes
+T001499,A00588,2024-12-16,Bug Report,Medium,22,Yes
+T001500,A00589,2024-05-13,Integration Issue,Medium,91,Yes
+T001501,A00589,2024-09-26,Feature Request,Low,166,Yes
+T001502,A00590,2024-09-30,Performance,High,13,Yes
+T001503,A00590,2024-12-28,Onboarding Help,Critical,4,Yes
+T001504,A00591,2024-11-02,Onboarding Help,Medium,71,Yes
+T001505,A00591,2023-07-14,Billing,Medium,72,Yes
+T001506,A00593,2024-12-18,Bug Report,Low,69,Yes
+T001507,A00593,2024-07-19,Feature Request,Medium,,No
+T001508,A00593,2024-08-26,Onboarding Help,Medium,14,Yes
+T001509,A00594,2024-11-07,Feature Request,High,7,Yes
+T001510,A00594,2023-12-23,Feature Request,Critical,3,Yes
+T001511,A00594,2024-11-24,Performance,Medium,66,Yes
+T001512,A00594,2023-12-23,Bug Report,Medium,83,Yes
+T001513,A00594,2024-11-17,Bug Report,Medium,56,Yes
+T001514,A00594,2024-10-12,Onboarding Help,Medium,,No
+T001515,A00594,2024-04-05,Integration Issue,Medium,31,Yes
+T001516,A00595,2024-08-10,Billing,Low,52,Yes
+T001517,A00596,2024-02-20,Performance,High,10,Yes
+T001518,A00596,2024-02-18,Performance,Medium,48,Yes
+T001519,A00596,2024-01-11,Performance,Medium,,No
+T001520,A00597,2023-06-12,Billing,Low,159,Yes
+T001521,A00597,2024-06-18,Feature Request,Medium,44,Yes
+T001522,A00597,2024-06-01,Performance,High,16,Yes
+T001523,A00598,2024-05-30,Bug Report,Medium,51,Yes
+T001524,A00599,2024-12-14,Billing,Medium,58,Yes
+T001525,A00599,2024-12-10,Bug Report,Medium,61,Yes
+T001526,A00600,2024-07-30,Feature Request,Low,133,Yes
+T001527,A00600,2024-10-17,Integration Issue,Medium,68,Yes
+T001528,A00600,2024-05-04,Integration Issue,Medium,47,Yes
+T001529,A00602,2023-11-16,Billing,Medium,61,Yes
+T001530,A00602,2024-10-15,Performance,Low,86,Yes
+T001531,A00602,2023-08-02,Performance,Critical,,No
+T001532,A00602,2024-08-28,Feature Request,High,14,Yes
+T001533,A00603,2024-10-01,Performance,Low,38,Yes
+T001534,A00604,2024-05-12,Onboarding Help,High,,No
+T001535,A00604,2024-09-19,Bug Report,Medium,37,Yes
+T001536,A00604,2024-12-01,Performance,High,25,Yes
+T001537,A00605,2024-05-05,Integration Issue,Medium,93,Yes
+T001538,A00605,2024-04-12,Bug Report,Medium,71,Yes
+T001539,A00606,2024-08-12,Billing,Medium,44,Yes
+T001540,A00606,2024-07-14,Billing,Critical,1,Yes
+T001541,A00607,2024-09-07,Performance,Low,79,Yes
+T001542,A00607,2024-06-26,Onboarding Help,Low,114,Yes
+T001543,A00608,2024-08-08,Feature Request,Medium,27,Yes
+T001544,A00608,2024-08-15,Feature Request,Low,,No
+T001545,A00609,2024-09-04,Bug Report,High,,No
+T001546,A00609,2024-02-18,Bug Report,High,18,Yes
+T001547,A00611,2024-12-12,Feature Request,Medium,,No
+T001548,A00612,2024-05-20,Bug Report,Medium,89,Yes
+T001549,A00612,2024-08-05,Bug Report,Low,126,Yes
+T001550,A00612,2024-04-27,Performance,Medium,64,Yes
+T001551,A00612,2024-07-30,Billing,Medium,37,Yes
+T001552,A00612,2024-10-10,Bug Report,Medium,16,Yes
+T001553,A00612,2024-10-28,Billing,Medium,69,Yes
+T001554,A00612,2024-11-04,Billing,Medium,84,Yes
+T001555,A00612,2024-09-10,Performance,Medium,96,Yes
+T001556,A00613,2024-02-28,Performance,Medium,86,Yes
+T001557,A00614,2024-08-07,Performance,Medium,83,Yes
+T001558,A00614,2024-12-07,Performance,High,20,Yes
+T001559,A00614,2024-06-16,Feature Request,Critical,3,Yes
+T001560,A00614,2024-06-01,Bug Report,High,44,Yes
+T001561,A00614,2024-05-23,Onboarding Help,Low,74,Yes
+T001562,A00614,2024-12-14,Bug Report,Medium,33,Yes
+T001563,A00615,2024-03-26,Integration Issue,Medium,38,Yes
+T001564,A00615,2024-02-25,Billing,High,12,Yes
+T001565,A00616,2024-11-10,Performance,High,47,Yes
+T001566,A00616,2024-11-26,Performance,Low,,No
+T001567,A00618,2024-04-25,Onboarding Help,Low,27,Yes
+T001568,A00618,2024-11-15,Bug Report,High,31,Yes
+T001569,A00618,2023-08-13,Billing,Medium,95,Yes
+T001570,A00618,2024-10-06,Integration Issue,Medium,48,Yes
+T001571,A00618,2023-09-04,Onboarding Help,Low,100,Yes
+T001572,A00618,2024-02-11,Performance,Low,124,Yes
+T001573,A00618,2023-09-19,Feature Request,High,27,Yes
+T001574,A00619,2024-08-14,Integration Issue,Medium,26,Yes
+T001575,A00620,2024-02-08,Bug Report,Medium,,No
+T001576,A00621,2023-06-16,Bug Report,Medium,30,Yes
+T001577,A00621,2023-09-25,Onboarding Help,Critical,5,Yes
+T001578,A00621,2024-09-27,Feature Request,Medium,93,Yes
+T001579,A00623,2023-07-28,Integration Issue,Medium,47,Yes
+T001580,A00623,2023-11-14,Onboarding Help,Critical,5,Yes
+T001581,A00623,2024-11-20,Feature Request,Medium,40,Yes
+T001582,A00623,2024-06-10,Bug Report,Critical,1,Yes
+T001583,A00623,2023-12-14,Feature Request,Low,,No
+T001584,A00623,2024-08-27,Performance,Medium,36,Yes
+T001585,A00623,2023-07-16,Billing,Low,,No
+T001586,A00623,2024-11-24,Integration Issue,High,4,Yes
+T001587,A00623,2024-10-19,Onboarding Help,High,14,Yes
+T001588,A00623,2024-09-27,Feature Request,Critical,1,Yes
+T001589,A00623,2023-07-02,Integration Issue,Medium,22,Yes
+T001590,A00623,2023-08-30,Feature Request,High,5,Yes
+T001591,A00624,2024-08-21,Billing,Medium,,No
+T001592,A00625,2024-12-03,Integration Issue,Medium,69,Yes
+T001593,A00625,2023-08-08,Integration Issue,Low,139,Yes
+T001594,A00625,2023-10-16,Onboarding Help,Low,167,Yes
+T001595,A00626,2024-12-28,Feature Request,Medium,27,Yes
+T001596,A00626,2024-12-31,Onboarding Help,High,17,Yes
+T001597,A00626,2024-12-28,Feature Request,Medium,,No
+T001598,A00626,2024-12-29,Billing,Medium,75,Yes
+T001599,A00626,2024-12-30,Billing,Medium,40,Yes
+T001600,A00627,2024-12-22,Feature Request,Medium,34,Yes
+T001601,A00627,2024-12-16,Billing,High,,No
+T001602,A00627,2024-12-20,Feature Request,High,43,Yes
+T001603,A00627,2024-12-28,Integration Issue,High,38,Yes
+T001604,A00628,2024-10-20,Performance,Medium,95,Yes
+T001605,A00628,2024-10-07,Onboarding Help,Low,78,Yes
+T001606,A00628,2024-10-16,Performance,Low,88,Yes
+T001607,A00628,2024-08-21,Integration Issue,High,28,Yes
+T001608,A00628,2024-10-10,Performance,High,33,Yes
+T001609,A00628,2024-10-14,Integration Issue,Low,149,Yes
+T001610,A00629,2023-12-24,Onboarding Help,Medium,,No
+T001611,A00629,2024-06-29,Billing,Medium,,No
+T001612,A00629,2024-07-09,Onboarding Help,Medium,75,Yes
+T001613,A00630,2024-08-10,Feature Request,High,,No
+T001614,A00631,2024-11-14,Integration Issue,Medium,48,Yes
+T001615,A00631,2024-06-24,Onboarding Help,High,48,Yes
+T001616,A00632,2024-11-27,Integration Issue,Low,,No
+T001617,A00633,2024-05-06,Billing,High,40,Yes
+T001618,A00633,2024-05-07,Integration Issue,Low,,No
+T001619,A00635,2024-12-11,Performance,High,6,Yes
+T001620,A00637,2024-11-06,Feature Request,High,42,Yes
+T001621,A00637,2024-10-31,Integration Issue,Medium,77,Yes
+T001622,A00637,2024-12-09,Onboarding Help,Critical,7,Yes
+T001623,A00637,2024-11-02,Onboarding Help,Low,138,Yes
+T001624,A00637,2024-12-04,Performance,Low,,No
+T001625,A00637,2024-11-25,Feature Request,Medium,17,Yes
+T001626,A00637,2024-12-05,Billing,Low,66,Yes
+T001627,A00638,2024-02-20,Onboarding Help,Low,27,Yes
+T001628,A00640,2024-10-08,Feature Request,Low,148,Yes
+T001629,A00640,2024-12-30,Feature Request,Low,105,Yes
+T001630,A00642,2024-12-17,Onboarding Help,Medium,,No
+T001631,A00642,2024-10-25,Billing,Medium,44,Yes
+T001632,A00642,2024-09-28,Bug Report,Medium,78,Yes
+T001633,A00642,2024-08-17,Bug Report,High,21,Yes
+T001634,A00643,2024-11-28,Performance,Critical,8,Yes
+T001635,A00643,2024-09-16,Integration Issue,Low,161,Yes
+T001636,A00645,2024-07-31,Billing,Low,,No
+T001637,A00646,2024-03-12,Performance,High,8,Yes
+T001638,A00647,2023-08-14,Integration Issue,Medium,,No
+T001639,A00647,2023-05-22,Billing,Medium,,No
+T001640,A00647,2024-02-18,Bug Report,Medium,64,Yes
+T001641,A00647,2023-10-17,Integration Issue,Low,58,Yes
+T001642,A00647,2023-05-11,Bug Report,Low,133,Yes
+T001643,A00647,2023-08-18,Billing,Low,159,Yes
+T001644,A00647,2024-06-04,Bug Report,Low,151,Yes
+T001645,A00648,2024-08-05,Performance,Low,,No
+T001646,A00648,2024-07-30,Bug Report,Low,33,Yes
+T001647,A00648,2024-07-11,Performance,Medium,59,Yes
+T001648,A00649,2024-10-01,Integration Issue,Medium,38,Yes
+T001649,A00649,2024-09-18,Performance,Low,,No
+T001650,A00649,2024-10-01,Performance,Medium,56,Yes
+T001651,A00650,2024-03-05,Onboarding Help,Critical,,No
+T001652,A00651,2023-09-24,Onboarding Help,Medium,68,Yes
+T001653,A00651,2023-07-12,Billing,Medium,91,Yes
+T001654,A00651,2023-11-01,Billing,Low,166,Yes
+T001655,A00653,2024-12-21,Feature Request,Medium,51,Yes
+T001656,A00653,2024-12-11,Bug Report,Low,,No
+T001657,A00654,2024-12-31,Integration Issue,Medium,,No
+T001658,A00654,2024-12-12,Integration Issue,Medium,62,Yes
+T001659,A00656,2024-05-05,Bug Report,Low,57,Yes
+T001660,A00656,2024-10-31,Onboarding Help,Critical,3,Yes
+T001661,A00656,2024-06-17,Billing,Low,82,Yes
+T001662,A00656,2024-09-17,Onboarding Help,Medium,13,Yes
+T001663,A00657,2024-12-12,Bug Report,Medium,30,Yes
+T001664,A00657,2024-12-20,Integration Issue,Low,108,Yes
+T001665,A00658,2024-08-30,Feature Request,Medium,,No
+T001666,A00658,2024-11-26,Onboarding Help,High,29,Yes
+T001667,A00658,2023-07-22,Performance,Low,79,Yes
+T001668,A00659,2024-10-22,Integration Issue,High,38,Yes
+T001669,A00659,2024-05-25,Onboarding Help,Medium,66,Yes
+T001670,A00659,2023-11-26,Billing,Medium,13,Yes
+T001671,A00659,2023-10-28,Integration Issue,Medium,18,Yes
+T001672,A00659,2024-06-14,Onboarding Help,Low,82,Yes
+T001673,A00660,2024-12-24,Performance,Medium,72,Yes
+T001674,A00660,2024-12-31,Bug Report,Low,65,Yes
+T001675,A00660,2024-11-19,Bug Report,Low,93,Yes
+T001676,A00661,2024-10-30,Feature Request,Low,162,Yes
+T001677,A00661,2024-09-30,Integration Issue,Critical,7,Yes
+T001678,A00662,2024-09-10,Integration Issue,Medium,93,Yes
+T001679,A00663,2024-12-29,Performance,Low,53,Yes
+T001680,A00663,2024-12-28,Bug Report,Low,101,Yes
+T001681,A00663,2024-12-30,Billing,Medium,,No
+T001682,A00664,2023-11-28,Bug Report,Medium,31,Yes
+T001683,A00664,2024-06-28,Billing,Low,74,Yes
+T001684,A00664,2024-12-20,Billing,Medium,,No
+T001685,A00666,2024-02-23,Performance,Low,,No
+T001686,A00666,2024-11-14,Integration Issue,Low,29,Yes
+T001687,A00666,2024-01-26,Integration Issue,Medium,52,Yes
+T001688,A00667,2024-08-11,Billing,Medium,,No
+T001689,A00668,2023-09-03,Bug Report,Low,81,Yes
+T001690,A00670,2024-07-11,Onboarding Help,Low,133,Yes
+T001691,A00670,2024-06-27,Bug Report,Medium,43,Yes
+T001692,A00670,2024-05-20,Billing,Medium,86,Yes
+T001693,A00670,2024-11-27,Performance,Medium,29,Yes
+T001694,A00670,2024-11-30,Bug Report,Medium,53,Yes
+T001695,A00671,2023-11-02,Feature Request,Medium,24,Yes
+T001696,A00671,2024-04-18,Feature Request,Low,44,Yes
+T001697,A00672,2024-11-17,Onboarding Help,High,47,Yes
+T001698,A00672,2023-10-30,Integration Issue,Low,161,Yes
+T001699,A00672,2024-04-05,Onboarding Help,Critical,3,Yes
+T001700,A00673,2024-12-03,Bug Report,Low,27,Yes
+T001701,A00673,2024-08-25,Bug Report,Medium,71,Yes
+T001702,A00673,2024-07-03,Billing,High,,No
+T001703,A00673,2024-03-06,Onboarding Help,High,27,Yes
+T001704,A00675,2023-03-08,Onboarding Help,Medium,,No
+T001705,A00675,2024-11-20,Performance,High,5,Yes
+T001706,A00675,2024-01-03,Integration Issue,Low,28,Yes
+T001707,A00677,2024-07-15,Billing,Low,36,Yes
+T001708,A00678,2024-12-20,Bug Report,High,,No
+T001709,A00678,2024-12-13,Bug Report,Medium,13,Yes
+T001710,A00679,2024-04-06,Billing,Critical,7,Yes
+T001711,A00679,2024-04-28,Bug Report,High,34,Yes
+T001712,A00679,2024-11-20,Integration Issue,Low,120,Yes
+T001713,A00682,2024-10-07,Bug Report,High,7,Yes
+T001714,A00682,2023-04-21,Bug Report,High,45,Yes
+T001715,A00682,2024-07-24,Billing,Medium,,No
+T001716,A00683,2024-02-05,Integration Issue,Medium,20,Yes
+T001717,A00683,2024-04-12,Integration Issue,Medium,80,Yes
+T001718,A00683,2024-01-02,Onboarding Help,Medium,39,Yes
+T001719,A00683,2024-03-30,Feature Request,Low,129,Yes
+T001720,A00683,2024-04-15,Performance,Critical,5,Yes
+T001721,A00683,2024-10-05,Onboarding Help,Low,48,Yes
+T001722,A00683,2024-03-02,Bug Report,Medium,36,Yes
+T001723,A00684,2024-08-26,Feature Request,Medium,50,Yes
+T001724,A00685,2023-12-05,Integration Issue,Medium,67,Yes
+T001725,A00685,2024-11-21,Onboarding Help,Critical,,No
+T001726,A00687,2023-03-24,Performance,Medium,75,Yes
+T001727,A00687,2023-05-26,Bug Report,Medium,79,Yes
+T001728,A00688,2023-08-10,Billing,Medium,87,Yes
+T001729,A00688,2024-12-13,Feature Request,Critical,,No
+T001730,A00689,2023-12-19,Bug Report,Critical,4,Yes
+T001731,A00689,2024-11-07,Integration Issue,Medium,40,Yes
+T001732,A00690,2023-11-28,Bug Report,Medium,,No
+T001733,A00690,2024-11-09,Integration Issue,High,36,Yes
+T001734,A00690,2024-12-19,Feature Request,Medium,86,Yes
+T001735,A00691,2023-06-23,Billing,Medium,74,Yes
+T001736,A00691,2024-10-11,Billing,Low,51,Yes
+T001737,A00692,2023-08-24,Onboarding Help,Medium,70,Yes
+T001738,A00692,2024-05-15,Billing,Medium,36,Yes
+T001739,A00692,2024-07-15,Onboarding Help,High,45,Yes
+T001740,A00692,2024-08-21,Bug Report,Low,,No
+T001741,A00693,2023-09-17,Feature Request,Low,136,Yes
+T001742,A00694,2024-01-29,Integration Issue,Low,158,Yes
+T001743,A00694,2024-07-09,Onboarding Help,High,27,Yes
+T001744,A00694,2023-10-15,Billing,Low,133,Yes
+T001745,A00694,2024-11-02,Integration Issue,Critical,5,Yes
+T001746,A00694,2024-09-12,Integration Issue,Low,89,Yes
+T001747,A00694,2024-06-01,Performance,Medium,23,Yes
+T001748,A00695,2024-05-30,Onboarding Help,Medium,23,Yes
+T001749,A00697,2024-12-27,Feature Request,Low,25,Yes
+T001750,A00698,2024-09-09,Performance,Low,,No
+T001751,A00698,2024-04-27,Billing,High,35,Yes
+T001752,A00698,2023-10-19,Onboarding Help,Medium,,No
+T001753,A00698,2024-10-24,Performance,Medium,29,Yes
+T001754,A00698,2024-11-24,Performance,Medium,61,Yes
+T001755,A00698,2024-09-06,Feature Request,High,41,Yes
+T001756,A00698,2024-01-03,Billing,Low,,No
+T001757,A00698,2024-08-09,Billing,Low,118,Yes
+T001758,A00699,2024-08-07,Feature Request,High,7,Yes
+T001759,A00700,2024-11-14,Integration Issue,High,,No
+T001760,A00700,2024-11-30,Integration Issue,Critical,4,Yes
+T001761,A00701,2023-02-16,Integration Issue,Medium,,No
+T001762,A00701,2024-05-13,Bug Report,Medium,53,Yes
+T001763,A00701,2023-11-18,Bug Report,Low,83,Yes
+T001764,A00701,2023-09-06,Billing,Medium,73,Yes
+T001765,A00702,2024-04-06,Billing,Medium,,No
+T001766,A00702,2023-10-19,Bug Report,Low,33,Yes
+T001767,A00703,2024-11-19,Feature Request,Medium,17,Yes
+T001768,A00703,2024-12-07,Feature Request,Low,136,Yes
+T001769,A00703,2024-12-21,Bug Report,High,17,Yes
+T001770,A00704,2024-07-18,Billing,Low,125,Yes
+T001771,A00706,2023-11-19,Bug Report,High,23,Yes
+T001772,A00707,2024-03-06,Feature Request,High,,No
+T001773,A00707,2024-12-10,Feature Request,High,46,Yes
+T001774,A00707,2024-03-31,Billing,Low,53,Yes
+T001775,A00707,2024-09-30,Integration Issue,Medium,12,Yes
+T001776,A00707,2024-11-24,Billing,Medium,12,Yes
+T001777,A00707,2024-11-10,Integration Issue,Medium,18,Yes
+T001778,A00707,2024-09-28,Bug Report,Medium,35,Yes
+T001779,A00709,2024-10-24,Integration Issue,Medium,50,Yes
+T001780,A00709,2024-10-25,Billing,Medium,66,Yes
+T001781,A00710,2024-04-28,Performance,High,31,Yes
+T001782,A00710,2024-03-01,Bug Report,Medium,74,Yes
+T001783,A00710,2023-07-25,Integration Issue,Critical,2,Yes
+T001784,A00712,2024-05-05,Onboarding Help,Medium,24,Yes
+T001785,A00712,2024-05-05,Onboarding Help,Medium,12,Yes
+T001786,A00712,2023-08-28,Billing,Low,,No
+T001787,A00712,2023-09-09,Billing,High,47,Yes
+T001788,A00712,2024-07-06,Integration Issue,Medium,52,Yes
+T001789,A00712,2024-07-10,Billing,High,37,Yes
+T001790,A00712,2023-07-13,Integration Issue,Medium,80,Yes
+T001791,A00713,2024-12-06,Integration Issue,Low,,No
+T001792,A00713,2024-12-16,Billing,Critical,4,Yes
+T001793,A00713,2024-12-19,Bug Report,Low,,No
+T001794,A00715,2024-02-29,Integration Issue,Low,162,Yes
+T001795,A00715,2024-10-25,Billing,Medium,25,Yes
+T001796,A00715,2024-02-10,Performance,Low,,No
+T001797,A00716,2024-07-23,Performance,Low,113,Yes
+T001798,A00716,2024-08-14,Integration Issue,High,38,Yes
+T001799,A00716,2024-08-28,Billing,Critical,1,Yes
+T001800,A00717,2024-12-07,Onboarding Help,Medium,37,Yes
+T001801,A00717,2024-12-24,Feature Request,Low,126,Yes
+T001802,A00717,2024-12-15,Performance,Medium,62,Yes
+T001803,A00717,2024-11-25,Performance,High,7,Yes
+T001804,A00717,2024-11-29,Integration Issue,Low,119,Yes
+T001805,A00717,2024-12-22,Feature Request,Medium,70,Yes
+T001806,A00717,2024-12-13,Integration Issue,High,30,Yes
+T001807,A00717,2024-12-04,Onboarding Help,High,,No
+T001808,A00718,2024-12-31,Performance,Medium,,No
+T001809,A00720,2024-10-24,Integration Issue,Low,69,Yes
+T001810,A00720,2024-05-02,Performance,High,46,Yes
+T001811,A00720,2024-11-22,Feature Request,High,44,Yes
+T001812,A00720,2024-10-24,Integration Issue,Low,34,Yes
+T001813,A00721,2024-03-01,Bug Report,Medium,87,Yes
+T001814,A00721,2024-01-11,Onboarding Help,Low,,No
+T001815,A00723,2024-07-23,Performance,Medium,51,Yes
+T001816,A00723,2024-11-10,Billing,High,,No
+T001817,A00724,2024-08-16,Integration Issue,Medium,19,Yes
+T001818,A00724,2024-08-02,Feature Request,High,18,Yes
+T001819,A00726,2024-11-06,Feature Request,Medium,15,Yes
+T001820,A00726,2024-04-22,Billing,Critical,,No
+T001821,A00726,2023-07-19,Billing,High,,No
+T001822,A00727,2024-07-20,Onboarding Help,Medium,29,Yes
+T001823,A00727,2024-08-18,Integration Issue,Low,79,Yes
+T001824,A00727,2024-12-13,Onboarding Help,High,30,Yes
+T001825,A00728,2024-10-15,Billing,Low,117,Yes
+T001826,A00728,2024-06-29,Feature Request,Medium,42,Yes
+T001827,A00728,2024-12-02,Billing,High,11,Yes
+T001828,A00729,2024-10-19,Bug Report,Medium,49,Yes
+T001829,A00729,2024-04-19,Billing,Medium,44,Yes
+T001830,A00730,2024-12-08,Integration Issue,High,15,Yes
+T001831,A00730,2024-10-25,Billing,Medium,54,Yes
+T001832,A00732,2024-10-04,Onboarding Help,Low,100,Yes
+T001833,A00733,2024-01-28,Bug Report,High,8,Yes
+T001834,A00733,2024-09-06,Feature Request,Medium,55,Yes
+T001835,A00733,2024-10-23,Integration Issue,High,35,Yes
+T001836,A00733,2024-08-01,Billing,High,43,Yes
+T001837,A00733,2024-08-19,Performance,Medium,84,Yes
+T001838,A00734,2024-12-26,Integration Issue,Low,26,Yes
+T001839,A00734,2024-10-23,Performance,Low,109,Yes
+T001840,A00734,2024-10-30,Onboarding Help,Critical,8,Yes
+T001841,A00735,2024-06-12,Performance,High,35,Yes
+T001842,A00735,2024-03-24,Onboarding Help,Medium,86,Yes
+T001843,A00735,2023-10-22,Billing,Low,41,Yes
+T001844,A00735,2024-07-26,Billing,Medium,73,Yes
+T001845,A00735,2024-08-31,Billing,Medium,77,Yes
+T001846,A00735,2024-01-26,Onboarding Help,Low,70,Yes
+T001847,A00735,2024-07-12,Integration Issue,Medium,70,Yes
+T001848,A00735,2024-11-03,Bug Report,Low,153,Yes
+T001849,A00736,2024-09-03,Onboarding Help,Medium,68,Yes
+T001850,A00736,2024-08-04,Billing,Medium,26,Yes
+T001851,A00736,2024-10-11,Integration Issue,Medium,,No
+T001852,A00737,2024-10-09,Onboarding Help,High,12,Yes
+T001853,A00737,2024-10-25,Bug Report,High,42,Yes
+T001854,A00737,2024-07-19,Onboarding Help,Medium,,No
+T001855,A00737,2024-04-29,Integration Issue,Low,146,Yes
+T001856,A00737,2024-06-19,Onboarding Help,Low,117,Yes
+T001857,A00737,2024-08-03,Bug Report,High,42,Yes
+T001858,A00738,2024-12-07,Onboarding Help,High,32,Yes
+T001859,A00738,2024-12-12,Feature Request,High,11,Yes
+T001860,A00738,2024-11-08,Billing,Medium,69,Yes
+T001861,A00738,2024-12-18,Bug Report,Low,,No
+T001862,A00738,2024-10-26,Feature Request,Medium,,No
+T001863,A00738,2024-10-17,Bug Report,Medium,15,Yes
+T001864,A00738,2024-12-30,Feature Request,Medium,59,Yes
+T001865,A00739,2024-10-29,Feature Request,High,29,Yes
+T001866,A00739,2024-12-31,Onboarding Help,Low,34,Yes
+T001867,A00740,2024-03-26,Billing,Medium,89,Yes
+T001868,A00740,2024-07-21,Feature Request,Medium,17,Yes
+T001869,A00740,2024-09-13,Onboarding Help,Medium,94,Yes
+T001870,A00741,2024-11-12,Billing,Medium,90,Yes
+T001871,A00741,2024-08-13,Performance,Medium,,No
+T001872,A00742,2023-06-04,Performance,Medium,38,Yes
+T001873,A00742,2023-09-04,Feature Request,Critical,6,Yes
+T001874,A00743,2023-10-26,Onboarding Help,Low,,No
+T001875,A00743,2024-02-16,Bug Report,Low,115,Yes
+T001876,A00743,2024-02-14,Performance,Medium,73,Yes
+T001877,A00744,2023-06-01,Performance,Critical,5,Yes
+T001878,A00744,2024-09-11,Integration Issue,Medium,78,Yes
+T001879,A00746,2024-06-09,Bug Report,High,24,Yes
+T001880,A00746,2024-12-31,Performance,Medium,87,Yes
+T001881,A00746,2024-03-16,Billing,Low,53,Yes
+T001882,A00747,2023-10-09,Billing,Medium,13,Yes
+T001883,A00747,2024-04-04,Feature Request,Medium,,No
+T001884,A00748,2024-09-30,Billing,Low,28,Yes
+T001885,A00748,2024-09-06,Onboarding Help,Medium,,No
+T001886,A00750,2024-08-13,Feature Request,High,48,Yes
+T001887,A00750,2024-05-26,Onboarding Help,Medium,74,Yes
+T001888,A00750,2023-11-02,Integration Issue,High,21,Yes
+T001889,A00751,2024-12-28,Onboarding Help,Medium,50,Yes
+T001890,A00751,2024-12-22,Feature Request,Medium,56,Yes
+T001891,A00752,2024-06-12,Integration Issue,Low,147,Yes
+T001892,A00752,2023-11-29,Bug Report,High,31,Yes
+T001893,A00752,2024-05-22,Onboarding Help,Medium,24,Yes
+T001894,A00753,2024-04-20,Performance,Medium,38,Yes
+T001895,A00753,2023-08-22,Onboarding Help,Medium,15,Yes
+T001896,A00754,2024-12-10,Integration Issue,Critical,7,Yes
+T001897,A00754,2024-06-21,Integration Issue,High,25,Yes
+T001898,A00754,2024-06-13,Performance,Low,76,Yes
+T001899,A00756,2024-10-18,Billing,Medium,84,Yes
+T001900,A00758,2023-10-10,Feature Request,High,39,Yes
+T001901,A00758,2023-06-30,Onboarding Help,Low,,No
+T001902,A00758,2024-08-17,Bug Report,Medium,89,Yes
+T001903,A00759,2024-07-18,Feature Request,Low,111,Yes
+T001904,A00759,2024-07-21,Performance,Low,,No
+T001905,A00759,2024-08-30,Integration Issue,Critical,,No
+T001906,A00762,2024-11-04,Feature Request,High,24,Yes
+T001907,A00762,2024-09-20,Billing,Medium,23,Yes
+T001908,A00763,2024-11-16,Performance,Medium,,No
+T001909,A00764,2024-12-28,Feature Request,Medium,85,Yes
+T001910,A00764,2024-12-28,Performance,Low,136,Yes
+T001911,A00764,2024-12-23,Onboarding Help,Medium,82,Yes
+T001912,A00766,2024-08-06,Feature Request,High,38,Yes
+T001913,A00766,2024-12-10,Bug Report,Medium,68,Yes
+T001914,A00766,2024-06-08,Feature Request,Critical,7,Yes
+T001915,A00767,2024-08-04,Billing,High,12,Yes
+T001916,A00767,2024-05-18,Billing,Low,,No
+T001917,A00767,2024-08-23,Onboarding Help,Low,95,Yes
+T001918,A00767,2024-06-28,Feature Request,Medium,,No
+T001919,A00767,2024-01-16,Performance,High,47,Yes
+T001920,A00767,2024-07-09,Onboarding Help,Low,38,Yes
+T001921,A00767,2024-12-02,Integration Issue,Medium,17,Yes
+T001922,A00767,2024-03-23,Onboarding Help,Medium,28,Yes
+T001923,A00770,2024-12-04,Billing,Low,95,Yes
+T001924,A00770,2023-10-12,Performance,High,39,Yes
+T001925,A00770,2024-07-26,Billing,Medium,59,Yes
+T001926,A00771,2024-07-13,Bug Report,High,42,Yes
+T001927,A00771,2024-12-22,Onboarding Help,Medium,23,Yes
+T001928,A00771,2024-07-19,Bug Report,High,24,Yes
+T001929,A00774,2024-11-01,Integration Issue,Medium,,No
+T001930,A00774,2024-11-26,Feature Request,Medium,,No
+T001931,A00774,2024-12-06,Feature Request,Medium,23,Yes
+T001932,A00775,2024-08-17,Feature Request,Low,47,Yes
+T001933,A00776,2024-11-09,Performance,High,30,Yes
+T001934,A00776,2024-05-13,Performance,Medium,18,Yes
+T001935,A00776,2024-11-20,Integration Issue,Medium,15,Yes
+T001936,A00777,2023-12-21,Integration Issue,Medium,,No
+T001937,A00778,2024-10-02,Bug Report,Low,,No
+T001938,A00779,2024-06-23,Billing,Low,,No
+T001939,A00780,2024-08-28,Performance,Medium,,No
+T001940,A00781,2024-12-18,Bug Report,Low,54,Yes
+T001941,A00781,2024-12-14,Bug Report,Medium,12,Yes
+T001942,A00782,2024-12-20,Onboarding Help,Medium,30,Yes
+T001943,A00782,2024-12-30,Performance,High,32,Yes
+T001944,A00782,2024-12-17,Bug Report,High,11,Yes
+T001945,A00782,2024-12-20,Bug Report,Critical,,No
+T001946,A00782,2024-12-28,Billing,Critical,4,Yes
+T001947,A00782,2024-12-14,Integration Issue,Medium,36,Yes
+T001948,A00784,2024-03-27,Feature Request,Critical,4,Yes
+T001949,A00784,2024-04-18,Billing,Medium,49,Yes
+T001950,A00784,2024-09-29,Billing,Low,27,Yes
+T001951,A00785,2024-11-26,Billing,Low,57,Yes
+T001952,A00785,2024-10-18,Bug Report,Low,88,Yes
+T001953,A00785,2024-08-26,Onboarding Help,Medium,16,Yes
+T001954,A00785,2024-07-30,Integration Issue,Medium,61,Yes
+T001955,A00785,2024-10-21,Feature Request,Low,120,Yes
+T001956,A00786,2024-05-04,Feature Request,Medium,40,Yes
+T001957,A00786,2024-05-17,Feature Request,High,11,Yes
+T001958,A00786,2024-04-17,Feature Request,Low,55,Yes
+T001959,A00788,2024-01-30,Integration Issue,Low,58,Yes
+T001960,A00788,2024-10-12,Performance,Low,48,Yes
+T001961,A00788,2024-01-29,Onboarding Help,Medium,58,Yes
+T001962,A00790,2024-05-10,Billing,High,39,Yes
+T001963,A00790,2024-08-15,Bug Report,High,,No
+T001964,A00790,2024-11-11,Onboarding Help,Medium,,No
+T001965,A00790,2024-11-24,Billing,High,27,Yes
+T001966,A00790,2024-07-14,Billing,High,46,Yes
+T001967,A00790,2024-12-30,Performance,Medium,27,Yes
+T001968,A00790,2024-11-19,Bug Report,Critical,3,Yes
+T001969,A00790,2024-09-13,Bug Report,Low,80,Yes
+T001970,A00791,2023-09-16,Performance,Low,159,Yes
+T001971,A00791,2023-12-27,Onboarding Help,High,43,Yes
+T001972,A00791,2024-02-16,Onboarding Help,Medium,19,Yes
+T001973,A00792,2024-11-10,Bug Report,High,34,Yes
+T001974,A00792,2023-11-29,Integration Issue,Low,104,Yes
+T001975,A00793,2024-12-28,Billing,Low,40,Yes
+T001976,A00793,2024-10-27,Feature Request,Medium,59,Yes
+T001977,A00794,2024-07-09,Performance,Critical,,No
+T001978,A00794,2024-10-28,Billing,Medium,80,Yes
+T001979,A00797,2024-09-19,Onboarding Help,Medium,27,Yes
+T001980,A00797,2023-12-14,Onboarding Help,High,34,Yes
+T001981,A00797,2023-12-03,Onboarding Help,Medium,,No
+T001982,A00798,2024-09-12,Billing,Medium,30,Yes
+T001983,A00798,2023-12-30,Feature Request,Medium,61,Yes
+T001984,A00799,2024-12-09,Bug Report,Medium,12,Yes
+T001985,A00799,2023-07-10,Bug Report,Low,117,Yes
+T001986,A00799,2024-04-25,Bug Report,High,30,Yes
+T001987,A00799,2024-01-21,Feature Request,Medium,86,Yes
+T001988,A00799,2024-05-31,Onboarding Help,High,13,Yes
+T001989,A00799,2023-11-18,Performance,High,41,Yes
+T001990,A00799,2023-12-07,Bug Report,Low,167,Yes
+T001991,A00799,2024-11-03,Performance,Medium,24,Yes
+T001992,A00799,2023-11-25,Performance,High,33,Yes
+T001993,A00799,2023-05-17,Feature Request,Medium,,No
+T001994,A00799,2023-12-02,Billing,Medium,88,Yes
+T001995,A00799,2023-11-11,Feature Request,Low,74,Yes
+T001996,A00799,2023-09-19,Billing,Medium,50,Yes
+T001997,A00799,2024-07-02,Onboarding Help,Critical,2,Yes
+T001998,A00799,2023-07-19,Billing,High,38,Yes
+T001999,A00800,2023-09-12,Feature Request,Critical,,No
+T002000,A00801,2024-02-26,Feature Request,Medium,72,Yes
+T002001,A00802,2024-03-29,Feature Request,Medium,78,Yes
+T002002,A00802,2024-01-26,Integration Issue,Low,,No
+T002003,A00802,2023-10-12,Onboarding Help,Medium,,No
+T002004,A00802,2024-08-12,Performance,Low,129,Yes
+T002005,A00802,2024-06-07,Feature Request,Low,,No
+T002006,A00802,2023-09-28,Bug Report,Medium,,No
+T002007,A00802,2024-12-23,Onboarding Help,Low,93,Yes
+T002008,A00803,2024-12-28,Feature Request,High,48,Yes
+T002009,A00803,2024-09-15,Feature Request,Low,162,Yes
+T002010,A00803,2024-12-13,Billing,Low,135,Yes
+T002011,A00803,2024-09-30,Onboarding Help,Critical,8,Yes
+T002012,A00804,2024-09-29,Performance,Critical,3,Yes
+T002013,A00805,2024-12-25,Billing,Medium,,No
+T002014,A00805,2024-12-31,Integration Issue,Medium,18,Yes
+T002015,A00805,2024-12-16,Onboarding Help,Low,57,Yes
+T002016,A00805,2024-11-28,Billing,Medium,33,Yes
+T002017,A00805,2024-11-30,Performance,Critical,6,Yes
+T002018,A00805,2024-12-28,Performance,High,11,Yes
+T002019,A00805,2024-12-05,Bug Report,Low,39,Yes
+T002020,A00806,2024-08-04,Integration Issue,High,9,Yes
+T002021,A00807,2024-04-07,Bug Report,Medium,33,Yes
+T002022,A00807,2024-01-27,Bug Report,Medium,,No
+T002023,A00807,2024-07-28,Performance,High,,No
+T002024,A00807,2024-10-30,Integration Issue,Medium,93,Yes
+T002025,A00807,2024-07-18,Bug Report,Low,73,Yes
+T002026,A00807,2024-08-13,Bug Report,Medium,34,Yes
+T002027,A00807,2024-11-14,Performance,Medium,82,Yes
+T002028,A00808,2024-02-13,Integration Issue,Medium,22,Yes
+T002029,A00808,2024-12-05,Performance,High,40,Yes
+T002030,A00808,2024-01-12,Billing,Medium,34,Yes
+T002031,A00809,2024-09-04,Performance,High,30,Yes
+T002032,A00810,2024-11-17,Billing,High,,No
+T002033,A00810,2024-12-21,Billing,Low,40,Yes
+T002034,A00812,2024-11-07,Feature Request,Critical,4,Yes
+T002035,A00812,2024-09-08,Billing,Medium,56,Yes
+T002036,A00812,2024-06-09,Integration Issue,Medium,65,Yes
+T002037,A00813,2024-10-11,Onboarding Help,Low,41,Yes
+T002038,A00813,2024-06-28,Feature Request,High,18,Yes
+T002039,A00813,2024-10-29,Billing,Low,153,Yes
+T002040,A00813,2024-08-02,Integration Issue,High,35,Yes
+T002041,A00813,2024-08-14,Integration Issue,High,14,Yes
+T002042,A00813,2024-09-01,Onboarding Help,Medium,,No
+T002043,A00814,2024-02-18,Integration Issue,Critical,8,Yes
+T002044,A00814,2024-08-08,Billing,High,41,Yes
+T002045,A00815,2023-09-14,Feature Request,Low,111,Yes
+T002046,A00816,2024-08-01,Performance,Medium,84,Yes
+T002047,A00816,2024-08-21,Billing,Low,106,Yes
+T002048,A00816,2024-05-03,Bug Report,Medium,18,Yes
+T002049,A00816,2023-05-16,Integration Issue,Medium,34,Yes
+T002050,A00816,2024-01-19,Integration Issue,Low,83,Yes
+T002051,A00816,2023-05-03,Onboarding Help,Medium,39,Yes
+T002052,A00816,2023-02-24,Onboarding Help,High,,No
+T002053,A00818,2024-06-01,Integration Issue,Medium,56,Yes
+T002054,A00818,2023-04-26,Onboarding Help,Low,140,Yes
+T002055,A00819,2023-12-05,Performance,Medium,75,Yes
+T002056,A00821,2023-11-19,Onboarding Help,Low,137,Yes
+T002057,A00821,2023-09-02,Onboarding Help,Low,168,Yes
+T002058,A00821,2024-08-03,Onboarding Help,Medium,26,Yes
+T002059,A00822,2024-01-18,Bug Report,Medium,16,Yes
+T002060,A00822,2023-07-03,Onboarding Help,Low,80,Yes
+T002061,A00823,2024-12-14,Billing,Medium,47,Yes
+T002062,A00824,2024-08-12,Bug Report,Critical,5,Yes
+T002063,A00824,2024-10-29,Bug Report,Low,52,Yes
+T002064,A00824,2024-08-25,Integration Issue,High,17,Yes
+T002065,A00824,2024-06-05,Feature Request,Medium,47,Yes
+T002066,A00826,2024-02-05,Integration Issue,Medium,40,Yes
+T002067,A00826,2024-05-25,Integration Issue,Critical,8,Yes
+T002068,A00826,2024-06-05,Onboarding Help,Medium,50,Yes
+T002069,A00826,2024-09-09,Feature Request,High,17,Yes
+T002070,A00828,2023-07-28,Integration Issue,Low,108,Yes
+T002071,A00828,2023-11-20,Performance,Medium,18,Yes
+T002072,A00828,2023-10-04,Bug Report,Medium,25,Yes
+T002073,A00829,2023-09-04,Bug Report,Medium,55,Yes
+T002074,A00829,2023-04-13,Billing,Low,161,Yes
+T002075,A00829,2023-03-29,Billing,Low,34,Yes
+T002076,A00831,2024-03-06,Performance,Medium,,No
+T002077,A00831,2023-12-13,Performance,Medium,18,Yes
+T002078,A00831,2023-10-06,Feature Request,Medium,24,Yes
+T002079,A00832,2024-01-02,Feature Request,Medium,90,Yes
+T002080,A00832,2024-12-02,Performance,Low,143,Yes
+T002081,A00834,2024-10-07,Performance,High,30,Yes
+T002082,A00834,2024-06-11,Performance,Medium,48,Yes
+T002083,A00834,2024-11-11,Billing,Low,120,Yes
+T002084,A00834,2024-09-04,Bug Report,Medium,24,Yes
+T002085,A00834,2024-07-18,Integration Issue,Medium,33,Yes
+T002086,A00836,2024-04-16,Billing,Low,119,Yes
+T002087,A00837,2023-01-14,Billing,Low,139,Yes
+T002088,A00837,2023-06-09,Bug Report,Critical,7,Yes
+T002089,A00837,2023-11-27,Bug Report,Low,,No
+T002090,A00837,2023-03-17,Integration Issue,High,15,Yes
+T002091,A00837,2024-08-28,Bug Report,Low,165,Yes
+T002092,A00838,2024-10-14,Billing,Low,103,Yes
+T002093,A00838,2024-12-06,Integration Issue,Low,76,Yes
+T002094,A00838,2024-09-29,Performance,High,42,Yes
+T002095,A00838,2024-12-05,Integration Issue,Medium,42,Yes
+T002096,A00838,2024-10-10,Onboarding Help,Critical,,No
+T002097,A00840,2024-12-29,Billing,High,20,Yes
+T002098,A00840,2023-09-25,Integration Issue,Medium,,No
+T002099,A00841,2024-09-27,Bug Report,Low,154,Yes
+T002100,A00842,2024-07-09,Bug Report,Medium,26,Yes
+T002101,A00843,2024-11-08,Onboarding Help,Low,128,Yes
+T002102,A00844,2024-03-05,Integration Issue,Low,135,Yes
+T002103,A00845,2024-12-12,Integration Issue,High,30,Yes
+T002104,A00846,2024-07-04,Feature Request,High,,No
+T002105,A00846,2024-06-19,Bug Report,Low,,No
+T002106,A00846,2024-07-24,Bug Report,Low,,No
+T002107,A00846,2024-07-11,Bug Report,Medium,38,Yes
+T002108,A00846,2024-12-29,Feature Request,Medium,93,Yes
+T002109,A00846,2024-07-27,Billing,High,32,Yes
+T002110,A00846,2024-08-27,Feature Request,Low,136,Yes
+T002111,A00846,2024-09-09,Bug Report,Critical,7,Yes
+T002112,A00848,2024-10-22,Feature Request,Low,168,Yes
+T002113,A00848,2023-12-16,Onboarding Help,Medium,94,Yes
+T002114,A00849,2024-07-24,Feature Request,High,18,Yes
+T002115,A00850,2024-05-26,Integration Issue,Medium,67,Yes
+T002116,A00850,2024-11-22,Performance,Medium,33,Yes
+T002117,A00851,2024-01-04,Billing,High,,No
+T002118,A00852,2023-08-29,Bug Report,Medium,76,Yes
+T002119,A00852,2024-01-27,Feature Request,Low,30,Yes
+T002120,A00852,2023-09-06,Bug Report,High,23,Yes
+T002121,A00852,2024-04-23,Billing,Medium,22,Yes
+T002122,A00852,2023-06-16,Billing,Medium,90,Yes
+T002123,A00852,2023-12-05,Bug Report,Medium,,No
+T002124,A00852,2023-04-01,Bug Report,Medium,,No
+T002125,A00852,2024-10-06,Feature Request,Low,92,Yes
+T002126,A00853,2024-11-10,Feature Request,Low,,No
+T002127,A00853,2024-08-10,Feature Request,Medium,31,Yes
+T002128,A00854,2024-12-27,Bug Report,High,38,Yes
+T002129,A00854,2024-12-15,Bug Report,High,36,Yes
+T002130,A00854,2024-12-14,Bug Report,Low,46,Yes
+T002131,A00856,2024-07-19,Onboarding Help,Medium,76,Yes
+T002132,A00856,2024-12-29,Onboarding Help,Low,167,Yes
+T002133,A00858,2024-12-24,Performance,Medium,33,Yes
+T002134,A00858,2024-11-10,Integration Issue,Medium,,No
+T002135,A00858,2024-06-30,Billing,Medium,,No
+T002136,A00858,2024-08-26,Onboarding Help,Low,95,Yes
+T002137,A00858,2024-05-26,Onboarding Help,Medium,32,Yes
+T002138,A00858,2024-07-05,Onboarding Help,High,25,Yes
+T002139,A00858,2024-11-16,Billing,Low,88,Yes
+T002140,A00858,2024-07-18,Bug Report,Medium,94,Yes
+T002141,A00858,2024-06-23,Billing,Low,34,Yes
+T002142,A00858,2024-12-27,Bug Report,High,27,Yes
+T002143,A00858,2024-12-12,Bug Report,Critical,,No
+T002144,A00858,2024-12-20,Performance,Low,57,Yes
+T002145,A00859,2024-01-13,Billing,Medium,44,Yes
+T002146,A00859,2024-07-04,Billing,High,38,Yes
+T002147,A00859,2024-09-04,Billing,Medium,89,Yes
+T002148,A00859,2023-10-20,Integration Issue,Medium,36,Yes
+T002149,A00859,2024-12-20,Performance,Low,72,Yes
+T002150,A00859,2024-10-23,Onboarding Help,Critical,5,Yes
+T002151,A00859,2024-12-16,Feature Request,Medium,91,Yes
+T002152,A00859,2024-09-16,Billing,Medium,69,Yes
+T002153,A00860,2024-11-01,Onboarding Help,Medium,58,Yes
+T002154,A00860,2024-09-25,Integration Issue,Critical,2,Yes
+T002155,A00861,2024-12-11,Feature Request,Medium,90,Yes
+T002156,A00862,2024-10-15,Billing,Low,62,Yes
+T002157,A00864,2024-02-18,Onboarding Help,Medium,,No
+T002158,A00864,2024-05-17,Billing,Medium,61,Yes
+T002159,A00864,2024-04-17,Integration Issue,Low,163,Yes
+T002160,A00864,2024-04-27,Integration Issue,Medium,49,Yes
+T002161,A00865,2024-10-29,Bug Report,Medium,12,Yes
+T002162,A00865,2024-12-26,Billing,High,42,Yes
+T002163,A00866,2024-09-26,Billing,High,9,Yes
+T002164,A00867,2024-12-18,Integration Issue,High,19,Yes
+T002165,A00867,2024-12-17,Feature Request,Low,129,Yes
+T002166,A00867,2024-10-22,Performance,High,35,Yes
+T002167,A00868,2024-12-01,Onboarding Help,Low,132,Yes
+T002168,A00868,2024-08-25,Bug Report,Critical,3,Yes
+T002169,A00869,2023-12-01,Performance,Medium,46,Yes
+T002170,A00869,2024-05-16,Integration Issue,Critical,3,Yes
+T002171,A00870,2024-12-02,Performance,Medium,37,Yes
+T002172,A00870,2024-12-18,Performance,High,31,Yes
+T002173,A00870,2024-12-12,Feature Request,High,8,Yes
+T002174,A00871,2024-09-17,Feature Request,Low,84,Yes
+T002175,A00871,2024-08-11,Integration Issue,Low,92,Yes
+T002176,A00871,2024-12-06,Feature Request,Low,108,Yes
+T002177,A00872,2024-10-14,Onboarding Help,Low,49,Yes
+T002178,A00873,2024-12-15,Performance,Medium,45,Yes
+T002179,A00874,2024-07-18,Performance,High,,No
+T002180,A00875,2024-05-15,Billing,High,17,Yes
+T002181,A00876,2024-09-20,Billing,Medium,89,Yes
+T002182,A00877,2024-08-31,Feature Request,Critical,5,Yes
+T002183,A00877,2024-12-01,Integration Issue,Medium,89,Yes
+T002184,A00878,2023-11-29,Billing,Medium,77,Yes
+T002185,A00879,2024-05-07,Feature Request,High,,No
+T002186,A00880,2023-09-21,Billing,Low,31,Yes
+T002187,A00880,2023-05-20,Billing,Low,24,Yes
+T002188,A00880,2023-06-17,Bug Report,Low,160,Yes
+T002189,A00880,2024-03-20,Performance,Medium,63,Yes
+T002190,A00880,2024-09-20,Billing,High,13,Yes
+T002191,A00880,2024-09-09,Onboarding Help,Low,74,Yes
+T002192,A00880,2024-11-05,Feature Request,High,34,Yes
+T002193,A00882,2024-12-06,Performance,Critical,,No
+T002194,A00882,2023-08-04,Feature Request,Medium,,No
+T002195,A00882,2024-12-15,Billing,Medium,42,Yes
+T002196,A00882,2024-03-12,Performance,Medium,,No
+T002197,A00882,2023-08-15,Bug Report,Low,124,Yes
+T002198,A00882,2023-07-23,Performance,Low,,No
+T002199,A00882,2023-08-15,Bug Report,Critical,8,Yes
+T002200,A00882,2024-09-30,Integration Issue,Medium,79,Yes
+T002201,A00883,2024-01-19,Bug Report,Medium,29,Yes
+T002202,A00883,2024-09-06,Onboarding Help,Critical,,No
+T002203,A00883,2024-03-13,Billing,Medium,52,Yes
+T002204,A00883,2024-03-24,Onboarding Help,Medium,95,Yes
+T002205,A00883,2024-08-19,Feature Request,High,42,Yes
+T002206,A00883,2024-08-20,Integration Issue,Medium,78,Yes
+T002207,A00883,2024-05-26,Billing,Medium,26,Yes
+T002208,A00884,2024-04-01,Performance,Medium,,No
+T002209,A00884,2024-07-01,Feature Request,Medium,,No
+T002210,A00884,2024-11-07,Onboarding Help,Critical,,No
+T002211,A00884,2023-12-30,Integration Issue,Low,107,Yes
+T002212,A00885,2024-11-13,Feature Request,Medium,,No
+T002213,A00885,2024-10-26,Integration Issue,Low,32,Yes
+T002214,A00885,2024-06-16,Integration Issue,Medium,36,Yes
+T002215,A00886,2024-10-19,Onboarding Help,Medium,36,Yes
+T002216,A00886,2024-10-05,Bug Report,Low,59,Yes
+T002217,A00887,2024-11-17,Billing,Critical,1,Yes
+T002218,A00887,2024-07-26,Integration Issue,High,37,Yes
+T002219,A00888,2024-12-13,Integration Issue,High,12,Yes
+T002220,A00889,2023-12-13,Bug Report,Medium,71,Yes
+T002221,A00889,2024-12-03,Performance,Medium,,No
+T002222,A00889,2024-02-20,Integration Issue,Medium,,No
+T002223,A00889,2024-11-17,Integration Issue,Low,,No
+T002224,A00889,2024-10-11,Performance,Medium,12,Yes
+T002225,A00889,2024-07-05,Feature Request,Critical,8,Yes
+T002226,A00889,2024-01-24,Integration Issue,Medium,33,Yes
+T002227,A00889,2024-05-18,Feature Request,Medium,33,Yes
+T002228,A00889,2024-07-25,Integration Issue,Critical,8,Yes
+T002229,A00889,2024-02-06,Feature Request,High,42,Yes
+T002230,A00889,2024-09-10,Billing,Low,,No
+T002231,A00889,2024-06-25,Bug Report,Low,57,Yes
+T002232,A00890,2024-12-21,Feature Request,Low,24,Yes
+T002233,A00890,2024-12-28,Billing,Medium,81,Yes
+T002234,A00890,2024-11-10,Onboarding Help,High,21,Yes
+T002235,A00890,2024-11-29,Performance,Medium,,No
+T002236,A00890,2024-09-07,Performance,Low,97,Yes
+T002237,A00890,2024-09-10,Bug Report,High,24,Yes
+T002238,A00890,2024-08-02,Performance,Medium,56,Yes
+T002239,A00890,2024-10-26,Integration Issue,Low,76,Yes
+T002240,A00890,2024-09-05,Onboarding Help,Low,39,Yes
+T002241,A00890,2024-10-14,Bug Report,Low,142,Yes
+T002242,A00890,2024-09-11,Billing,Medium,34,Yes
+T002243,A00890,2024-12-23,Bug Report,Low,34,Yes
+T002244,A00890,2024-08-08,Feature Request,Low,45,Yes
+T002245,A00890,2024-12-02,Integration Issue,Critical,5,Yes
+T002246,A00892,2024-07-16,Feature Request,High,14,Yes
+T002247,A00893,2024-08-09,Feature Request,Medium,64,Yes
+T002248,A00893,2024-09-04,Performance,Medium,60,Yes
+T002249,A00894,2024-12-13,Performance,Low,27,Yes
+T002250,A00895,2024-05-05,Performance,Low,105,Yes
+T002251,A00896,2024-07-27,Performance,High,29,Yes
+T002252,A00896,2024-08-30,Bug Report,Low,128,Yes
+T002253,A00897,2024-08-05,Integration Issue,Low,,No
+T002254,A00897,2024-06-23,Bug Report,Critical,1,Yes
+T002255,A00897,2024-12-11,Integration Issue,Critical,2,Yes
+T002256,A00897,2024-11-04,Billing,Medium,37,Yes
+T002257,A00897,2024-10-06,Billing,Critical,8,Yes
+T002258,A00897,2024-06-26,Onboarding Help,Medium,70,Yes
+T002259,A00897,2024-11-01,Onboarding Help,High,37,Yes
+T002260,A00897,2024-09-18,Integration Issue,Low,,No
+T002261,A00899,2023-07-05,Bug Report,Low,117,Yes
+T002262,A00900,2024-10-16,Feature Request,Medium,82,Yes
+T002263,A00901,2024-05-24,Integration Issue,High,25,Yes
+T002264,A00901,2024-09-01,Onboarding Help,Low,44,Yes
+T002265,A00904,2024-05-21,Onboarding Help,High,,No
+T002266,A00904,2024-08-30,Integration Issue,Low,,No
+T002267,A00905,2024-07-02,Billing,Low,146,Yes
+T002268,A00907,2024-04-27,Bug Report,Low,64,Yes
+T002269,A00907,2024-07-16,Performance,Medium,82,Yes
+T002270,A00907,2024-12-10,Integration Issue,Medium,86,Yes
+T002271,A00908,2024-03-27,Bug Report,High,24,Yes
+T002272,A00908,2024-01-17,Bug Report,Medium,94,Yes
+T002273,A00910,2024-10-03,Bug Report,Medium,64,Yes
+T002274,A00910,2024-04-12,Performance,Low,161,Yes
+T002275,A00910,2024-04-21,Integration Issue,Medium,,No
+T002276,A00911,2024-10-27,Integration Issue,Medium,,No
+T002277,A00911,2024-12-21,Onboarding Help,Medium,68,Yes
+T002278,A00911,2024-10-04,Billing,High,20,Yes
+T002279,A00911,2024-09-17,Integration Issue,Medium,90,Yes
+T002280,A00911,2024-09-19,Onboarding Help,High,24,Yes
+T002281,A00911,2024-09-29,Integration Issue,Medium,31,Yes
+T002282,A00915,2024-07-14,Onboarding Help,Medium,,No
+T002283,A00916,2024-03-11,Billing,Medium,57,Yes
+T002284,A00916,2024-04-15,Feature Request,Low,46,Yes
+T002285,A00917,2024-08-23,Bug Report,Low,47,Yes
+T002286,A00917,2024-11-22,Onboarding Help,High,9,Yes
+T002287,A00919,2024-11-12,Integration Issue,Medium,67,Yes
+T002288,A00919,2024-05-11,Integration Issue,Medium,31,Yes
+T002289,A00920,2024-10-13,Performance,High,22,Yes
+T002290,A00922,2024-11-25,Feature Request,Low,,No
+T002291,A00922,2024-11-15,Billing,Low,156,Yes
+T002292,A00922,2024-10-21,Billing,Medium,,No
+T002293,A00922,2024-11-24,Billing,Low,136,Yes
+T002294,A00922,2024-09-30,Feature Request,High,17,Yes
+T002295,A00922,2024-10-03,Onboarding Help,Medium,86,Yes
+T002296,A00922,2024-12-16,Bug Report,Low,48,Yes
+T002297,A00923,2024-01-15,Onboarding Help,High,45,Yes
+T002298,A00923,2024-06-14,Billing,Low,83,Yes
+T002299,A00924,2024-09-16,Onboarding Help,Medium,58,Yes
+T002300,A00924,2024-08-25,Bug Report,Medium,85,Yes
+T002301,A00924,2024-08-16,Feature Request,Medium,86,Yes
+T002302,A00926,2024-09-26,Performance,Low,128,Yes
+T002303,A00926,2024-06-27,Feature Request,Low,,No
+T002304,A00928,2024-06-07,Billing,High,16,Yes
+T002305,A00928,2024-02-18,Onboarding Help,Low,26,Yes
+T002306,A00928,2024-11-25,Bug Report,Medium,90,Yes
+T002307,A00930,2023-08-19,Feature Request,Critical,2,Yes
+T002308,A00930,2024-11-21,Integration Issue,Medium,14,Yes
+T002309,A00930,2023-11-09,Onboarding Help,High,32,Yes
+T002310,A00930,2023-10-21,Feature Request,Low,,No
+T002311,A00930,2024-03-24,Feature Request,Medium,17,Yes
+T002312,A00931,2024-12-25,Onboarding Help,Medium,64,Yes
+T002313,A00931,2024-12-20,Integration Issue,Medium,,No
+T002314,A00931,2024-11-19,Onboarding Help,Low,40,Yes
+T002315,A00932,2023-09-16,Integration Issue,Medium,57,Yes
+T002316,A00932,2023-10-15,Integration Issue,Medium,,No
+T002317,A00932,2024-11-26,Bug Report,Medium,67,Yes
+T002318,A00935,2024-02-28,Bug Report,Medium,,No
+T002319,A00935,2023-08-23,Performance,Critical,7,Yes
+T002320,A00935,2024-06-16,Onboarding Help,Critical,8,Yes
+T002321,A00935,2024-06-28,Integration Issue,Medium,96,Yes
+T002322,A00935,2024-02-14,Feature Request,Low,155,Yes
+T002323,A00935,2024-01-22,Performance,Medium,91,Yes
+T002324,A00935,2023-10-05,Integration Issue,High,43,Yes
+T002325,A00935,2024-11-28,Integration Issue,Medium,26,Yes
+T002326,A00936,2024-09-01,Feature Request,Low,59,Yes
+T002327,A00938,2024-11-14,Bug Report,High,19,Yes
+T002328,A00938,2024-12-14,Feature Request,Medium,32,Yes
+T002329,A00939,2023-11-10,Onboarding Help,Medium,56,Yes
+T002330,A00939,2024-10-12,Integration Issue,Medium,96,Yes
+T002331,A00940,2024-10-07,Billing,Low,39,Yes
+T002332,A00940,2024-08-28,Performance,Medium,87,Yes
+T002333,A00940,2024-05-16,Bug Report,Medium,68,Yes
+T002334,A00940,2024-11-05,Bug Report,Low,101,Yes
+T002335,A00940,2024-06-13,Billing,High,41,Yes
+T002336,A00940,2023-12-25,Bug Report,Low,158,Yes
+T002337,A00941,2024-08-28,Integration Issue,Medium,38,Yes
+T002338,A00942,2024-06-21,Onboarding Help,High,38,Yes
+T002339,A00942,2024-09-06,Onboarding Help,Medium,,No
+T002340,A00944,2024-12-15,Feature Request,Medium,51,Yes
+T002341,A00944,2024-10-16,Feature Request,High,34,Yes
+T002342,A00945,2024-08-09,Billing,Critical,4,Yes
+T002343,A00945,2023-09-12,Integration Issue,Low,86,Yes
+T002344,A00945,2024-06-19,Bug Report,High,44,Yes
+T002345,A00946,2024-10-07,Integration Issue,High,32,Yes
+T002346,A00946,2024-10-18,Onboarding Help,Low,86,Yes
+T002347,A00948,2024-12-13,Feature Request,Low,137,Yes
+T002348,A00948,2024-01-12,Bug Report,Low,157,Yes
+T002349,A00949,2024-12-14,Integration Issue,Medium,35,Yes
+T002350,A00949,2024-12-22,Onboarding Help,Low,65,Yes
+T002351,A00949,2024-12-19,Feature Request,Low,125,Yes
+T002352,A00949,2024-12-20,Billing,Medium,,No
+T002353,A00949,2024-12-21,Integration Issue,Medium,56,Yes
+T002354,A00949,2024-12-30,Billing,Medium,43,Yes
+T002355,A00949,2024-12-26,Billing,Medium,69,Yes
+T002356,A00950,2024-12-16,Feature Request,Medium,94,Yes
+T002357,A00950,2024-12-13,Performance,Low,142,Yes
+T002358,A00950,2024-11-29,Billing,Low,157,Yes
+T002359,A00951,2023-10-29,Onboarding Help,Low,119,Yes
+T002360,A00951,2024-02-16,Onboarding Help,Medium,58,Yes
+T002361,A00951,2024-02-05,Performance,Medium,94,Yes
+T002362,A00951,2024-03-27,Onboarding Help,Low,70,Yes
+T002363,A00951,2023-07-22,Performance,Critical,8,Yes
+T002364,A00952,2023-10-30,Performance,Low,163,Yes
+T002365,A00953,2024-09-06,Performance,High,6,Yes
+T002366,A00954,2024-06-26,Performance,Low,41,Yes
+T002367,A00954,2024-01-31,Bug Report,Medium,15,Yes
+T002368,A00955,2024-05-11,Billing,Medium,84,Yes
+T002369,A00955,2024-02-21,Bug Report,Medium,34,Yes
+T002370,A00955,2024-07-30,Integration Issue,Critical,,No
+T002371,A00956,2024-09-09,Integration Issue,Medium,42,Yes
+T002372,A00956,2024-09-28,Onboarding Help,High,39,Yes
+T002373,A00956,2024-07-22,Integration Issue,Low,,No
+T002374,A00957,2024-03-22,Integration Issue,Medium,22,Yes
+T002375,A00957,2024-03-08,Bug Report,Medium,13,Yes
+T002376,A00957,2024-01-02,Feature Request,Medium,14,Yes
+T002377,A00958,2024-06-27,Onboarding Help,High,6,Yes
+T002378,A00958,2024-11-03,Performance,Medium,,No
+T002379,A00958,2024-09-18,Bug Report,Medium,,No
+T002380,A00958,2024-12-11,Feature Request,Low,106,Yes
+T002381,A00960,2024-12-28,Billing,Medium,39,Yes
+T002382,A00960,2024-12-25,Performance,Medium,51,Yes
+T002383,A00961,2023-10-31,Feature Request,High,12,Yes
+T002384,A00962,2024-06-26,Bug Report,Medium,64,Yes
+T002385,A00962,2024-06-06,Performance,Medium,49,Yes
+T002386,A00963,2023-10-10,Onboarding Help,Medium,23,Yes
+T002387,A00963,2024-05-08,Bug Report,Low,142,Yes
+T002388,A00964,2024-05-13,Feature Request,Critical,6,Yes
+T002389,A00964,2024-09-13,Onboarding Help,Medium,86,Yes
+T002390,A00964,2024-08-23,Feature Request,Medium,71,Yes
+T002391,A00965,2023-04-21,Performance,Medium,93,Yes
+T002392,A00965,2024-07-28,Onboarding Help,Medium,43,Yes
+T002393,A00965,2023-02-01,Integration Issue,Low,,No
+T002394,A00967,2024-04-10,Performance,Low,58,Yes
+T002395,A00968,2024-04-16,Feature Request,Medium,49,Yes
+T002396,A00969,2024-08-10,Feature Request,Low,106,Yes
+T002397,A00970,2024-07-01,Feature Request,Medium,83,Yes
+T002398,A00971,2024-12-04,Billing,Medium,58,Yes
+T002399,A00971,2024-11-10,Integration Issue,Low,97,Yes
+T002400,A00972,2024-11-02,Billing,High,21,Yes
+T002401,A00972,2024-09-27,Feature Request,Medium,,No
+T002402,A00974,2024-12-25,Integration Issue,High,,No
+T002403,A00974,2024-08-31,Billing,High,48,Yes
+T002404,A00974,2024-12-30,Bug Report,Medium,52,Yes
+T002405,A00975,2024-12-21,Bug Report,Low,158,Yes
+T002406,A00976,2024-11-12,Performance,Medium,67,Yes
+T002407,A00976,2024-07-13,Feature Request,Medium,,No
+T002408,A00976,2024-10-04,Integration Issue,Medium,,No
+T002409,A00977,2024-07-19,Onboarding Help,Low,39,Yes
+T002410,A00977,2024-09-23,Billing,Critical,2,Yes
+T002411,A00977,2024-06-15,Bug Report,Low,103,Yes
+T002412,A00977,2024-12-15,Performance,Low,,No
+T002413,A00977,2024-05-28,Integration Issue,High,5,Yes
+T002414,A00977,2024-09-18,Integration Issue,Low,167,Yes
+T002415,A00977,2024-09-23,Feature Request,Critical,,No
+T002416,A00977,2024-08-06,Integration Issue,Medium,,No
+T002417,A00978,2024-12-25,Billing,Medium,87,Yes
+T002418,A00978,2024-12-09,Performance,Medium,16,Yes
+T002419,A00979,2024-11-15,Performance,Medium,,No
+T002420,A00980,2024-04-04,Performance,Low,48,Yes
+T002421,A00980,2024-02-02,Onboarding Help,High,9,Yes
+T002422,A00981,2024-09-11,Feature Request,Low,166,Yes
+T002423,A00982,2024-09-26,Performance,Medium,41,Yes
+T002424,A00982,2024-01-22,Integration Issue,Medium,68,Yes
+T002425,A00982,2024-12-26,Bug Report,Low,,No
+T002426,A00983,2024-08-06,Integration Issue,Low,36,Yes
+T002427,A00983,2024-04-16,Billing,Medium,42,Yes
+T002428,A00984,2024-11-04,Billing,High,14,Yes
+T002429,A00984,2024-03-01,Bug Report,Medium,66,Yes
+T002430,A00984,2024-11-06,Onboarding Help,Medium,30,Yes
+T002431,A00984,2024-10-15,Billing,Medium,84,Yes
+T002432,A00984,2024-06-19,Performance,Medium,40,Yes
+T002433,A00984,2024-09-12,Bug Report,Medium,83,Yes
+T002434,A00984,2024-04-09,Performance,Medium,93,Yes
+T002435,A00985,2024-03-08,Bug Report,Low,75,Yes
+T002436,A00985,2024-07-26,Billing,High,29,Yes
+T002437,A00986,2024-07-07,Billing,Medium,,No
+T002438,A00986,2024-12-22,Feature Request,Medium,52,Yes
+T002439,A00986,2024-09-23,Onboarding Help,Low,,No
+T002440,A00986,2023-10-13,Integration Issue,Medium,85,Yes
+T002441,A00986,2024-09-09,Performance,Medium,56,Yes
+T002442,A00988,2024-04-18,Integration Issue,Low,90,Yes
+T002443,A00988,2024-08-25,Feature Request,Low,,No
+T002444,A00988,2024-09-29,Billing,Medium,,No
+T002445,A00988,2024-08-22,Onboarding Help,Critical,8,Yes
+T002446,A00990,2024-12-17,Integration Issue,High,9,Yes
+T002447,A00990,2024-07-14,Bug Report,Low,99,Yes
+T002448,A00990,2024-06-04,Performance,Critical,,No
+T002449,A00992,2023-08-22,Integration Issue,Critical,6,Yes
+T002450,A00992,2024-01-01,Integration Issue,Medium,28,Yes
+T002451,A00993,2024-09-10,Feature Request,Medium,52,Yes
+T002452,A00995,2024-12-30,Performance,High,29,Yes
+T002453,A00995,2024-12-25,Integration Issue,Critical,,No
+T002454,A00995,2024-12-27,Onboarding Help,Low,152,Yes
+T002455,A00996,2024-06-06,Billing,Low,114,Yes
+T002456,A00996,2023-03-09,Billing,High,48,Yes
+T002457,A00996,2024-09-05,Billing,Low,26,Yes
+T002458,A00997,2024-07-28,Feature Request,Critical,1,Yes
+T002459,A00997,2024-06-04,Onboarding Help,Critical,,No
+T002460,A00998,2024-04-25,Integration Issue,High,,No
+T002461,A00998,2024-02-15,Billing,Medium,17,Yes
+T002462,A00998,2024-07-27,Billing,Medium,19,Yes
+T002463,A00998,2024-10-10,Feature Request,Medium,80,Yes
+T002464,A00999,2023-12-13,Performance,Low,49,Yes
+T002465,A00999,2024-03-18,Performance,High,14,Yes
+T002466,A01000,2024-02-23,Performance,High,29,Yes
+T002467,A01001,2024-07-10,Feature Request,Medium,40,Yes
+T002468,A01001,2024-05-05,Integration Issue,High,14,Yes
+T002469,A01001,2024-04-26,Billing,Low,69,Yes
+T002470,A01003,2024-07-14,Billing,Medium,78,Yes
+T002471,A01003,2024-07-15,Integration Issue,High,29,Yes
+T002472,A01003,2023-03-31,Performance,High,26,Yes
+T002473,A01003,2024-03-25,Integration Issue,Medium,69,Yes
+T002474,A01003,2023-01-23,Performance,Critical,7,Yes
+T002475,A01004,2024-10-31,Bug Report,Medium,88,Yes
+T002476,A01005,2024-11-14,Performance,Low,,No
+T002477,A01005,2024-08-30,Performance,Medium,54,Yes
+T002478,A01006,2023-12-11,Billing,Medium,21,Yes
+T002479,A01006,2024-02-18,Integration Issue,Low,,No
+T002480,A01007,2024-10-21,Onboarding Help,Medium,70,Yes
+T002481,A01007,2024-10-30,Onboarding Help,Critical,8,Yes
+T002482,A01007,2023-06-15,Onboarding Help,Low,86,Yes
+T002483,A01008,2024-12-22,Bug Report,Medium,21,Yes
+T002484,A01013,2024-05-23,Billing,Medium,65,Yes
+T002485,A01013,2024-09-13,Bug Report,High,29,Yes
+T002486,A01013,2024-12-07,Billing,Low,58,Yes
+T002487,A01014,2024-10-21,Onboarding Help,Medium,44,Yes
+T002488,A01014,2023-09-19,Integration Issue,Medium,41,Yes
+T002489,A01014,2024-03-11,Bug Report,High,6,Yes
+T002490,A01014,2024-08-15,Bug Report,Critical,3,Yes
+T002491,A01014,2024-01-02,Performance,Low,38,Yes
+T002492,A01014,2023-03-24,Billing,Medium,72,Yes
+T002493,A01014,2024-11-28,Onboarding Help,Low,86,Yes
+T002494,A01014,2023-02-11,Performance,Low,27,Yes
+T002495,A01014,2024-08-19,Integration Issue,High,,No
+T002496,A01016,2023-06-05,Onboarding Help,Medium,41,Yes
+T002497,A01016,2024-01-31,Performance,Low,64,Yes
+T002498,A01017,2024-12-06,Integration Issue,High,45,Yes
+T002499,A01017,2024-10-14,Integration Issue,High,41,Yes
+T002500,A01017,2024-09-03,Bug Report,Medium,16,Yes
+T002501,A01017,2024-10-19,Feature Request,Low,96,Yes
+T002502,A01017,2024-10-19,Billing,Medium,18,Yes
+T002503,A01018,2024-12-20,Onboarding Help,Medium,17,Yes
+T002504,A01018,2024-12-15,Integration Issue,High,23,Yes
+T002505,A01018,2024-12-20,Performance,Medium,72,Yes
+T002506,A01020,2024-07-10,Feature Request,High,21,Yes
+T002507,A01021,2024-12-03,Onboarding Help,Medium,51,Yes
+T002508,A01022,2024-10-10,Billing,Medium,93,Yes
+T002509,A01023,2024-11-22,Onboarding Help,Low,,No
+T002510,A01025,2024-09-12,Billing,Critical,8,Yes
+T002511,A01025,2024-12-15,Feature Request,High,21,Yes
+T002512,A01026,2024-02-14,Bug Report,High,30,Yes
+T002513,A01026,2023-09-26,Integration Issue,High,28,Yes
+T002514,A01027,2024-08-11,Bug Report,Medium,,No
+T002515,A01027,2024-01-25,Bug Report,High,,No
+T002516,A01027,2023-10-07,Feature Request,Medium,67,Yes
+T002517,A01027,2024-04-30,Integration Issue,Medium,,No
+T002518,A01028,2023-02-18,Performance,Low,26,Yes
+T002519,A01028,2024-02-06,Feature Request,Medium,83,Yes
+T002520,A01030,2024-04-09,Feature Request,Low,78,Yes
+T002521,A01031,2024-06-20,Onboarding Help,Low,149,Yes
+T002522,A01034,2024-08-13,Bug Report,Medium,35,Yes
+T002523,A01035,2023-05-13,Onboarding Help,High,25,Yes
+T002524,A01035,2024-10-16,Feature Request,High,23,Yes
+T002525,A01035,2024-06-27,Bug Report,Low,142,Yes
+T002526,A01036,2024-12-03,Billing,Low,,No
+T002527,A01036,2024-06-23,Performance,Medium,18,Yes
+T002528,A01036,2023-08-22,Performance,Critical,7,Yes
+T002529,A01036,2024-07-14,Billing,Low,39,Yes
+T002530,A01037,2024-05-15,Integration Issue,Medium,58,Yes
+T002531,A01037,2023-10-26,Integration Issue,High,23,Yes
+T002532,A01037,2023-05-08,Feature Request,Critical,3,Yes
+T002533,A01037,2024-05-03,Feature Request,Low,27,Yes
+T002534,A01037,2024-02-26,Integration Issue,Low,108,Yes
+T002535,A01038,2024-12-28,Bug Report,Medium,59,Yes
+T002536,A01038,2024-12-16,Billing,High,,No
+T002537,A01038,2024-05-26,Billing,Critical,4,Yes
+T002538,A01038,2024-09-22,Onboarding Help,High,22,Yes
+T002539,A01039,2024-12-22,Integration Issue,High,15,Yes
+T002540,A01039,2024-12-05,Integration Issue,Medium,61,Yes
+T002541,A01039,2024-12-24,Bug Report,High,25,Yes
+T002542,A01039,2024-11-04,Integration Issue,Medium,18,Yes
+T002543,A01039,2024-07-20,Performance,High,36,Yes
+T002544,A01039,2024-09-14,Bug Report,Low,102,Yes
+T002545,A01039,2024-12-11,Feature Request,High,7,Yes
+T002546,A01039,2024-07-11,Onboarding Help,High,29,Yes
+T002547,A01039,2024-11-28,Onboarding Help,Low,161,Yes
+T002548,A01039,2024-08-01,Onboarding Help,High,36,Yes
+T002549,A01039,2024-10-20,Billing,Medium,60,Yes
+T002550,A01039,2024-06-23,Integration Issue,Critical,6,Yes
+T002551,A01039,2024-08-05,Integration Issue,Medium,33,Yes
+T002552,A01039,2024-12-18,Performance,Medium,,No
+T002553,A01040,2024-02-11,Bug Report,High,47,Yes
+T002554,A01040,2024-03-08,Billing,High,35,Yes
+T002555,A01041,2024-06-16,Billing,Medium,32,Yes
+T002556,A01042,2024-11-25,Onboarding Help,Medium,66,Yes
+T002557,A01042,2024-08-30,Bug Report,Low,,No
+T002558,A01042,2024-08-30,Integration Issue,Medium,29,Yes
+T002559,A01042,2024-09-16,Performance,High,46,Yes
+T002560,A01042,2024-11-26,Billing,Low,127,Yes
+T002561,A01042,2024-10-25,Billing,Medium,40,Yes
+T002562,A01043,2023-07-05,Integration Issue,High,,No
+T002563,A01043,2024-12-21,Integration Issue,Medium,70,Yes
+T002564,A01043,2024-02-25,Feature Request,High,21,Yes
+T002565,A01043,2024-04-05,Bug Report,Critical,4,Yes
+T002566,A01044,2024-11-13,Performance,Low,24,Yes
+T002567,A01045,2024-12-29,Performance,Medium,32,Yes
+T002568,A01045,2024-12-29,Performance,High,7,Yes
+T002569,A01046,2024-05-13,Bug Report,High,22,Yes
+T002570,A01046,2024-12-06,Feature Request,Critical,7,Yes
+T002571,A01046,2024-01-18,Performance,High,13,Yes
+T002572,A01047,2024-11-27,Feature Request,Medium,59,Yes
+T002573,A01047,2024-11-27,Feature Request,Low,60,Yes
+T002574,A01047,2024-11-15,Performance,High,26,Yes
+T002575,A01047,2024-11-18,Performance,High,33,Yes
+T002576,A01047,2024-11-13,Onboarding Help,Low,139,Yes
+T002577,A01048,2024-02-04,Performance,Low,,No
+T002578,A01048,2024-01-28,Billing,Medium,55,Yes
+T002579,A01048,2024-05-23,Performance,Low,85,Yes
+T002580,A01049,2024-05-09,Bug Report,Critical,8,Yes
+T002581,A01049,2024-07-11,Billing,Low,105,Yes
+T002582,A01049,2024-09-11,Feature Request,Low,151,Yes
+T002583,A01050,2024-05-31,Billing,Medium,91,Yes
+T002584,A01051,2023-09-24,Integration Issue,Low,,No
+T002585,A01052,2024-10-30,Performance,Low,88,Yes
+T002586,A01052,2024-09-15,Bug Report,High,19,Yes
+T002587,A01054,2024-10-04,Bug Report,Medium,23,Yes
+T002588,A01054,2024-04-22,Billing,Medium,,No
+T002589,A01054,2024-10-08,Feature Request,Low,24,Yes
+T002590,A01054,2024-09-01,Performance,Low,,No
+T002591,A01054,2024-04-07,Onboarding Help,Low,44,Yes
+T002592,A01054,2024-06-26,Onboarding Help,Medium,34,Yes
+T002593,A01054,2024-08-13,Performance,High,14,Yes
+T002594,A01055,2024-07-27,Billing,Critical,6,Yes
+T002595,A01055,2023-12-11,Performance,Medium,39,Yes
+T002596,A01055,2023-05-15,Billing,Low,51,Yes
+T002597,A01055,2024-06-18,Bug Report,Medium,69,Yes
+T002598,A01055,2024-07-25,Integration Issue,High,9,Yes
+T002599,A01055,2024-05-02,Feature Request,Low,24,Yes
+T002600,A01055,2023-07-15,Integration Issue,High,14,Yes
+T002601,A01055,2023-12-04,Performance,Medium,57,Yes
+T002602,A01055,2024-11-19,Integration Issue,Critical,3,Yes
+T002603,A01056,2024-12-22,Performance,Medium,86,Yes
+T002604,A01056,2024-12-21,Performance,Low,,No
+T002605,A01057,2024-10-09,Integration Issue,Medium,22,Yes
+T002606,A01057,2023-09-20,Feature Request,High,33,Yes
+T002607,A01058,2024-11-27,Performance,Medium,24,Yes
+T002608,A01059,2024-02-16,Onboarding Help,Low,83,Yes
+T002609,A01059,2024-04-25,Billing,Low,114,Yes
+T002610,A01059,2023-07-08,Integration Issue,Low,109,Yes
+T002611,A01059,2023-10-09,Integration Issue,High,29,Yes
+T002612,A01059,2024-06-10,Performance,Medium,42,Yes
+T002613,A01059,2024-02-06,Billing,Medium,28,Yes
+T002614,A01059,2024-09-23,Integration Issue,Medium,40,Yes
+T002615,A01060,2023-11-29,Performance,Medium,,No
+T002616,A01060,2024-04-22,Billing,Critical,7,Yes
+T002617,A01060,2024-04-03,Performance,Critical,5,Yes
+T002618,A01061,2024-08-21,Feature Request,Medium,26,Yes
+T002619,A01062,2024-12-21,Performance,High,34,Yes
+T002620,A01062,2024-12-09,Onboarding Help,Low,123,Yes
+T002621,A01062,2024-11-28,Onboarding Help,Medium,66,Yes
+T002622,A01062,2024-12-18,Performance,Medium,,No
+T002623,A01063,2024-09-02,Feature Request,Low,89,Yes
+T002624,A01064,2024-01-24,Feature Request,Medium,62,Yes
+T002625,A01065,2024-11-11,Feature Request,Low,,No
+T002626,A01065,2024-10-02,Onboarding Help,Low,166,Yes
+T002627,A01065,2024-10-16,Bug Report,Critical,6,Yes
+T002628,A01065,2024-11-25,Integration Issue,Low,,No
+T002629,A01065,2024-11-30,Performance,Low,61,Yes
+T002630,A01065,2024-11-28,Integration Issue,Medium,69,Yes
+T002631,A01065,2024-11-27,Onboarding Help,Medium,30,Yes
+T002632,A01065,2024-12-05,Onboarding Help,Low,64,Yes
+T002633,A01065,2024-12-04,Performance,Medium,91,Yes
+T002634,A01065,2024-12-03,Billing,Medium,,No
+T002635,A01065,2024-12-09,Feature Request,Medium,45,Yes
+T002636,A01065,2024-12-24,Billing,Low,89,Yes
+T002637,A01065,2024-10-20,Bug Report,Medium,57,Yes
+T002638,A01065,2024-12-07,Feature Request,Critical,7,Yes
+T002639,A01065,2024-11-25,Feature Request,Medium,55,Yes
+T002640,A01066,2024-08-23,Feature Request,High,44,Yes
+T002641,A01066,2024-02-18,Bug Report,Critical,7,Yes
+T002642,A01066,2024-10-22,Integration Issue,Low,,No
+T002643,A01066,2023-02-09,Billing,High,47,Yes
+T002644,A01068,2024-02-18,Integration Issue,High,42,Yes
+T002645,A01069,2024-09-12,Integration Issue,Medium,16,Yes
+T002646,A01070,2024-07-14,Bug Report,Medium,87,Yes
+T002647,A01070,2024-06-10,Integration Issue,Medium,61,Yes
+T002648,A01070,2024-05-26,Feature Request,Medium,67,Yes
+T002649,A01070,2024-08-21,Integration Issue,Medium,22,Yes
+T002650,A01070,2024-12-03,Billing,High,24,Yes
+T002651,A01070,2024-04-09,Onboarding Help,Medium,34,Yes
+T002652,A01071,2024-05-05,Integration Issue,Medium,72,Yes
+T002653,A01072,2024-07-07,Integration Issue,Low,132,Yes
+T002654,A01072,2024-07-19,Performance,Medium,25,Yes
+T002655,A01072,2024-10-01,Performance,Low,,No
+T002656,A01072,2024-08-19,Onboarding Help,Low,65,Yes
+T002657,A01072,2024-12-14,Billing,Medium,86,Yes
+T002658,A01072,2024-09-18,Bug Report,Low,163,Yes
+T002659,A01072,2024-08-28,Billing,Low,159,Yes
+T002660,A01072,2024-09-06,Onboarding Help,High,,No
+T002661,A01073,2024-12-30,Billing,Low,53,Yes
+T002662,A01073,2024-11-11,Performance,High,,No
+T002663,A01073,2024-10-31,Performance,Low,59,Yes
+T002664,A01073,2024-11-30,Billing,Medium,26,Yes
+T002665,A01073,2024-11-07,Billing,High,11,Yes
+T002666,A01073,2024-11-29,Performance,Low,167,Yes
+T002667,A01073,2024-11-10,Bug Report,Critical,2,Yes
+T002668,A01073,2024-11-21,Feature Request,Medium,31,Yes
+T002669,A01073,2024-11-10,Onboarding Help,Medium,80,Yes
+T002670,A01073,2024-12-05,Feature Request,Medium,58,Yes
+T002671,A01073,2024-11-25,Onboarding Help,Medium,23,Yes
+T002672,A01073,2024-12-11,Feature Request,Critical,,No
+T002673,A01073,2024-12-11,Performance,Low,,No
+T002674,A01074,2023-09-08,Billing,Medium,16,Yes
+T002675,A01074,2023-03-15,Bug Report,Medium,,No
+T002676,A01074,2024-10-12,Feature Request,High,18,Yes
+T002677,A01075,2023-10-29,Billing,High,36,Yes
+T002678,A01075,2024-12-27,Feature Request,Critical,1,Yes
+T002679,A01075,2023-11-17,Integration Issue,Medium,,No
+T002680,A01075,2024-07-19,Performance,Medium,93,Yes
+T002681,A01075,2024-09-12,Onboarding Help,Medium,36,Yes
+T002682,A01075,2024-10-23,Bug Report,Medium,84,Yes
+T002683,A01075,2024-10-22,Feature Request,Critical,5,Yes
+T002684,A01076,2024-10-23,Performance,Medium,60,Yes
+T002685,A01076,2024-12-31,Onboarding Help,Medium,,No
+T002686,A01076,2024-09-26,Feature Request,Medium,24,Yes
+T002687,A01078,2024-03-14,Integration Issue,Low,52,Yes
+T002688,A01078,2024-03-10,Bug Report,Low,74,Yes
+T002689,A01078,2024-04-12,Feature Request,High,45,Yes
+T002690,A01078,2024-04-12,Onboarding Help,Low,71,Yes
+T002691,A01079,2024-10-28,Integration Issue,Low,168,Yes
+T002692,A01081,2023-10-22,Bug Report,Medium,48,Yes
+T002693,A01081,2024-12-08,Performance,Medium,44,Yes
+T002694,A01081,2024-01-23,Performance,Low,106,Yes
+T002695,A01082,2024-08-25,Billing,High,8,Yes
+T002696,A01082,2024-08-18,Onboarding Help,High,,No
+T002697,A01084,2024-12-22,Integration Issue,High,47,Yes
+T002698,A01084,2024-12-28,Billing,Low,80,Yes
+T002699,A01084,2024-12-12,Bug Report,Low,27,Yes
+T002700,A01084,2024-12-23,Billing,High,15,Yes
+T002701,A01084,2024-12-13,Integration Issue,High,,No
+T002702,A01086,2024-10-04,Billing,High,10,Yes
+T002703,A01086,2023-09-20,Bug Report,Medium,85,Yes
+T002704,A01087,2024-04-12,Billing,Critical,3,Yes
+T002705,A01087,2024-06-21,Bug Report,Critical,8,Yes
+T002706,A01087,2024-04-05,Bug Report,Critical,6,Yes
+T002707,A01088,2024-09-17,Integration Issue,Low,133,Yes
+T002708,A01089,2024-11-29,Performance,High,46,Yes
+T002709,A01089,2024-06-08,Performance,Medium,60,Yes
+T002710,A01090,2024-10-04,Billing,Medium,81,Yes
+T002711,A01090,2024-06-21,Integration Issue,High,13,Yes
+T002712,A01091,2024-10-04,Billing,Low,127,Yes
+T002713,A01091,2024-06-04,Feature Request,Medium,79,Yes
+T002714,A01091,2024-04-05,Performance,Critical,1,Yes
+T002715,A01091,2024-03-05,Billing,Medium,75,Yes
+T002716,A01091,2024-03-25,Performance,Critical,1,Yes
+T002717,A01091,2024-10-28,Performance,Low,166,Yes
+T002718,A01091,2024-07-18,Feature Request,Low,88,Yes
+T002719,A01091,2024-10-10,Billing,Medium,,No
+T002720,A01093,2023-10-23,Feature Request,Low,76,Yes
+T002721,A01093,2023-12-08,Feature Request,Medium,34,Yes
+T002722,A01094,2024-12-04,Performance,High,9,Yes
+T002723,A01094,2024-12-21,Feature Request,High,11,Yes
+T002724,A01096,2024-12-02,Integration Issue,Critical,,No
+T002725,A01096,2024-12-14,Feature Request,Critical,4,Yes
+T002726,A01097,2024-08-28,Integration Issue,High,46,Yes
+T002727,A01097,2024-05-31,Bug Report,Critical,2,Yes
+T002728,A01097,2024-04-20,Feature Request,Low,,No
+T002729,A01097,2024-06-19,Performance,Medium,29,Yes
+T002730,A01097,2024-05-19,Integration Issue,High,19,Yes
+T002731,A01097,2024-06-30,Performance,Low,,No
+T002732,A01097,2024-06-16,Performance,High,46,Yes
+T002733,A01097,2024-11-09,Bug Report,Low,66,Yes
+T002734,A01097,2024-02-18,Onboarding Help,Low,64,Yes
+T002735,A01097,2023-12-05,Billing,Medium,72,Yes
+T002736,A01097,2024-07-19,Performance,Low,,No
+T002737,A01098,2024-12-08,Feature Request,Medium,,No
+T002738,A01098,2024-11-15,Bug Report,Low,,No
+T002739,A01098,2024-12-08,Performance,Low,31,Yes
+T002740,A01100,2024-07-29,Billing,Low,28,Yes
+T002741,A01100,2024-01-22,Performance,Low,106,Yes
+T002742,A01101,2024-10-16,Billing,Low,85,Yes
+T002743,A01101,2024-08-22,Feature Request,Low,143,Yes
+T002744,A01103,2024-11-18,Integration Issue,Medium,12,Yes
+T002745,A01103,2024-12-09,Onboarding Help,Medium,13,Yes
+T002746,A01105,2023-05-27,Integration Issue,Low,130,Yes
+T002747,A01105,2023-06-12,Integration Issue,Low,56,Yes
+T002748,A01105,2024-10-26,Feature Request,Medium,,No
+T002749,A01106,2023-10-13,Integration Issue,Low,46,Yes
+T002750,A01107,2024-10-16,Performance,High,6,Yes
+T002751,A01107,2024-12-11,Integration Issue,Low,135,Yes
+T002752,A01107,2024-09-30,Feature Request,Critical,6,Yes
+T002753,A01108,2024-09-28,Onboarding Help,Critical,6,Yes
+T002754,A01108,2023-12-03,Bug Report,Medium,33,Yes
+T002755,A01108,2024-07-18,Feature Request,Low,70,Yes
+T002756,A01108,2024-08-20,Billing,Low,77,Yes
+T002757,A01108,2024-02-25,Integration Issue,Medium,12,Yes
+T002758,A01108,2024-11-12,Onboarding Help,Medium,56,Yes
+T002759,A01108,2024-12-16,Onboarding Help,Medium,15,Yes
+T002760,A01109,2023-12-12,Feature Request,Medium,53,Yes
+T002761,A01109,2024-11-12,Bug Report,Medium,20,Yes
+T002762,A01109,2024-06-21,Integration Issue,Medium,96,Yes
+T002763,A01109,2023-12-16,Billing,Medium,64,Yes
+T002764,A01110,2024-11-08,Integration Issue,Critical,8,Yes
+T002765,A01110,2024-07-15,Onboarding Help,Low,39,Yes
+T002766,A01112,2023-12-06,Bug Report,High,,No
+T002767,A01113,2024-12-30,Onboarding Help,Low,25,Yes
+T002768,A01113,2024-12-27,Billing,High,44,Yes
+T002769,A01113,2024-12-08,Onboarding Help,Low,27,Yes
+T002770,A01114,2023-11-27,Performance,Medium,95,Yes
+T002771,A01114,2024-01-02,Feature Request,High,22,Yes
+T002772,A01114,2024-04-10,Billing,Medium,96,Yes
+T002773,A01114,2023-11-06,Performance,Low,134,Yes
+T002774,A01116,2024-05-18,Billing,Critical,2,Yes
+T002775,A01116,2023-12-31,Billing,Medium,43,Yes
+T002776,A01116,2024-07-28,Bug Report,Low,138,Yes
+T002777,A01117,2024-12-31,Performance,Low,128,Yes
+T002778,A01117,2024-12-29,Bug Report,Medium,52,Yes
+T002779,A01117,2024-12-29,Bug Report,Low,,No
+T002780,A01118,2024-11-26,Billing,High,8,Yes
+T002781,A01118,2024-04-27,Bug Report,Medium,,No
+T002782,A01118,2024-12-30,Billing,Critical,,No
+T002783,A01119,2023-11-13,Onboarding Help,Low,80,Yes
+T002784,A01119,2024-09-03,Billing,High,26,Yes
+T002785,A01120,2024-09-13,Bug Report,Medium,31,Yes
+T002786,A01120,2023-10-22,Onboarding Help,Medium,60,Yes
+T002787,A01120,2023-08-01,Onboarding Help,Medium,83,Yes
+T002788,A01120,2024-08-04,Bug Report,Medium,83,Yes
+T002789,A01120,2024-11-23,Integration Issue,Low,107,Yes
+T002790,A01120,2024-11-04,Billing,Medium,78,Yes
+T002791,A01121,2023-06-27,Billing,Medium,96,Yes
+T002792,A01122,2023-08-22,Billing,Medium,62,Yes
+T002793,A01122,2023-10-15,Performance,High,6,Yes
+T002794,A01123,2024-06-27,Integration Issue,Medium,93,Yes
+T002795,A01123,2024-11-05,Performance,Critical,8,Yes
+T002796,A01123,2023-11-12,Onboarding Help,Low,104,Yes
+T002797,A01124,2024-11-24,Onboarding Help,Medium,,No
+T002798,A01124,2024-10-08,Feature Request,Low,117,Yes
+T002799,A01124,2024-01-04,Integration Issue,Low,105,Yes
+T002800,A01125,2024-10-13,Billing,Medium,89,Yes
+T002801,A01126,2024-10-01,Performance,Medium,82,Yes
+T002802,A01126,2024-05-30,Integration Issue,Medium,60,Yes
+T002803,A01126,2024-01-17,Onboarding Help,Medium,,No
+T002804,A01126,2024-11-22,Bug Report,Critical,1,Yes
+T002805,A01126,2024-08-28,Onboarding Help,High,14,Yes
+T002806,A01126,2024-04-29,Billing,High,26,Yes
+T002807,A01126,2024-09-07,Performance,Medium,26,Yes
+T002808,A01126,2024-01-05,Billing,Medium,48,Yes
+T002809,A01127,2024-12-24,Bug Report,Medium,23,Yes
+T002810,A01127,2024-12-02,Integration Issue,Medium,50,Yes
+T002811,A01127,2024-12-30,Onboarding Help,High,25,Yes
+T002812,A01128,2024-11-11,Bug Report,Medium,51,Yes
+T002813,A01128,2024-09-24,Bug Report,Critical,8,Yes
+T002814,A01129,2024-12-04,Onboarding Help,Low,160,Yes
+T002815,A01130,2023-08-16,Feature Request,Low,,No
+T002816,A01130,2024-12-09,Bug Report,Critical,6,Yes
+T002817,A01130,2024-12-11,Integration Issue,Medium,55,Yes
+T002818,A01133,2024-12-16,Billing,Critical,8,Yes
+T002819,A01133,2024-01-06,Onboarding Help,Medium,39,Yes
+T002820,A01133,2024-07-17,Billing,Medium,66,Yes
+T002821,A01134,2024-12-15,Billing,Medium,95,Yes
+T002822,A01135,2024-12-25,Integration Issue,Medium,14,Yes
+T002823,A01135,2024-12-27,Onboarding Help,Medium,48,Yes
+T002824,A01135,2024-12-26,Performance,Critical,4,Yes
+T002825,A01136,2024-06-29,Billing,Medium,47,Yes
+T002826,A01136,2024-06-15,Onboarding Help,High,,No
+T002827,A01136,2023-08-03,Onboarding Help,High,35,Yes
+T002828,A01138,2023-12-22,Integration Issue,High,19,Yes
+T002829,A01138,2024-01-01,Feature Request,High,,No
+T002830,A01138,2024-11-13,Feature Request,Critical,3,Yes
+T002831,A01138,2023-11-08,Bug Report,Medium,49,Yes
+T002832,A01138,2024-07-11,Onboarding Help,High,24,Yes
+T002833,A01138,2024-03-08,Onboarding Help,High,12,Yes
+T002834,A01139,2024-11-01,Billing,High,9,Yes
+T002835,A01139,2024-10-11,Integration Issue,Medium,27,Yes
+T002836,A01140,2024-11-24,Bug Report,Medium,95,Yes
+T002837,A01141,2024-10-07,Bug Report,Medium,43,Yes
+T002838,A01141,2024-10-03,Performance,Low,33,Yes
+T002839,A01141,2024-10-24,Feature Request,Medium,66,Yes
+T002840,A01141,2024-09-27,Onboarding Help,Medium,76,Yes
+T002841,A01141,2024-12-03,Bug Report,Medium,76,Yes
+T002842,A01141,2024-12-11,Onboarding Help,Critical,,No
+T002843,A01142,2023-09-28,Bug Report,Low,,No
+T002844,A01143,2024-08-16,Onboarding Help,Medium,26,Yes
+T002845,A01143,2024-07-26,Feature Request,Critical,3,Yes
+T002846,A01143,2024-08-31,Billing,Critical,5,Yes
+T002847,A01143,2023-11-03,Integration Issue,Low,84,Yes
+T002848,A01143,2024-10-29,Integration Issue,Medium,65,Yes
+T002849,A01143,2024-01-18,Billing,Low,51,Yes
+T002850,A01143,2024-05-14,Onboarding Help,Medium,25,Yes
+T002851,A01144,2023-12-16,Onboarding Help,Medium,66,Yes
+T002852,A01144,2024-09-18,Performance,Medium,13,Yes
+T002853,A01145,2024-01-31,Integration Issue,Low,58,Yes
+T002854,A01145,2023-12-11,Billing,Medium,39,Yes
+T002855,A01145,2024-04-10,Performance,Medium,79,Yes
+T002856,A01145,2024-08-13,Onboarding Help,Medium,76,Yes
+T002857,A01146,2024-12-22,Bug Report,Low,123,Yes
+T002858,A01146,2024-12-27,Performance,Medium,62,Yes
+T002859,A01146,2024-11-08,Integration Issue,Low,165,Yes
+T002860,A01149,2024-09-13,Billing,Low,56,Yes
+T002861,A01151,2024-07-15,Performance,Low,95,Yes
+T002862,A01151,2024-06-04,Onboarding Help,Low,53,Yes
+T002863,A01151,2024-06-29,Bug Report,Medium,22,Yes
+T002864,A01152,2024-11-18,Integration Issue,Low,168,Yes
+T002865,A01152,2024-10-20,Performance,High,14,Yes
+T002866,A01154,2024-12-05,Performance,Medium,70,Yes
+T002867,A01154,2024-12-06,Feature Request,Medium,19,Yes
+T002868,A01154,2024-11-29,Performance,Low,86,Yes
+T002869,A01155,2024-01-15,Integration Issue,Low,141,Yes
+T002870,A01155,2024-03-30,Billing,Medium,70,Yes
+T002871,A01156,2024-10-06,Integration Issue,Low,158,Yes
+T002872,A01156,2024-12-29,Performance,High,44,Yes
+T002873,A01156,2024-12-07,Bug Report,Medium,67,Yes
+T002874,A01157,2024-04-18,Billing,Medium,16,Yes
+T002875,A01157,2024-08-03,Billing,High,25,Yes
+T002876,A01158,2024-12-15,Bug Report,Medium,63,Yes
+T002877,A01158,2024-08-01,Performance,Critical,1,Yes
+T002878,A01158,2024-11-09,Performance,Medium,46,Yes
+T002879,A01158,2024-03-13,Performance,Low,96,Yes
+T002880,A01158,2024-07-18,Bug Report,Low,74,Yes
+T002881,A01158,2024-07-02,Integration Issue,Medium,64,Yes
+T002882,A01159,2024-01-11,Bug Report,High,,No
+T002883,A01159,2024-01-15,Bug Report,Medium,,No
+T002884,A01161,2024-11-13,Performance,Medium,76,Yes
+T002885,A01161,2024-11-10,Onboarding Help,Low,118,Yes
+T002886,A01162,2024-12-27,Onboarding Help,High,16,Yes
+T002887,A01162,2024-11-20,Performance,Medium,34,Yes
+T002888,A01162,2024-08-29,Billing,Medium,36,Yes
+T002889,A01163,2024-04-01,Feature Request,Medium,,No
+T002890,A01164,2023-08-02,Performance,Medium,,No
+T002891,A01165,2024-10-29,Onboarding Help,High,24,Yes
+T002892,A01166,2023-03-10,Bug Report,High,15,Yes
+T002893,A01166,2024-07-29,Onboarding Help,High,24,Yes
+T002894,A01166,2024-04-11,Bug Report,Medium,70,Yes
+T002895,A01167,2024-01-12,Bug Report,Medium,68,Yes
+T002896,A01167,2023-11-24,Bug Report,Critical,5,Yes
+T002897,A01168,2024-10-17,Bug Report,Low,,No
+T002898,A01168,2024-08-10,Performance,High,26,Yes
+T002899,A01169,2024-06-16,Onboarding Help,Critical,4,Yes
+T002900,A01171,2024-10-14,Integration Issue,Low,139,Yes
+T002901,A01171,2024-09-30,Onboarding Help,High,,No
+T002902,A01171,2024-08-22,Billing,Low,40,Yes
+T002903,A01171,2024-10-04,Onboarding Help,Low,110,Yes
+T002904,A01171,2024-06-27,Billing,High,41,Yes
+T002905,A01171,2024-11-24,Integration Issue,Medium,,No
+T002906,A01171,2024-09-14,Integration Issue,Medium,86,Yes
+T002907,A01171,2024-11-02,Feature Request,Low,122,Yes
+T002908,A01172,2024-12-28,Performance,Critical,,No
+T002909,A01172,2024-05-02,Billing,Medium,,No
+T002910,A01172,2023-09-12,Performance,High,,No
+T002911,A01175,2024-02-02,Billing,High,5,Yes
+T002912,A01175,2024-04-04,Feature Request,Low,,No
+T002913,A01176,2024-12-31,Billing,Medium,31,Yes
+T002914,A01176,2024-12-06,Bug Report,Medium,26,Yes
+T002915,A01177,2024-12-30,Billing,Low,166,Yes
+T002916,A01177,2024-11-10,Bug Report,Low,120,Yes
+T002917,A01178,2023-07-08,Billing,Medium,13,Yes
+T002918,A01178,2024-02-04,Performance,Critical,2,Yes
+T002919,A01178,2024-07-17,Bug Report,Medium,94,Yes
+T002920,A01179,2023-07-14,Onboarding Help,Low,119,Yes
+T002921,A01179,2024-10-27,Feature Request,Medium,31,Yes
+T002922,A01179,2023-07-15,Feature Request,Low,34,Yes
+T002923,A01180,2023-04-28,Performance,Medium,35,Yes
+T002924,A01180,2024-07-06,Billing,Low,78,Yes
+T002925,A01180,2023-06-23,Integration Issue,Low,106,Yes
+T002926,A01184,2024-11-18,Onboarding Help,Medium,39,Yes
+T002927,A01184,2024-11-10,Performance,Critical,,No
+T002928,A01184,2024-11-30,Bug Report,Low,63,Yes
+T002929,A01185,2024-06-30,Billing,Critical,1,Yes
+T002930,A01185,2024-07-16,Performance,Low,84,Yes
+T002931,A01185,2024-12-26,Onboarding Help,High,40,Yes
+T002932,A01185,2024-09-17,Feature Request,Medium,47,Yes
+T002933,A01187,2023-10-19,Billing,Low,80,Yes
+T002934,A01187,2024-08-23,Bug Report,Critical,,No
+T002935,A01188,2024-12-20,Onboarding Help,High,29,Yes
+T002936,A01189,2024-12-28,Bug Report,Critical,5,Yes
+T002937,A01190,2024-07-19,Performance,Medium,20,Yes
+T002938,A01191,2024-08-31,Billing,Medium,80,Yes
+T002939,A01191,2024-12-04,Bug Report,Low,82,Yes
+T002940,A01191,2024-11-24,Performance,Low,138,Yes
+T002941,A01192,2024-12-29,Onboarding Help,Critical,,No
+T002942,A01192,2024-10-11,Feature Request,Medium,29,Yes
+T002943,A01192,2024-11-24,Billing,Low,70,Yes
+T002944,A01193,2023-07-22,Feature Request,Low,160,Yes
+T002945,A01195,2023-10-17,Onboarding Help,High,16,Yes
+T002946,A01196,2024-10-26,Billing,Medium,,No
+T002947,A01196,2024-11-24,Feature Request,Critical,6,Yes
+T002948,A01197,2024-05-17,Feature Request,Medium,63,Yes
+T002949,A01197,2024-03-23,Bug Report,Low,42,Yes
+T002950,A01197,2024-11-06,Integration Issue,Low,48,Yes
+T002951,A01199,2024-12-26,Billing,Low,121,Yes
+T002952,A01200,2024-08-18,Performance,High,43,Yes
+T002953,A01200,2024-07-25,Onboarding Help,Critical,4,Yes
+T002954,A01200,2024-08-11,Integration Issue,Medium,18,Yes
+T002955,A01201,2024-09-28,Performance,Medium,86,Yes
+T002956,A01203,2023-12-05,Billing,High,13,Yes
+T002957,A01203,2024-06-08,Billing,Critical,4,Yes
+T002958,A01205,2024-03-28,Feature Request,Low,47,Yes
+T002959,A01206,2023-10-25,Bug Report,Critical,,No
+T002960,A01207,2023-02-21,Feature Request,Low,68,Yes
+T002961,A01208,2024-11-11,Performance,Low,,No
+T002962,A01208,2024-06-20,Feature Request,Medium,71,Yes
+T002963,A01209,2024-03-25,Onboarding Help,Medium,57,Yes
+T002964,A01211,2024-12-10,Onboarding Help,Low,108,Yes
+T002965,A01213,2024-01-22,Performance,Low,157,Yes
+T002966,A01213,2024-07-15,Billing,Low,147,Yes
+T002967,A01213,2024-03-05,Performance,Critical,4,Yes
+T002968,A01213,2024-07-07,Billing,High,42,Yes
+T002969,A01213,2024-10-09,Billing,High,12,Yes
+T002970,A01213,2024-12-18,Integration Issue,Medium,29,Yes
+T002971,A01213,2024-08-07,Performance,Low,47,Yes
+T002972,A01213,2024-04-07,Bug Report,Medium,52,Yes
+T002973,A01213,2023-12-30,Performance,Medium,39,Yes
+T002974,A01213,2024-01-03,Billing,Critical,5,Yes
+T002975,A01213,2024-03-16,Billing,Critical,5,Yes
+T002976,A01213,2024-09-18,Integration Issue,Medium,52,Yes
+T002977,A01213,2024-02-15,Onboarding Help,Medium,12,Yes
+T002978,A01214,2024-02-08,Billing,High,24,Yes
+T002979,A01214,2024-02-13,Bug Report,Low,61,Yes
+T002980,A01215,2024-12-16,Bug Report,Low,27,Yes
+T002981,A01217,2023-08-24,Bug Report,Low,55,Yes
+T002982,A01217,2024-04-09,Onboarding Help,Medium,54,Yes
+T002983,A01217,2024-12-30,Onboarding Help,High,31,Yes
+T002984,A01218,2024-10-14,Performance,Medium,46,Yes
+T002985,A01218,2024-09-16,Integration Issue,Medium,15,Yes
+T002986,A01218,2024-12-15,Performance,Medium,48,Yes
+T002987,A01219,2024-10-02,Integration Issue,Medium,43,Yes
+T002988,A01219,2024-11-26,Billing,Medium,,No
+T002989,A01219,2024-09-02,Onboarding Help,Low,158,Yes
+T002990,A01220,2024-12-22,Performance,Low,34,Yes
+T002991,A01220,2024-12-04,Billing,High,12,Yes
+T002992,A01221,2024-09-15,Feature Request,Critical,,No
+T002993,A01221,2023-10-15,Integration Issue,High,18,Yes
+T002994,A01221,2024-07-27,Performance,Medium,93,Yes
+T002995,A01221,2023-10-25,Billing,Medium,,No
+T002996,A01221,2024-05-15,Onboarding Help,Low,24,Yes
+T002997,A01221,2024-12-11,Bug Report,Medium,40,Yes
+T002998,A01221,2023-02-14,Feature Request,Low,57,Yes
+T002999,A01221,2023-12-02,Integration Issue,Medium,46,Yes
+T003000,A01222,2023-10-26,Onboarding Help,Low,35,Yes
+T003001,A01222,2023-08-16,Onboarding Help,Low,89,Yes
+T003002,A01222,2024-11-29,Onboarding Help,Low,119,Yes
+T003003,A01223,2024-07-04,Integration Issue,Critical,,No
+T003004,A01223,2024-03-16,Performance,Medium,92,Yes
+T003005,A01223,2024-04-02,Bug Report,Medium,82,Yes
+T003006,A01224,2023-08-21,Billing,Medium,,No
+T003007,A01224,2024-01-15,Onboarding Help,Low,74,Yes
+T003008,A01225,2024-08-28,Bug Report,Low,67,Yes
+T003009,A01225,2024-09-03,Onboarding Help,Low,33,Yes
+T003010,A01226,2024-09-02,Feature Request,Medium,75,Yes
+T003011,A01226,2023-10-22,Integration Issue,High,34,Yes
+T003012,A01227,2024-11-01,Integration Issue,Medium,74,Yes
+T003013,A01228,2024-12-27,Bug Report,Low,161,Yes
+T003014,A01229,2024-06-30,Billing,Critical,4,Yes
+T003015,A01229,2024-04-15,Onboarding Help,Medium,70,Yes
+T003016,A01229,2024-11-15,Performance,Medium,93,Yes
+T003017,A01229,2023-11-17,Billing,High,,No
+T003018,A01229,2024-09-29,Bug Report,Medium,47,Yes
+T003019,A01230,2024-05-03,Billing,Medium,70,Yes
+T003020,A01230,2023-10-21,Feature Request,Critical,5,Yes
+T003021,A01230,2024-12-06,Integration Issue,Medium,29,Yes
+T003022,A01231,2023-06-25,Feature Request,Medium,47,Yes
+T003023,A01231,2024-10-11,Bug Report,Medium,32,Yes
+T003024,A01231,2023-06-04,Feature Request,Medium,94,Yes
+T003025,A01232,2024-02-09,Feature Request,Medium,20,Yes
+T003026,A01232,2024-03-04,Billing,Medium,95,Yes
+T003027,A01234,2024-12-24,Onboarding Help,Low,,No
+T003028,A01234,2024-12-25,Feature Request,High,42,Yes
+T003029,A01234,2024-12-27,Performance,High,18,Yes
+T003030,A01236,2024-12-18,Performance,Low,99,Yes
+T003031,A01238,2024-08-14,Feature Request,Low,157,Yes
+T003032,A01238,2024-03-21,Onboarding Help,Medium,85,Yes
+T003033,A01238,2023-11-22,Feature Request,Medium,12,Yes
+T003034,A01239,2024-07-27,Onboarding Help,High,,No
+T003035,A01239,2023-12-28,Feature Request,Low,164,Yes
+T003036,A01239,2024-01-10,Onboarding Help,High,16,Yes
+T003037,A01240,2023-11-18,Performance,High,24,Yes
+T003038,A01240,2024-02-22,Onboarding Help,Medium,,No
+T003039,A01240,2024-11-15,Bug Report,High,10,Yes
+T003040,A01240,2023-10-09,Billing,Low,90,Yes
+T003041,A01240,2024-06-22,Feature Request,Medium,59,Yes
+T003042,A01240,2024-08-17,Onboarding Help,Medium,25,Yes
+T003043,A01240,2024-04-15,Billing,Low,,No
+T003044,A01241,2024-12-13,Billing,Low,73,Yes
+T003045,A01244,2024-12-28,Integration Issue,Low,,No
+T003046,A01244,2024-12-23,Performance,Medium,29,Yes
+T003047,A01244,2024-12-23,Bug Report,Low,60,Yes
+T003048,A01244,2024-12-25,Onboarding Help,Critical,4,Yes
+T003049,A01244,2024-12-23,Onboarding Help,Low,115,Yes
+T003050,A01245,2024-09-02,Billing,High,24,Yes
+T003051,A01248,2024-07-20,Bug Report,High,48,Yes
+T003052,A01248,2024-07-08,Billing,Low,108,Yes
+T003053,A01248,2024-09-09,Bug Report,Medium,56,Yes
+T003054,A01249,2024-12-27,Billing,Medium,73,Yes
+T003055,A01250,2024-05-03,Performance,Medium,34,Yes
+T003056,A01250,2023-02-25,Feature Request,High,40,Yes
+T003057,A01250,2024-07-27,Integration Issue,High,20,Yes
+T003058,A01251,2024-12-28,Billing,Medium,84,Yes
+T003059,A01252,2024-10-08,Feature Request,Low,,No
+T003060,A01252,2024-11-30,Integration Issue,Medium,76,Yes
+T003061,A01252,2024-12-07,Feature Request,High,11,Yes
+T003062,A01252,2024-10-22,Bug Report,Medium,43,Yes
+T003063,A01252,2024-10-15,Onboarding Help,High,8,Yes
+T003064,A01252,2024-11-14,Bug Report,Low,83,Yes
+T003065,A01253,2024-04-19,Bug Report,Critical,6,Yes
+T003066,A01253,2023-03-02,Billing,Low,29,Yes
+T003067,A01253,2024-11-06,Onboarding Help,High,27,Yes
+T003068,A01254,2023-10-25,Bug Report,Low,121,Yes
+T003069,A01254,2023-07-23,Billing,Critical,8,Yes
+T003070,A01255,2024-05-04,Feature Request,Low,105,Yes
+T003071,A01255,2024-09-16,Bug Report,Medium,,No
+T003072,A01255,2023-08-08,Performance,Low,32,Yes
+T003073,A01256,2024-07-17,Bug Report,High,10,Yes
+T003074,A01257,2024-09-09,Onboarding Help,Low,142,Yes
+T003075,A01259,2024-09-26,Integration Issue,Medium,91,Yes
+T003076,A01260,2023-06-15,Integration Issue,High,40,Yes
+T003077,A01260,2023-09-06,Billing,Medium,,No
+T003078,A01260,2024-10-18,Onboarding Help,Low,132,Yes
+T003079,A01262,2024-10-01,Onboarding Help,Medium,87,Yes
+T003080,A01262,2024-03-11,Billing,Low,101,Yes
+T003081,A01265,2024-06-12,Onboarding Help,Medium,59,Yes
+T003082,A01266,2024-11-22,Billing,Low,158,Yes
+T003083,A01267,2024-09-03,Performance,High,18,Yes
+T003084,A01267,2023-09-14,Feature Request,Medium,37,Yes
+T003085,A01267,2024-12-15,Onboarding Help,High,15,Yes
+T003086,A01267,2024-08-19,Onboarding Help,Medium,87,Yes
+T003087,A01267,2023-09-08,Feature Request,Medium,69,Yes
+T003088,A01267,2023-09-07,Bug Report,Low,91,Yes
+T003089,A01268,2024-12-31,Integration Issue,Medium,15,Yes
+T003090,A01268,2024-12-22,Integration Issue,Medium,,No
+T003091,A01268,2024-12-26,Billing,Medium,83,Yes
+T003092,A01268,2024-12-24,Billing,High,31,Yes
+T003093,A01269,2023-10-01,Integration Issue,Medium,80,Yes
+T003094,A01269,2024-07-31,Performance,High,27,Yes
+T003095,A01269,2023-04-10,Billing,Medium,69,Yes
+T003096,A01269,2023-06-10,Onboarding Help,Critical,4,Yes
+T003097,A01269,2024-07-07,Bug Report,Medium,35,Yes
+T003098,A01269,2024-06-19,Onboarding Help,Medium,62,Yes
+T003099,A01269,2023-09-27,Integration Issue,Low,129,Yes
+T003100,A01269,2024-02-16,Billing,High,7,Yes
+T003101,A01271,2024-04-19,Performance,Low,,No
+T003102,A01272,2024-09-27,Performance,Critical,6,Yes
+T003103,A01272,2024-05-04,Performance,High,43,Yes
+T003104,A01273,2024-03-27,Feature Request,Medium,58,Yes
+T003105,A01274,2023-10-19,Billing,High,7,Yes
+T003106,A01274,2023-07-24,Feature Request,Medium,32,Yes
+T003107,A01274,2024-11-28,Performance,High,10,Yes
+T003108,A01275,2024-05-24,Feature Request,Low,162,Yes
+T003109,A01275,2024-12-07,Performance,Critical,6,Yes
+T003110,A01277,2024-06-06,Feature Request,High,42,Yes
+T003111,A01278,2024-09-14,Feature Request,Medium,27,Yes
+T003112,A01279,2024-11-29,Bug Report,Medium,92,Yes
+T003113,A01279,2024-10-20,Bug Report,Low,148,Yes
+T003114,A01279,2024-05-04,Integration Issue,Critical,6,Yes
+T003115,A01279,2024-06-22,Bug Report,Medium,,No
+T003116,A01279,2024-09-25,Bug Report,Critical,2,Yes
+T003117,A01279,2024-10-06,Performance,Low,107,Yes
+T003118,A01279,2024-09-09,Integration Issue,Medium,22,Yes
+T003119,A01283,2024-07-12,Onboarding Help,Low,24,Yes
+T003120,A01283,2024-09-30,Billing,Medium,79,Yes
+T003121,A01284,2024-05-24,Integration Issue,Medium,26,Yes
+T003122,A01284,2023-09-15,Integration Issue,Medium,39,Yes
+T003123,A01285,2024-05-03,Onboarding Help,Medium,62,Yes
+T003124,A01285,2024-11-22,Billing,High,39,Yes
+T003125,A01285,2024-12-31,Performance,Low,62,Yes
+T003126,A01286,2024-05-13,Integration Issue,Medium,62,Yes
+T003127,A01286,2024-07-23,Feature Request,Medium,43,Yes
+T003128,A01286,2023-08-15,Feature Request,Medium,23,Yes
+T003129,A01287,2024-11-21,Billing,Medium,96,Yes
+T003130,A01287,2024-12-20,Feature Request,Critical,7,Yes
+T003131,A01287,2024-11-06,Onboarding Help,Low,123,Yes
+T003132,A01289,2024-04-18,Billing,High,48,Yes
+T003133,A01290,2024-12-15,Feature Request,High,43,Yes
+T003134,A01290,2024-12-10,Feature Request,Medium,72,Yes
+T003135,A01291,2024-10-25,Billing,Low,116,Yes
+T003136,A01291,2024-07-05,Integration Issue,Medium,94,Yes
+T003137,A01291,2024-07-15,Onboarding Help,Medium,78,Yes
+T003138,A01291,2024-09-05,Bug Report,Medium,24,Yes
+T003139,A01291,2024-10-17,Integration Issue,Medium,,No
+T003140,A01291,2024-11-14,Integration Issue,High,36,Yes
+T003141,A01291,2024-07-13,Integration Issue,Medium,26,Yes
+T003142,A01291,2024-08-30,Bug Report,Medium,23,Yes
+T003143,A01291,2024-06-17,Integration Issue,Low,70,Yes
+T003144,A01291,2024-10-04,Billing,Medium,21,Yes
+T003145,A01291,2024-07-12,Performance,Low,,No
+T003146,A01292,2024-07-22,Billing,High,11,Yes
+T003147,A01292,2024-10-03,Billing,Low,31,Yes
+T003148,A01292,2024-07-10,Integration Issue,Low,126,Yes
+T003149,A01293,2024-12-13,Feature Request,Medium,50,Yes
+T003150,A01297,2024-09-04,Billing,Medium,20,Yes
+T003151,A01297,2024-10-18,Onboarding Help,High,,No
+T003152,A01298,2024-08-23,Integration Issue,Medium,,No
+T003153,A01298,2024-02-27,Onboarding Help,Medium,69,Yes
+T003154,A01299,2024-08-02,Billing,Low,,No
+T003155,A01300,2024-12-14,Performance,Low,166,Yes
+T003156,A01301,2024-06-07,Feature Request,Low,65,Yes
+T003157,A01303,2024-10-08,Bug Report,Medium,54,Yes
+T003158,A01303,2024-05-23,Integration Issue,Low,137,Yes
+T003159,A01303,2024-04-06,Billing,Medium,80,Yes
+T003160,A01305,2024-09-07,Integration Issue,Low,166,Yes
+T003161,A01306,2023-08-08,Performance,Medium,16,Yes
+T003162,A01307,2024-12-05,Integration Issue,Low,29,Yes
+T003163,A01307,2024-12-30,Performance,High,46,Yes
+T003164,A01307,2024-11-29,Integration Issue,Medium,,No
+T003165,A01308,2024-06-28,Feature Request,Medium,,No
+T003166,A01308,2023-08-19,Onboarding Help,High,4,Yes
+T003167,A01308,2023-04-13,Bug Report,Low,32,Yes
+T003168,A01308,2024-12-13,Billing,Low,25,Yes
+T003169,A01308,2023-06-13,Billing,Critical,,No
+T003170,A01308,2023-11-23,Feature Request,Low,117,Yes
+T003171,A01308,2024-11-14,Billing,Medium,75,Yes
+T003172,A01308,2023-02-08,Bug Report,High,,No
+T003173,A01309,2024-07-28,Bug Report,High,7,Yes
+T003174,A01309,2024-06-24,Performance,Medium,47,Yes
+T003175,A01309,2023-08-17,Integration Issue,Medium,,No
+T003176,A01311,2024-09-06,Integration Issue,Medium,,No
+T003177,A01311,2024-11-12,Billing,Low,,No
+T003178,A01311,2024-08-11,Billing,Low,,No
+T003179,A01313,2024-07-04,Performance,Low,92,Yes
+T003180,A01314,2024-12-09,Billing,Low,110,Yes
+T003181,A01314,2023-09-04,Onboarding Help,High,23,Yes
+T003182,A01314,2024-02-10,Integration Issue,Medium,64,Yes
+T003183,A01314,2023-12-01,Integration Issue,Low,,No
+T003184,A01314,2024-04-07,Onboarding Help,High,11,Yes
+T003185,A01314,2024-12-10,Billing,Critical,7,Yes
+T003186,A01314,2023-12-20,Integration Issue,Low,54,Yes
+T003187,A01314,2024-12-02,Onboarding Help,Low,122,Yes
+T003188,A01315,2023-07-18,Onboarding Help,Critical,7,Yes
+T003189,A01315,2024-04-23,Onboarding Help,Low,,No
+T003190,A01315,2024-02-23,Performance,High,43,Yes
+T003191,A01315,2023-08-28,Feature Request,Low,42,Yes
+T003192,A01315,2024-04-03,Onboarding Help,Low,131,Yes
+T003193,A01315,2024-06-17,Performance,Medium,52,Yes
+T003194,A01315,2024-11-26,Feature Request,Medium,,No
+T003195,A01316,2024-10-10,Onboarding Help,Medium,,No
+T003196,A01316,2023-04-26,Onboarding Help,Critical,4,Yes
+T003197,A01316,2023-08-02,Integration Issue,Medium,87,Yes
+T003198,A01317,2024-11-29,Feature Request,Medium,75,Yes
+T003199,A01317,2024-11-26,Onboarding Help,Low,29,Yes
+T003200,A01317,2024-01-24,Performance,High,47,Yes
+T003201,A01318,2024-10-22,Integration Issue,High,29,Yes
+T003202,A01319,2024-06-19,Feature Request,Low,70,Yes
+T003203,A01319,2024-06-09,Bug Report,Low,,No
+T003204,A01320,2024-05-18,Billing,Medium,71,Yes
+T003205,A01320,2023-12-23,Onboarding Help,Critical,6,Yes
+T003206,A01321,2024-11-21,Bug Report,High,,No
+T003207,A01321,2024-01-20,Onboarding Help,High,48,Yes
+T003208,A01321,2024-05-01,Performance,Medium,43,Yes
+T003209,A01322,2024-04-19,Billing,High,14,Yes
+T003210,A01322,2024-10-22,Bug Report,Low,164,Yes
+T003211,A01323,2024-09-22,Billing,Low,80,Yes
+T003212,A01323,2024-08-02,Feature Request,Medium,83,Yes
+T003213,A01324,2024-03-08,Bug Report,High,48,Yes
+T003214,A01324,2024-11-01,Integration Issue,Medium,68,Yes
+T003215,A01325,2024-12-01,Billing,Low,108,Yes
+T003216,A01325,2024-09-10,Integration Issue,Medium,77,Yes
+T003217,A01326,2024-12-15,Bug Report,Low,41,Yes
+T003218,A01328,2024-09-07,Feature Request,Low,118,Yes
+T003219,A01328,2023-11-19,Feature Request,Critical,,No
+T003220,A01328,2024-01-27,Onboarding Help,Critical,4,Yes
+T003221,A01328,2023-12-04,Integration Issue,High,47,Yes
+T003222,A01328,2024-02-06,Integration Issue,High,11,Yes
+T003223,A01330,2024-12-28,Feature Request,High,5,Yes
+T003224,A01330,2024-12-26,Billing,High,34,Yes
+T003225,A01330,2024-11-06,Feature Request,Low,124,Yes
+T003226,A01330,2024-08-22,Bug Report,Critical,,No
+T003227,A01330,2024-12-11,Feature Request,High,15,Yes
+T003228,A01331,2024-12-13,Billing,Low,129,Yes
+T003229,A01331,2024-12-10,Bug Report,Critical,,No
+T003230,A01331,2024-12-14,Integration Issue,Low,162,Yes
+T003231,A01335,2024-10-01,Performance,Low,72,Yes
+T003232,A01336,2024-11-12,Integration Issue,High,21,Yes
+T003233,A01336,2024-09-20,Bug Report,High,13,Yes
+T003234,A01337,2024-12-05,Billing,Critical,8,Yes
+T003235,A01338,2024-06-23,Integration Issue,Critical,4,Yes
+T003236,A01340,2024-02-15,Billing,Low,48,Yes
+T003237,A01340,2024-05-27,Bug Report,Medium,71,Yes
+T003238,A01341,2024-03-26,Onboarding Help,High,19,Yes
+T003239,A01341,2024-01-20,Integration Issue,Low,88,Yes
+T003240,A01342,2024-12-03,Integration Issue,Critical,,No
+T003241,A01342,2023-12-11,Onboarding Help,Low,,No
+T003242,A01344,2024-09-18,Onboarding Help,Critical,,No
+T003243,A01344,2024-02-01,Feature Request,Medium,62,Yes
+T003244,A01344,2024-07-10,Performance,Low,153,Yes
+T003245,A01345,2024-12-12,Onboarding Help,High,,No
+T003246,A01345,2024-12-24,Integration Issue,High,19,Yes
+T003247,A01346,2024-09-23,Feature Request,High,17,Yes
+T003248,A01346,2024-12-19,Onboarding Help,Medium,44,Yes
+T003249,A01346,2024-06-12,Feature Request,High,,No
+T003250,A01346,2024-09-23,Onboarding Help,Medium,62,Yes
+T003251,A01346,2024-11-04,Billing,Critical,1,Yes
+T003252,A01346,2024-10-18,Bug Report,Low,135,Yes
+T003253,A01346,2024-02-13,Feature Request,Medium,32,Yes
+T003254,A01346,2024-09-30,Bug Report,Medium,74,Yes
+T003255,A01347,2024-10-20,Onboarding Help,Low,166,Yes
+T003256,A01347,2024-10-17,Integration Issue,Critical,3,Yes
+T003257,A01347,2024-12-12,Integration Issue,Medium,16,Yes
+T003258,A01347,2024-11-18,Feature Request,Low,70,Yes
+T003259,A01347,2024-12-04,Integration Issue,Medium,92,Yes
+T003260,A01347,2024-12-13,Integration Issue,Low,,No
+T003261,A01348,2024-10-21,Bug Report,Medium,47,Yes
+T003262,A01348,2024-12-09,Onboarding Help,High,39,Yes
+T003263,A01348,2024-10-07,Feature Request,Low,59,Yes
+T003264,A01348,2024-09-21,Billing,Medium,60,Yes
+T003265,A01348,2024-12-28,Onboarding Help,Medium,86,Yes
+T003266,A01348,2024-10-14,Onboarding Help,Low,52,Yes
+T003267,A01348,2024-09-07,Billing,Medium,54,Yes
+T003268,A01348,2024-08-22,Performance,Critical,8,Yes
+T003269,A01349,2024-04-15,Performance,Low,105,Yes
+T003270,A01349,2023-10-17,Onboarding Help,High,45,Yes
+T003271,A01350,2023-10-16,Feature Request,Medium,35,Yes
+T003272,A01351,2024-10-14,Billing,Medium,66,Yes
+T003273,A01351,2023-10-05,Bug Report,Medium,13,Yes
+T003274,A01351,2024-02-06,Billing,Medium,,No
+T003275,A01352,2023-08-26,Bug Report,Medium,70,Yes
+T003276,A01353,2024-08-22,Billing,Low,130,Yes
+T003277,A01353,2024-11-20,Feature Request,Low,45,Yes
+T003278,A01354,2024-11-27,Bug Report,Medium,,No
+T003279,A01354,2024-12-13,Feature Request,Medium,13,Yes
+T003280,A01354,2024-12-09,Bug Report,Medium,52,Yes
+T003281,A01354,2024-12-30,Performance,High,33,Yes
+T003282,A01354,2024-12-21,Feature Request,High,,No
+T003283,A01355,2024-04-21,Onboarding Help,Medium,56,Yes
+T003284,A01355,2024-01-03,Billing,High,17,Yes
+T003285,A01356,2024-10-06,Onboarding Help,Low,77,Yes
+T003286,A01358,2024-12-05,Billing,Medium,59,Yes
+T003287,A01358,2024-12-28,Integration Issue,Medium,34,Yes
+T003288,A01359,2024-06-12,Feature Request,Medium,89,Yes
+T003289,A01359,2024-12-08,Performance,High,45,Yes
+T003290,A01359,2024-02-18,Bug Report,Medium,45,Yes
+T003291,A01359,2024-12-23,Feature Request,High,29,Yes
+T003292,A01362,2024-01-23,Integration Issue,High,46,Yes
+T003293,A01362,2024-01-13,Billing,High,30,Yes
+T003294,A01363,2024-02-08,Billing,Medium,90,Yes
+T003295,A01364,2024-09-10,Billing,Low,138,Yes
+T003296,A01365,2024-06-14,Bug Report,Medium,64,Yes
+T003297,A01365,2023-12-23,Feature Request,Critical,2,Yes
+T003298,A01365,2023-04-27,Billing,High,16,Yes
+T003299,A01365,2024-09-23,Bug Report,Medium,30,Yes
+T003300,A01366,2023-10-08,Bug Report,Medium,71,Yes
+T003301,A01366,2024-05-30,Billing,Low,144,Yes
+T003302,A01367,2023-06-05,Feature Request,Medium,67,Yes
+T003303,A01367,2023-04-20,Performance,Medium,36,Yes
+T003304,A01368,2024-10-02,Feature Request,Low,58,Yes
+T003305,A01368,2024-03-07,Bug Report,High,28,Yes
+T003306,A01368,2024-12-15,Billing,Low,29,Yes
+T003307,A01368,2024-02-23,Onboarding Help,Medium,70,Yes
+T003308,A01368,2023-10-25,Billing,High,,No
+T003309,A01368,2023-10-25,Performance,Low,145,Yes
+T003310,A01368,2023-12-24,Integration Issue,Medium,15,Yes
+T003311,A01368,2024-04-13,Billing,Low,,No
+T003312,A01369,2024-08-23,Integration Issue,Critical,4,Yes
+T003313,A01369,2024-09-26,Billing,Medium,26,Yes
+T003314,A01372,2024-10-12,Performance,Medium,85,Yes
+T003315,A01373,2024-08-13,Performance,Critical,4,Yes
+T003316,A01373,2024-08-08,Billing,Medium,16,Yes
+T003317,A01373,2024-10-23,Feature Request,Low,,No
+T003318,A01373,2024-08-30,Feature Request,Medium,22,Yes
+T003319,A01373,2024-12-31,Billing,Critical,2,Yes
+T003320,A01373,2024-12-15,Feature Request,High,38,Yes
+T003321,A01373,2024-09-05,Feature Request,Low,,No
+T003322,A01373,2024-09-08,Onboarding Help,Low,,No
+T003323,A01374,2024-11-19,Bug Report,Low,106,Yes
+T003324,A01375,2024-07-12,Onboarding Help,Medium,42,Yes
+T003325,A01376,2024-10-28,Performance,Medium,61,Yes
+T003326,A01376,2024-10-09,Bug Report,Medium,,No
+T003327,A01376,2024-11-07,Billing,Medium,55,Yes
+T003328,A01377,2024-12-25,Billing,Low,,No
+T003329,A01377,2023-10-22,Billing,Critical,6,Yes
+T003330,A01379,2024-04-05,Integration Issue,Medium,36,Yes
+T003331,A01379,2024-05-30,Performance,Low,136,Yes
+T003332,A01380,2024-12-19,Integration Issue,High,26,Yes
+T003333,A01381,2024-12-18,Feature Request,High,32,Yes
+T003334,A01381,2024-08-07,Bug Report,High,34,Yes
+T003335,A01382,2024-12-22,Feature Request,Low,28,Yes
+T003336,A01382,2024-12-17,Bug Report,High,13,Yes
+T003337,A01382,2024-11-20,Integration Issue,Medium,67,Yes
+T003338,A01382,2024-11-09,Onboarding Help,Critical,4,Yes
+T003339,A01382,2024-11-20,Bug Report,Low,116,Yes
+T003340,A01383,2024-12-30,Bug Report,Low,109,Yes
+T003341,A01383,2024-10-01,Onboarding Help,Low,140,Yes
+T003342,A01383,2024-10-30,Bug Report,Medium,77,Yes
+T003343,A01383,2024-11-07,Bug Report,Medium,42,Yes
+T003344,A01383,2024-10-08,Onboarding Help,Low,128,Yes
+T003345,A01383,2024-09-11,Onboarding Help,Low,,No
+T003346,A01383,2024-09-20,Feature Request,Low,158,Yes
+T003347,A01383,2024-11-27,Bug Report,Medium,43,Yes
+T003348,A01383,2024-09-18,Onboarding Help,High,5,Yes
+T003349,A01383,2024-10-11,Feature Request,Medium,44,Yes
+T003350,A01384,2024-04-08,Bug Report,Low,,No
+T003351,A01384,2024-01-14,Integration Issue,High,32,Yes
+T003352,A01384,2024-04-20,Performance,Critical,5,Yes
+T003353,A01385,2024-12-28,Billing,High,35,Yes
+T003354,A01386,2024-09-02,Integration Issue,Critical,2,Yes
+T003355,A01386,2023-06-29,Integration Issue,High,26,Yes
+T003356,A01386,2023-11-27,Billing,Low,152,Yes
+T003357,A01386,2024-10-24,Bug Report,High,,No
+T003358,A01386,2024-03-13,Feature Request,Low,76,Yes
+T003359,A01386,2024-09-24,Integration Issue,High,17,Yes
+T003360,A01387,2024-09-07,Feature Request,Low,66,Yes
+T003361,A01388,2024-12-29,Billing,Medium,79,Yes
+T003362,A01388,2024-12-21,Integration Issue,High,45,Yes
+T003363,A01390,2024-07-19,Performance,Medium,67,Yes
+T003364,A01390,2024-08-15,Onboarding Help,Medium,,No
+T003365,A01390,2024-10-13,Onboarding Help,Medium,28,Yes
+T003366,A01391,2024-09-09,Feature Request,Low,144,Yes
+T003367,A01392,2024-12-30,Bug Report,High,,No
+T003368,A01392,2024-12-27,Performance,Low,69,Yes
+T003369,A01393,2024-07-11,Performance,Medium,,No
+T003370,A01393,2024-12-09,Performance,Low,116,Yes
+T003371,A01394,2024-12-05,Feature Request,High,,No
+T003372,A01394,2024-12-19,Feature Request,Medium,57,Yes
+T003373,A01396,2023-11-20,Performance,Critical,3,Yes
+T003374,A01396,2024-05-30,Integration Issue,High,21,Yes
+T003375,A01396,2024-07-17,Feature Request,High,44,Yes
+T003376,A01396,2023-09-16,Integration Issue,Medium,53,Yes
+T003377,A01396,2024-08-29,Billing,Low,72,Yes
+T003378,A01397,2024-07-15,Integration Issue,Low,152,Yes
+T003379,A01397,2024-03-16,Bug Report,Low,96,Yes
+T003380,A01397,2024-11-16,Feature Request,Medium,,No
+T003381,A01397,2024-06-07,Feature Request,Medium,31,Yes
+T003382,A01397,2024-08-25,Performance,Medium,19,Yes
+T003383,A01397,2024-08-23,Bug Report,Medium,56,Yes
+T003384,A01397,2024-08-06,Billing,High,7,Yes
+T003385,A01397,2024-03-07,Integration Issue,Medium,37,Yes
+T003386,A01397,2024-08-20,Onboarding Help,Medium,95,Yes
+T003387,A01398,2024-08-01,Onboarding Help,Critical,,No
+T003388,A01398,2024-09-29,Performance,Critical,6,Yes
+T003389,A01398,2024-09-14,Performance,Medium,64,Yes
+T003390,A01398,2023-07-20,Performance,Low,89,Yes
+T003391,A01399,2024-10-08,Billing,High,7,Yes
+T003392,A01399,2024-11-15,Onboarding Help,Low,115,Yes
+T003393,A01399,2024-08-01,Onboarding Help,High,30,Yes
+T003394,A01399,2024-08-04,Integration Issue,Medium,64,Yes
+T003395,A01399,2024-12-20,Feature Request,High,7,Yes
+T003396,A01399,2024-08-03,Bug Report,Low,68,Yes
+T003397,A01400,2023-09-20,Integration Issue,High,11,Yes
+T003398,A01400,2024-07-20,Feature Request,Medium,84,Yes
+T003399,A01400,2023-08-24,Onboarding Help,Medium,16,Yes
+T003400,A01401,2024-10-03,Bug Report,Medium,80,Yes
+T003401,A01401,2024-06-24,Feature Request,Medium,74,Yes
+T003402,A01402,2024-11-30,Performance,Critical,1,Yes
+T003403,A01402,2024-11-18,Bug Report,Medium,68,Yes
+T003404,A01402,2024-11-15,Bug Report,High,18,Yes
+T003405,A01405,2024-11-10,Onboarding Help,Low,,No
+T003406,A01405,2024-11-02,Integration Issue,Medium,62,Yes
+T003407,A01406,2023-07-08,Billing,Medium,19,Yes
+T003408,A01406,2023-10-26,Performance,Low,50,Yes
+T003409,A01406,2024-02-22,Performance,Low,,No
+T003410,A01407,2024-09-18,Feature Request,Medium,90,Yes
+T003411,A01408,2024-02-02,Onboarding Help,Medium,95,Yes
+T003412,A01408,2024-11-26,Onboarding Help,Medium,22,Yes
+T003413,A01408,2024-11-04,Onboarding Help,Medium,59,Yes
+T003414,A01408,2024-07-30,Onboarding Help,Low,131,Yes
+T003415,A01408,2024-01-21,Integration Issue,Medium,21,Yes
+T003416,A01408,2024-09-25,Integration Issue,Low,,No
+T003417,A01408,2024-01-15,Performance,Low,118,Yes
+T003418,A01408,2024-12-16,Onboarding Help,Low,78,Yes
+T003419,A01408,2024-02-20,Billing,Medium,83,Yes
+T003420,A01408,2024-04-23,Performance,High,5,Yes
+T003421,A01408,2024-09-29,Performance,Medium,17,Yes
+T003422,A01409,2024-04-30,Billing,Low,30,Yes
+T003423,A01409,2024-07-25,Bug Report,High,31,Yes
+T003424,A01409,2024-02-13,Billing,Medium,59,Yes
+T003425,A01409,2024-12-01,Integration Issue,Medium,48,Yes
+T003426,A01409,2024-01-23,Integration Issue,Low,149,Yes
+T003427,A01411,2024-07-19,Bug Report,Medium,,No
+T003428,A01411,2024-10-19,Bug Report,Medium,83,Yes
+T003429,A01413,2024-02-05,Onboarding Help,Low,94,Yes
+T003430,A01413,2024-04-18,Billing,Medium,,No
+T003431,A01414,2024-10-28,Performance,High,38,Yes
+T003432,A01416,2024-12-25,Bug Report,Low,37,Yes
+T003433,A01417,2024-09-22,Performance,Medium,,No
+T003434,A01418,2024-12-14,Feature Request,Medium,46,Yes
+T003435,A01418,2024-03-31,Integration Issue,Medium,14,Yes
+T003436,A01418,2023-06-25,Bug Report,Low,30,Yes
+T003437,A01419,2024-12-20,Onboarding Help,Medium,18,Yes
+T003438,A01419,2024-11-07,Onboarding Help,Medium,37,Yes
+T003439,A01419,2024-04-29,Feature Request,Medium,96,Yes
+T003440,A01419,2024-05-03,Performance,Medium,,No
+T003441,A01419,2024-06-26,Billing,High,,No
+T003442,A01419,2024-06-18,Bug Report,Medium,78,Yes
+T003443,A01419,2024-06-06,Performance,Medium,95,Yes
+T003444,A01419,2024-06-09,Integration Issue,Low,134,Yes
+T003445,A01420,2024-11-11,Onboarding Help,Medium,94,Yes
+T003446,A01421,2024-12-27,Billing,Medium,34,Yes
+T003447,A01421,2024-10-01,Integration Issue,High,45,Yes
+T003448,A01423,2024-11-23,Bug Report,Low,59,Yes
+T003449,A01423,2024-06-27,Bug Report,Low,,No
+T003450,A01423,2024-09-07,Bug Report,Low,30,Yes
+T003451,A01424,2024-08-18,Bug Report,Low,39,Yes
+T003452,A01425,2024-02-17,Feature Request,Critical,6,Yes
+T003453,A01425,2024-09-30,Feature Request,Medium,17,Yes
+T003454,A01425,2024-02-04,Feature Request,Low,,No
+T003455,A01426,2024-11-24,Billing,Medium,,No
+T003456,A01426,2023-09-26,Performance,Low,87,Yes
+T003457,A01427,2024-06-30,Bug Report,Medium,55,Yes
+T003458,A01427,2024-12-14,Feature Request,Low,121,Yes
+T003459,A01428,2024-09-19,Performance,Low,37,Yes
+T003460,A01428,2024-11-03,Billing,High,8,Yes
+T003461,A01428,2024-10-10,Integration Issue,High,,No
+T003462,A01429,2024-09-09,Bug Report,Low,,No
+T003463,A01429,2024-06-01,Feature Request,Medium,89,Yes
+T003464,A01429,2023-06-28,Billing,Critical,7,Yes
+T003465,A01430,2024-05-14,Onboarding Help,Medium,44,Yes
+T003466,A01430,2024-08-03,Integration Issue,High,,No
+T003467,A01431,2024-09-30,Feature Request,Low,99,Yes
+T003468,A01431,2024-10-16,Integration Issue,Low,62,Yes
+T003469,A01431,2024-09-29,Feature Request,Low,62,Yes
+T003470,A01431,2024-06-12,Bug Report,Critical,4,Yes
+T003471,A01431,2024-10-03,Integration Issue,Medium,57,Yes
+T003472,A01431,2024-09-16,Integration Issue,Low,,No
+T003473,A01431,2024-07-03,Onboarding Help,Medium,32,Yes
+T003474,A01431,2024-07-06,Performance,Critical,4,Yes
+T003475,A01433,2024-11-23,Bug Report,High,,No
+T003476,A01434,2024-03-25,Billing,Medium,29,Yes
+T003477,A01435,2024-03-06,Billing,Medium,48,Yes
+T003478,A01435,2024-06-26,Feature Request,Medium,59,Yes
+T003479,A01435,2024-10-04,Onboarding Help,Medium,29,Yes
+T003480,A01435,2024-07-28,Bug Report,Critical,1,Yes
+T003481,A01435,2024-04-30,Feature Request,Medium,33,Yes
+T003482,A01435,2024-05-24,Billing,Medium,41,Yes
+T003483,A01435,2024-06-18,Onboarding Help,Medium,18,Yes
+T003484,A01435,2024-05-28,Performance,High,44,Yes
+T003485,A01435,2024-06-05,Performance,Medium,92,Yes
+T003486,A01435,2024-10-25,Billing,Medium,38,Yes
+T003487,A01435,2024-10-31,Billing,Medium,57,Yes
+T003488,A01435,2024-07-22,Bug Report,Critical,7,Yes
+T003489,A01435,2024-04-17,Billing,Low,27,Yes
+T003490,A01435,2024-12-21,Billing,Critical,,No
+T003491,A01437,2024-09-20,Integration Issue,Medium,94,Yes
+T003492,A01437,2024-08-23,Integration Issue,High,16,Yes
+T003493,A01437,2024-09-30,Billing,Low,69,Yes
+T003494,A01437,2024-12-26,Bug Report,High,,No
+T003495,A01437,2024-06-09,Bug Report,High,26,Yes
+T003496,A01437,2024-09-03,Billing,High,,No
+T003497,A01437,2024-08-21,Feature Request,Low,109,Yes
+T003498,A01439,2024-03-22,Integration Issue,Medium,36,Yes
+T003499,A01439,2024-01-02,Performance,Medium,67,Yes
+T003500,A01439,2024-10-27,Integration Issue,Low,96,Yes
+T003501,A01439,2023-11-10,Feature Request,Critical,5,Yes
+T003502,A01439,2024-01-06,Performance,Critical,3,Yes
+T003503,A01440,2023-10-29,Onboarding Help,Low,55,Yes
+T003504,A01440,2024-07-24,Bug Report,High,13,Yes
+T003505,A01440,2023-11-09,Billing,High,43,Yes
+T003506,A01440,2024-02-23,Feature Request,Medium,,No
+T003507,A01440,2024-02-22,Performance,Medium,67,Yes
+T003508,A01440,2024-11-15,Billing,Medium,56,Yes
+T003509,A01440,2024-08-11,Bug Report,Medium,19,Yes
+T003510,A01440,2024-11-24,Integration Issue,High,34,Yes
+T003511,A01441,2024-12-06,Billing,Medium,87,Yes
+T003512,A01441,2024-12-04,Integration Issue,Medium,56,Yes
+T003513,A01441,2024-11-10,Integration Issue,High,6,Yes
+T003514,A01442,2024-01-22,Performance,Medium,63,Yes
+T003515,A01442,2023-09-01,Integration Issue,High,22,Yes
+T003516,A01442,2023-11-21,Billing,Low,,No
+T003517,A01443,2024-10-24,Bug Report,Medium,68,Yes
+T003518,A01443,2024-03-04,Onboarding Help,Medium,47,Yes
+T003519,A01443,2024-05-28,Bug Report,Medium,21,Yes
+T003520,A01444,2024-09-02,Bug Report,Critical,4,Yes
+T003521,A01444,2024-10-04,Onboarding Help,Medium,83,Yes
+T003522,A01445,2023-11-02,Feature Request,Medium,22,Yes
+T003523,A01445,2024-07-24,Billing,Low,73,Yes
+T003524,A01445,2024-07-26,Billing,Medium,57,Yes
+T003525,A01446,2024-12-01,Billing,Low,45,Yes
+T003526,A01446,2024-03-13,Onboarding Help,Low,87,Yes
+T003527,A01446,2024-12-26,Feature Request,Medium,70,Yes
+T003528,A01447,2024-12-10,Feature Request,Medium,55,Yes
+T003529,A01447,2024-12-30,Billing,High,,No
+T003530,A01448,2024-11-30,Performance,Medium,,No
+T003531,A01448,2024-11-04,Billing,High,28,Yes
+T003532,A01448,2024-04-08,Bug Report,Medium,69,Yes
+T003533,A01448,2023-03-15,Onboarding Help,High,4,Yes
+T003534,A01448,2023-02-13,Billing,Medium,23,Yes
+T003535,A01448,2023-06-15,Integration Issue,High,46,Yes
+T003536,A01448,2024-01-02,Performance,Low,137,Yes
+T003537,A01448,2024-08-10,Performance,Critical,7,Yes
+T003538,A01448,2023-09-30,Onboarding Help,Medium,17,Yes
+T003539,A01448,2024-06-16,Feature Request,Medium,71,Yes
+T003540,A01448,2023-10-16,Integration Issue,Low,82,Yes
+T003541,A01448,2024-01-07,Integration Issue,Medium,26,Yes
+T003542,A01448,2024-06-11,Billing,Medium,59,Yes
+T003543,A01449,2024-09-22,Onboarding Help,Critical,6,Yes
+T003544,A01449,2024-06-09,Bug Report,Low,,No
+T003545,A01449,2024-12-25,Integration Issue,Medium,63,Yes
+T003546,A01449,2024-06-06,Onboarding Help,Low,31,Yes
+T003547,A01449,2024-10-11,Onboarding Help,Medium,61,Yes
+T003548,A01450,2024-11-13,Billing,Medium,68,Yes
+T003549,A01450,2024-12-08,Integration Issue,High,45,Yes
+T003550,A01450,2024-11-16,Performance,High,20,Yes
+T003551,A01452,2023-12-19,Billing,Low,51,Yes
+T003552,A01453,2024-01-24,Onboarding Help,Low,87,Yes
+T003553,A01453,2024-05-30,Billing,Medium,26,Yes
+T003554,A01453,2024-07-19,Feature Request,Low,30,Yes
+T003555,A01454,2024-10-29,Bug Report,Medium,82,Yes
+T003556,A01454,2024-02-05,Billing,Low,114,Yes
+T003557,A01454,2023-11-20,Feature Request,Low,147,Yes
+T003558,A01455,2024-12-30,Feature Request,Medium,64,Yes
+T003559,A01455,2024-12-10,Billing,High,19,Yes
+T003560,A01455,2024-12-16,Feature Request,Low,31,Yes
+T003561,A01456,2023-11-06,Feature Request,High,46,Yes
+T003562,A01456,2024-02-24,Performance,Low,95,Yes
+T003563,A01457,2024-10-24,Bug Report,Medium,70,Yes
+T003564,A01458,2024-12-28,Integration Issue,High,34,Yes
+T003565,A01458,2024-11-15,Performance,Critical,,No
+T003566,A01459,2024-10-07,Bug Report,Critical,8,Yes
+T003567,A01459,2024-08-22,Performance,High,18,Yes
+T003568,A01459,2024-10-23,Onboarding Help,Low,,No
+T003569,A01460,2024-10-19,Billing,Medium,73,Yes
+T003570,A01460,2024-11-12,Onboarding Help,Medium,89,Yes
+T003571,A01460,2024-06-12,Performance,Medium,83,Yes
+T003572,A01462,2024-08-16,Feature Request,Critical,1,Yes
+T003573,A01463,2024-06-21,Onboarding Help,Low,111,Yes
+T003574,A01463,2024-07-10,Bug Report,Medium,93,Yes
+T003575,A01463,2024-12-25,Onboarding Help,High,43,Yes
+T003576,A01465,2024-10-14,Bug Report,Low,,No
+T003577,A01465,2024-09-03,Feature Request,Medium,44,Yes
+T003578,A01465,2024-10-02,Performance,Medium,,No
+T003579,A01465,2024-06-22,Performance,Medium,90,Yes
+T003580,A01465,2024-09-29,Onboarding Help,Low,,No
+T003581,A01465,2024-07-11,Onboarding Help,Medium,59,Yes
+T003582,A01465,2024-12-25,Feature Request,Low,70,Yes
+T003583,A01465,2024-06-03,Performance,Critical,1,Yes
+T003584,A01466,2024-12-28,Bug Report,Low,110,Yes
+T003585,A01466,2024-12-22,Performance,Low,126,Yes
+T003586,A01466,2024-12-28,Onboarding Help,Medium,54,Yes
+T003587,A01467,2024-02-15,Onboarding Help,Critical,7,Yes
+T003588,A01467,2023-10-06,Billing,Low,145,Yes
+T003589,A01467,2024-10-27,Performance,Medium,58,Yes
+T003590,A01471,2024-12-05,Feature Request,Low,43,Yes
+T003591,A01471,2024-11-14,Performance,Medium,59,Yes
+T003592,A01471,2024-11-21,Performance,Critical,4,Yes
+T003593,A01471,2024-12-30,Billing,High,27,Yes
+T003594,A01472,2024-02-09,Performance,High,9,Yes
+T003595,A01473,2023-07-22,Feature Request,Low,163,Yes
+T003596,A01474,2024-05-15,Feature Request,Low,91,Yes
+T003597,A01474,2024-12-09,Billing,High,32,Yes
+T003598,A01474,2024-09-29,Bug Report,Medium,,No
+T003599,A01475,2023-09-26,Integration Issue,Low,115,Yes
+T003600,A01475,2024-08-21,Integration Issue,Low,48,Yes
+T003601,A01475,2023-10-17,Performance,Medium,61,Yes
+T003602,A01475,2024-08-22,Billing,Low,161,Yes
+T003603,A01475,2024-11-14,Feature Request,Medium,78,Yes
+T003604,A01475,2023-07-01,Integration Issue,Medium,79,Yes
+T003605,A01475,2024-10-21,Onboarding Help,High,21,Yes
+T003606,A01475,2023-06-09,Performance,Medium,93,Yes
+T003607,A01475,2023-05-30,Performance,High,7,Yes
+T003608,A01475,2024-03-19,Performance,Low,159,Yes
+T003609,A01475,2023-12-03,Onboarding Help,Low,127,Yes
+T003610,A01475,2023-10-30,Onboarding Help,Medium,19,Yes
+T003611,A01475,2023-02-17,Integration Issue,High,12,Yes
+T003612,A01476,2024-12-18,Billing,High,39,Yes
+T003613,A01477,2024-12-26,Feature Request,Low,127,Yes
+T003614,A01477,2024-10-17,Performance,Medium,,No
+T003615,A01477,2024-10-24,Billing,Medium,32,Yes
+T003616,A01477,2024-07-25,Billing,Critical,3,Yes
+T003617,A01477,2024-11-19,Feature Request,High,33,Yes
+T003618,A01478,2024-07-25,Integration Issue,Medium,75,Yes
+T003619,A01478,2024-09-30,Feature Request,Low,138,Yes
+T003620,A01481,2024-07-21,Onboarding Help,Medium,16,Yes
+T003621,A01481,2024-08-25,Bug Report,Medium,91,Yes
+T003622,A01482,2024-09-24,Billing,Low,92,Yes
+T003623,A01482,2024-11-10,Onboarding Help,Medium,84,Yes
+T003624,A01482,2024-07-16,Onboarding Help,High,9,Yes
+T003625,A01483,2024-09-06,Feature Request,Medium,16,Yes
+T003626,A01483,2024-07-03,Performance,Medium,,No
+T003627,A01483,2024-09-05,Billing,Medium,43,Yes
+T003628,A01483,2024-12-24,Performance,High,23,Yes
+T003629,A01483,2024-11-15,Integration Issue,Medium,38,Yes
+T003630,A01483,2024-12-01,Bug Report,Medium,87,Yes
+T003631,A01483,2024-06-27,Integration Issue,Low,107,Yes
+T003632,A01484,2024-04-26,Performance,Medium,75,Yes
+T003633,A01484,2024-02-13,Performance,Medium,34,Yes
+T003634,A01484,2024-11-28,Feature Request,Medium,40,Yes
+T003635,A01484,2024-06-29,Feature Request,Medium,65,Yes
+T003636,A01484,2024-08-05,Bug Report,Medium,90,Yes
+T003637,A01484,2024-09-02,Feature Request,Critical,,No
+T003638,A01484,2024-04-11,Performance,Low,66,Yes
+T003639,A01485,2024-08-13,Bug Report,Low,159,Yes
+T003640,A01486,2024-03-01,Feature Request,Low,54,Yes
+T003641,A01486,2024-04-17,Bug Report,Medium,,No
+T003642,A01487,2024-09-10,Feature Request,Medium,95,Yes
+T003643,A01487,2023-08-11,Integration Issue,Medium,19,Yes
+T003644,A01487,2023-08-03,Billing,High,39,Yes
+T003645,A01489,2024-08-23,Bug Report,Medium,91,Yes
+T003646,A01489,2024-06-30,Onboarding Help,Low,,No
+T003647,A01489,2024-12-20,Onboarding Help,High,23,Yes
+T003648,A01490,2024-11-19,Bug Report,High,32,Yes
+T003649,A01490,2024-11-27,Onboarding Help,Critical,6,Yes
+T003650,A01490,2024-12-26,Performance,High,4,Yes
+T003651,A01490,2024-11-27,Billing,Medium,,No
+T003652,A01490,2024-12-15,Onboarding Help,Medium,66,Yes
+T003653,A01491,2024-02-18,Onboarding Help,High,45,Yes
+T003654,A01491,2023-06-24,Bug Report,High,28,Yes
+T003655,A01491,2024-07-10,Integration Issue,High,20,Yes
+T003656,A01491,2024-11-24,Feature Request,Low,143,Yes
+T003657,A01491,2024-07-03,Feature Request,Critical,8,Yes
+T003658,A01491,2024-11-24,Bug Report,Medium,40,Yes
+T003659,A01491,2023-09-26,Onboarding Help,Medium,47,Yes
+T003660,A01492,2024-01-26,Billing,Medium,,No
+T003661,A01492,2023-12-20,Bug Report,Low,90,Yes
+T003662,A01492,2024-09-14,Integration Issue,Low,73,Yes
+T003663,A01492,2024-06-02,Feature Request,Medium,34,Yes
+T003664,A01492,2023-09-24,Billing,Low,87,Yes
+T003665,A01492,2023-10-29,Feature Request,Medium,59,Yes
+T003666,A01492,2023-09-30,Feature Request,High,37,Yes
+T003667,A01492,2024-10-13,Integration Issue,Low,,No
+T003668,A01492,2024-12-09,Feature Request,Medium,27,Yes
+T003669,A01495,2024-12-05,Integration Issue,Medium,56,Yes
+T003670,A01495,2024-12-15,Performance,Medium,63,Yes
+T003671,A01495,2024-12-22,Onboarding Help,Low,87,Yes
+T003672,A01497,2024-12-30,Bug Report,Medium,51,Yes
+T003673,A01497,2024-12-29,Onboarding Help,High,8,Yes
+T003674,A01498,2024-04-11,Performance,Medium,21,Yes
+T003675,A01499,2024-12-12,Onboarding Help,Medium,18,Yes
+T003676,A01499,2024-12-16,Performance,Low,154,Yes
+T003677,A01500,2024-05-29,Bug Report,Low,,No
+T003678,A01500,2024-07-25,Onboarding Help,Low,26,Yes
+T003679,A01500,2024-07-03,Onboarding Help,Medium,95,Yes
+T003680,A01500,2024-11-18,Integration Issue,Medium,75,Yes
+T003681,A01500,2024-06-12,Onboarding Help,Medium,39,Yes
+T003682,A01500,2024-05-24,Integration Issue,Low,45,Yes
